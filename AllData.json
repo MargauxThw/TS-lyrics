@@ -38587,6 +38587,591 @@
                 "num": 56,
                 "section": "[Outro]"
             }
+        ],
+        "State Of Grace (Acoustic Version) (Taylor's Version)": [
+            {
+                "prev": "",
+                "this": "I'm walking fast through the traffic lights",
+                "next": "Busy streets and busy lives",
+                "num": 1,
+                "section": "[Verse 1]"
+            },
+            {
+                "prev": "I'm walking fast through the traffic lights",
+                "this": "Busy streets and busy lives",
+                "next": "And all we know is touch and go",
+                "num": 2,
+                "section": "[Verse 1]"
+            },
+            {
+                "prev": "Busy streets and busy lives",
+                "this": "And all we know is touch and go",
+                "next": "We are alone with our changing minds",
+                "num": 3,
+                "section": "[Verse 1]"
+            },
+            {
+                "prev": "And all we know is touch and go",
+                "this": "We are alone with our changing minds",
+                "next": "We fall in love 'til it hurts or bleeds",
+                "num": 4,
+                "section": "[Verse 1]"
+            },
+            {
+                "prev": "We are alone with our changing minds",
+                "this": "We fall in love 'til it hurts or bleeds",
+                "next": "Or fades in time",
+                "num": 5,
+                "section": "[Verse 1]"
+            },
+            {
+                "prev": "We fall in love 'til it hurts or bleeds",
+                "this": "Or fades in time",
+                "next": "And I never (Never)",
+                "num": 6,
+                "section": "[Verse 1]"
+            },
+            {
+                "prev": "Or fades in time",
+                "this": "And I never (Never)",
+                "next": "Saw you coming",
+                "num": 7,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "And I never (Never)",
+                "this": "Saw you coming",
+                "next": "And I'll never (Never)",
+                "num": 8,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "Saw you coming",
+                "this": "And I'll never (Never)",
+                "next": "Be the same",
+                "num": 9,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "And I'll never (Never)",
+                "this": "Be the same",
+                "next": "You come around and the armor falls",
+                "num": 10,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "Be the same",
+                "this": "You come around and the armor falls",
+                "next": "Pierce the room like a cannonball",
+                "num": 11,
+                "section": "[Verse 2]"
+            },
+            {
+                "prev": "You come around and the armor falls",
+                "this": "Pierce the room like a cannonball",
+                "next": "Now all we know is don't let go",
+                "num": 12,
+                "section": "[Verse 2]"
+            },
+            {
+                "prev": "Pierce the room like a cannonball",
+                "this": "Now all we know is don't let go",
+                "next": "We are alone, just you and me",
+                "num": 13,
+                "section": "[Verse 2]"
+            },
+            {
+                "prev": "Now all we know is don't let go",
+                "this": "We are alone, just you and me",
+                "next": "Up in your room and our slates are clean",
+                "num": 14,
+                "section": "[Verse 2]"
+            },
+            {
+                "prev": "We are alone, just you and me",
+                "this": "Up in your room and our slates are clean",
+                "next": "Just twin fire signs, four blue eyes",
+                "num": 15,
+                "section": "[Verse 2]"
+            },
+            {
+                "prev": "Up in your room and our slates are clean",
+                "this": "Just twin fire signs, four blue eyes",
+                "next": "So you were never a saint",
+                "num": 16,
+                "section": "[Verse 2]"
+            },
+            {
+                "prev": "Just twin fire signs, four blue eyes",
+                "this": "So you were never a saint",
+                "next": "And I've loved in shades of wrong",
+                "num": 17,
+                "section": "[Pre-Chorus]"
+            },
+            {
+                "prev": "So you were never a saint",
+                "this": "And I've loved in shades of wrong",
+                "next": "We learn to live with the pain",
+                "num": 18,
+                "section": "[Pre-Chorus]"
+            },
+            {
+                "prev": "And I've loved in shades of wrong",
+                "this": "We learn to live with the pain",
+                "next": "Mosaic broken hearts",
+                "num": 19,
+                "section": "[Pre-Chorus]"
+            },
+            {
+                "prev": "We learn to live with the pain",
+                "this": "Mosaic broken hearts",
+                "next": "But this love is brave and wild",
+                "num": 20,
+                "section": "[Pre-Chorus]"
+            },
+            {
+                "prev": "Mosaic broken hearts",
+                "this": "But this love is brave and wild",
+                "next": "And I never (Never)",
+                "num": 21,
+                "section": "[Pre-Chorus]"
+            },
+            {
+                "prev": "But this love is brave and wild",
+                "this": "And I never (Never)",
+                "next": "Saw you coming",
+                "num": 22,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "And I never (Never)",
+                "this": "Saw you coming",
+                "next": "And I'll never (Never)",
+                "num": 23,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "Saw you coming",
+                "this": "And I'll never (Never)",
+                "next": "Be the same",
+                "num": 24,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "And I'll never (Never)",
+                "this": "Be the same",
+                "next": "This is a state of grace",
+                "num": 25,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "Be the same",
+                "this": "This is a state of grace",
+                "next": "This is the worthwhile fight",
+                "num": 26,
+                "section": "[Bridge]"
+            },
+            {
+                "prev": "This is a state of grace",
+                "this": "This is the worthwhile fight",
+                "next": "Love is a ruthless game",
+                "num": 27,
+                "section": "[Bridge]"
+            },
+            {
+                "prev": "This is the worthwhile fight",
+                "this": "Love is a ruthless game",
+                "next": "Unless you play it good and right",
+                "num": 28,
+                "section": "[Bridge]"
+            },
+            {
+                "prev": "Love is a ruthless game",
+                "this": "Unless you play it good and right",
+                "next": "These are the hands of fate",
+                "num": 29,
+                "section": "[Bridge]"
+            },
+            {
+                "prev": "Unless you play it good and right",
+                "this": "These are the hands of fate",
+                "next": "You're my Achilles heel",
+                "num": 30,
+                "section": "[Bridge]"
+            },
+            {
+                "prev": "These are the hands of fate",
+                "this": "You're my Achilles heel",
+                "next": "This is the golden age",
+                "num": 31,
+                "section": "[Bridge]"
+            },
+            {
+                "prev": "You're my Achilles heel",
+                "this": "This is the golden age",
+                "next": "Of something good and right and real",
+                "num": 32,
+                "section": "[Bridge]"
+            },
+            {
+                "prev": "This is the golden age",
+                "this": "Of something good and right and real",
+                "next": "And I never (Never)",
+                "num": 33,
+                "section": "[Bridge]"
+            },
+            {
+                "prev": "Of something good and right and real",
+                "this": "And I never (Never)",
+                "next": "Saw you coming",
+                "num": 34,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "And I never (Never)",
+                "this": "Saw you coming",
+                "next": "And I'll never",
+                "num": 35,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "Saw you coming",
+                "this": "And I'll never",
+                "next": "Be the same",
+                "num": 36,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "And I'll never",
+                "this": "Be the same",
+                "next": "And I never (Never)",
+                "num": 37,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "Be the same",
+                "this": "And I never (Never)",
+                "next": "Saw you coming",
+                "num": 38,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "And I never (Never)",
+                "this": "Saw you coming",
+                "next": "And I'll never (So you were never a saint)",
+                "num": 39,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "Saw you coming",
+                "this": "And I'll never (So you were never a saint)",
+                "next": "(And I've loved in shades of wrong)",
+                "num": 40,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "And I'll never (So you were never a saint)",
+                "this": "(And I've loved in shades of wrong)",
+                "next": "Be the same (We learn to live with the pain)",
+                "num": 41,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "(And I've loved in shades of wrong)",
+                "this": "Be the same (We learn to live with the pain)",
+                "next": "(Mosaic broken hearts)",
+                "num": 42,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "Be the same (We learn to live with the pain)",
+                "this": "(Mosaic broken hearts)",
+                "next": "(But this love is brave and wild)",
+                "num": 43,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "(Mosaic broken hearts)",
+                "this": "(But this love is brave and wild)",
+                "next": "This is a state of grace",
+                "num": 44,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "(But this love is brave and wild)",
+                "this": "This is a state of grace",
+                "next": "This is the worthwhile fight",
+                "num": 45,
+                "section": "[Outro]"
+            },
+            {
+                "prev": "This is a state of grace",
+                "this": "This is the worthwhile fight",
+                "next": "Love is a ruthless game",
+                "num": 46,
+                "section": "[Outro]"
+            },
+            {
+                "prev": "This is the worthwhile fight",
+                "this": "Love is a ruthless game",
+                "next": "Unless you play it good and right",
+                "num": 47,
+                "section": "[Outro]"
+            },
+            {
+                "prev": "Love is a ruthless game",
+                "this": "Unless you play it good and right",
+                "next": "",
+                "num": 48,
+                "section": "[Outro]"
+            }
+        ],
+        "Ronan (Taylor's Version)": [
+            {
+                "prev": "",
+                "this": "I remember your bare feet, down the hallway",
+                "next": "I remember your little laugh",
+                "num": 1,
+                "section": "[Verse 1]"
+            },
+            {
+                "prev": "I remember your bare feet, down the hallway",
+                "this": "I remember your little laugh",
+                "next": "Race cars on the kitchen floor, plastic dinosaurs",
+                "num": 2,
+                "section": "[Verse 1]"
+            },
+            {
+                "prev": "I remember your little laugh",
+                "this": "Race cars on the kitchen floor, plastic dinosaurs",
+                "next": "I love you to the moon and back",
+                "num": 3,
+                "section": "[Verse 1]"
+            },
+            {
+                "prev": "Race cars on the kitchen floor, plastic dinosaurs",
+                "this": "I love you to the moon and back",
+                "next": "I remember your blue eyes looking into mine",
+                "num": 4,
+                "section": "[Verse 1]"
+            },
+            {
+                "prev": "I love you to the moon and back",
+                "this": "I remember your blue eyes looking into mine",
+                "next": "Like we had our own secret club",
+                "num": 5,
+                "section": "[Verse 1]"
+            },
+            {
+                "prev": "I remember your blue eyes looking into mine",
+                "this": "Like we had our own secret club",
+                "next": "I remember you dancing before bed time",
+                "num": 6,
+                "section": "[Verse 1]"
+            },
+            {
+                "prev": "Like we had our own secret club",
+                "this": "I remember you dancing before bed time",
+                "next": "Then jumping on me waking me up",
+                "num": 7,
+                "section": "[Verse 1]"
+            },
+            {
+                "prev": "I remember you dancing before bed time",
+                "this": "Then jumping on me waking me up",
+                "next": "I can still feel you hold my hand, little man",
+                "num": 8,
+                "section": "[Verse 1]"
+            },
+            {
+                "prev": "Then jumping on me waking me up",
+                "this": "I can still feel you hold my hand, little man",
+                "next": "And even the moment I knew",
+                "num": 9,
+                "section": "[Verse 1]"
+            },
+            {
+                "prev": "I can still feel you hold my hand, little man",
+                "this": "And even the moment I knew",
+                "next": "You fought it hard like an army guy",
+                "num": 10,
+                "section": "[Verse 1]"
+            },
+            {
+                "prev": "And even the moment I knew",
+                "this": "You fought it hard like an army guy",
+                "next": "Remember I leaned in and whispered to you",
+                "num": 11,
+                "section": "[Verse 1]"
+            },
+            {
+                "prev": "You fought it hard like an army guy",
+                "this": "Remember I leaned in and whispered to you",
+                "next": "Come on baby with me we're going to fly away from here",
+                "num": 12,
+                "section": "[Verse 1]"
+            },
+            {
+                "prev": "Remember I leaned in and whispered to you",
+                "this": "Come on baby with me we're going to fly away from here",
+                "next": "You were my best four years",
+                "num": 13,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "Come on baby with me we're going to fly away from here",
+                "this": "You were my best four years",
+                "next": "I remember the drive home",
+                "num": 14,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "You were my best four years",
+                "this": "I remember the drive home",
+                "next": "When the blind hope turned to crying and screaming 'Why?'",
+                "num": 15,
+                "section": "[Verse 2]"
+            },
+            {
+                "prev": "I remember the drive home",
+                "this": "When the blind hope turned to crying and screaming 'Why?'",
+                "next": "Flowers pile up in the worst way, no one knows what to say",
+                "num": 16,
+                "section": "[Verse 2]"
+            },
+            {
+                "prev": "When the blind hope turned to crying and screaming 'Why?'",
+                "this": "Flowers pile up in the worst way, no one knows what to say",
+                "next": "About a beautiful boy who died",
+                "num": 17,
+                "section": "[Verse 2]"
+            },
+            {
+                "prev": "Flowers pile up in the worst way, no one knows what to say",
+                "this": "About a beautiful boy who died",
+                "next": "And it's about to be Halloween",
+                "num": 18,
+                "section": "[Verse 2]"
+            },
+            {
+                "prev": "About a beautiful boy who died",
+                "this": "And it's about to be Halloween",
+                "next": "You could be anything you wanted, if you were still here",
+                "num": 19,
+                "section": "[Verse 2]"
+            },
+            {
+                "prev": "And it's about to be Halloween",
+                "this": "You could be anything you wanted, if you were still here",
+                "next": "I remember the last day, when I kissed your face",
+                "num": 20,
+                "section": "[Verse 2]"
+            },
+            {
+                "prev": "You could be anything you wanted, if you were still here",
+                "this": "I remember the last day, when I kissed your face",
+                "next": "I whispered in your ear",
+                "num": 21,
+                "section": "[Verse 2]"
+            },
+            {
+                "prev": "I remember the last day, when I kissed your face",
+                "this": "I whispered in your ear",
+                "next": "Come on baby with me we're going to fly away from here",
+                "num": 22,
+                "section": "[Verse 2]"
+            },
+            {
+                "prev": "I whispered in your ear",
+                "this": "Come on baby with me we're going to fly away from here",
+                "next": "Out of this curtain room and this hospital grey, we'll just disappear",
+                "num": 23,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "Come on baby with me we're going to fly away from here",
+                "this": "Out of this curtain room and this hospital grey, we'll just disappear",
+                "next": "Come on baby with me we're going to fly away from here",
+                "num": 24,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "Out of this curtain room and this hospital grey, we'll just disappear",
+                "this": "Come on baby with me we're going to fly away from here",
+                "next": "You were my best four years",
+                "num": 25,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "Come on baby with me we're going to fly away from here",
+                "this": "You were my best four years",
+                "next": "What if I'm standing in your closet trying to talk to you?",
+                "num": 26,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "You were my best four years",
+                "this": "What if I'm standing in your closet trying to talk to you?",
+                "next": "What if I kept the hand-me-downs you won't grow into?",
+                "num": 27,
+                "section": "[Bridge]"
+            },
+            {
+                "prev": "What if I'm standing in your closet trying to talk to you?",
+                "this": "What if I kept the hand-me-downs you won't grow into?",
+                "next": "And what if I really thought some miracle would see us through?",
+                "num": 28,
+                "section": "[Bridge]"
+            },
+            {
+                "prev": "What if I kept the hand-me-downs you won't grow into?",
+                "this": "And what if I really thought some miracle would see us through?",
+                "next": "What if the miracle was even getting one moment with you?",
+                "num": 29,
+                "section": "[Bridge]"
+            },
+            {
+                "prev": "And what if I really thought some miracle would see us through?",
+                "this": "What if the miracle was even getting one moment with you?",
+                "next": "Come on baby with me we're going to fly away from here",
+                "num": 30,
+                "section": "[Bridge]"
+            },
+            {
+                "prev": "What if the miracle was even getting one moment with you?",
+                "this": "Come on baby with me we're going to fly away from here",
+                "next": "Come on baby with me we're going to fly away from here",
+                "num": 31,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "Come on baby with me we're going to fly away from here",
+                "this": "Come on baby with me we're going to fly away from here",
+                "next": "You were my best four years",
+                "num": 32,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "Come on baby with me we're going to fly away from here",
+                "this": "You were my best four years",
+                "next": "I remember your bare feet, down the hallway",
+                "num": 33,
+                "section": "[Chorus]"
+            },
+            {
+                "prev": "You were my best four years",
+                "this": "I remember your bare feet, down the hallway",
+                "next": "I love you to the moon and back",
+                "num": 34,
+                "section": "[Outro]"
+            },
+            {
+                "prev": "I remember your bare feet, down the hallway",
+                "this": "I love you to the moon and back",
+                "next": "",
+                "num": 35,
+                "section": "[Outro]"
+            }
         ]
     },
     "Speak Now": {
@@ -59717,253 +60302,6 @@
                 "next": "",
                 "num": 48,
                 "section": "[Outro: Taylor Swift & Justin Vernon]"
-            }
-        ],
-        "Ronan": [
-            {
-                "prev": "",
-                "this": "I remember your bare feet, down the hallway",
-                "next": "I remember your little laugh",
-                "num": 1,
-                "section": "[Verse 1]"
-            },
-            {
-                "prev": "I remember your bare feet, down the hallway",
-                "this": "I remember your little laugh",
-                "next": "Race cars on the kitchen floor, plastic dinosaurs",
-                "num": 2,
-                "section": "[Verse 1]"
-            },
-            {
-                "prev": "I remember your little laugh",
-                "this": "Race cars on the kitchen floor, plastic dinosaurs",
-                "next": "I love you to the moon and back",
-                "num": 3,
-                "section": "[Verse 1]"
-            },
-            {
-                "prev": "Race cars on the kitchen floor, plastic dinosaurs",
-                "this": "I love you to the moon and back",
-                "next": "I remember your blue eyes looking into mine",
-                "num": 4,
-                "section": "[Verse 1]"
-            },
-            {
-                "prev": "I love you to the moon and back",
-                "this": "I remember your blue eyes looking into mine",
-                "next": "Like we had our own secret club",
-                "num": 5,
-                "section": "[Verse 1]"
-            },
-            {
-                "prev": "I remember your blue eyes looking into mine",
-                "this": "Like we had our own secret club",
-                "next": "I remember you dancing before bed time",
-                "num": 6,
-                "section": "[Verse 1]"
-            },
-            {
-                "prev": "Like we had our own secret club",
-                "this": "I remember you dancing before bed time",
-                "next": "Then jumping on me waking me up",
-                "num": 7,
-                "section": "[Verse 1]"
-            },
-            {
-                "prev": "I remember you dancing before bed time",
-                "this": "Then jumping on me waking me up",
-                "next": "I can still feel you hold my hand, little man",
-                "num": 8,
-                "section": "[Verse 1]"
-            },
-            {
-                "prev": "Then jumping on me waking me up",
-                "this": "I can still feel you hold my hand, little man",
-                "next": "And even the moment I knew",
-                "num": 9,
-                "section": "[Verse 1]"
-            },
-            {
-                "prev": "I can still feel you hold my hand, little man",
-                "this": "And even the moment I knew",
-                "next": "You fought it hard like an army guy",
-                "num": 10,
-                "section": "[Verse 1]"
-            },
-            {
-                "prev": "And even the moment I knew",
-                "this": "You fought it hard like an army guy",
-                "next": "Remember I leaned in and whispered to you",
-                "num": 11,
-                "section": "[Verse 1]"
-            },
-            {
-                "prev": "You fought it hard like an army guy",
-                "this": "Remember I leaned in and whispered to you",
-                "next": "Come on baby with me we're going to fly away from here",
-                "num": 12,
-                "section": "[Verse 1]"
-            },
-            {
-                "prev": "Remember I leaned in and whispered to you",
-                "this": "Come on baby with me we're going to fly away from here",
-                "next": "You were my best four years",
-                "num": 13,
-                "section": "[Chorus]"
-            },
-            {
-                "prev": "Come on baby with me we're going to fly away from here",
-                "this": "You were my best four years",
-                "next": "I remember the drive home",
-                "num": 14,
-                "section": "[Chorus]"
-            },
-            {
-                "prev": "You were my best four years",
-                "this": "I remember the drive home",
-                "next": "When the blind hope turned to crying and screaming 'Why?'",
-                "num": 15,
-                "section": "[Verse 2]"
-            },
-            {
-                "prev": "I remember the drive home",
-                "this": "When the blind hope turned to crying and screaming 'Why?'",
-                "next": "Flowers pile up in the worst way, no one knows what to say",
-                "num": 16,
-                "section": "[Verse 2]"
-            },
-            {
-                "prev": "When the blind hope turned to crying and screaming 'Why?'",
-                "this": "Flowers pile up in the worst way, no one knows what to say",
-                "next": "About a beautiful boy who died",
-                "num": 17,
-                "section": "[Verse 2]"
-            },
-            {
-                "prev": "Flowers pile up in the worst way, no one knows what to say",
-                "this": "About a beautiful boy who died",
-                "next": "And it's about to be Halloween",
-                "num": 18,
-                "section": "[Verse 2]"
-            },
-            {
-                "prev": "About a beautiful boy who died",
-                "this": "And it's about to be Halloween",
-                "next": "You could be anything you wanted, if you were still here",
-                "num": 19,
-                "section": "[Verse 2]"
-            },
-            {
-                "prev": "And it's about to be Halloween",
-                "this": "You could be anything you wanted, if you were still here",
-                "next": "I remember the last day, when I kissed your face",
-                "num": 20,
-                "section": "[Verse 2]"
-            },
-            {
-                "prev": "You could be anything you wanted, if you were still here",
-                "this": "I remember the last day, when I kissed your face",
-                "next": "I whispered in your ear",
-                "num": 21,
-                "section": "[Verse 2]"
-            },
-            {
-                "prev": "I remember the last day, when I kissed your face",
-                "this": "I whispered in your ear",
-                "next": "Come on baby with me we're going to fly away from here",
-                "num": 22,
-                "section": "[Verse 2]"
-            },
-            {
-                "prev": "I whispered in your ear",
-                "this": "Come on baby with me we're going to fly away from here",
-                "next": "Out of this curtain room and this hospital grey, we'll just disappear",
-                "num": 23,
-                "section": "[Chorus]"
-            },
-            {
-                "prev": "Come on baby with me we're going to fly away from here",
-                "this": "Out of this curtain room and this hospital grey, we'll just disappear",
-                "next": "Come on baby with me we're going to fly away from here",
-                "num": 24,
-                "section": "[Chorus]"
-            },
-            {
-                "prev": "Out of this curtain room and this hospital grey, we'll just disappear",
-                "this": "Come on baby with me we're going to fly away from here",
-                "next": "You were my best four years",
-                "num": 25,
-                "section": "[Chorus]"
-            },
-            {
-                "prev": "Come on baby with me we're going to fly away from here",
-                "this": "You were my best four years",
-                "next": "What if I'm standing in your closet trying to talk to you?",
-                "num": 26,
-                "section": "[Chorus]"
-            },
-            {
-                "prev": "You were my best four years",
-                "this": "What if I'm standing in your closet trying to talk to you?",
-                "next": "What if I kept the hand-me-downs you won't grow into?",
-                "num": 27,
-                "section": "[Bridge]"
-            },
-            {
-                "prev": "What if I'm standing in your closet trying to talk to you?",
-                "this": "What if I kept the hand-me-downs you won't grow into?",
-                "next": "And what if I really thought some miracle would see us through?",
-                "num": 28,
-                "section": "[Bridge]"
-            },
-            {
-                "prev": "What if I kept the hand-me-downs you won't grow into?",
-                "this": "And what if I really thought some miracle would see us through?",
-                "next": "What if the miracle was even getting one moment with you?",
-                "num": 29,
-                "section": "[Bridge]"
-            },
-            {
-                "prev": "And what if I really thought some miracle would see us through?",
-                "this": "What if the miracle was even getting one moment with you?",
-                "next": "Come on baby with me we're going to fly away from here",
-                "num": 30,
-                "section": "[Bridge]"
-            },
-            {
-                "prev": "What if the miracle was even getting one moment with you?",
-                "this": "Come on baby with me we're going to fly away from here",
-                "next": "Come on baby with me we're going to fly away from here",
-                "num": 31,
-                "section": "[Chorus]"
-            },
-            {
-                "prev": "Come on baby with me we're going to fly away from here",
-                "this": "Come on baby with me we're going to fly away from here",
-                "next": "You were my best four years",
-                "num": 32,
-                "section": "[Chorus]"
-            },
-            {
-                "prev": "Come on baby with me we're going to fly away from here",
-                "this": "You were my best four years",
-                "next": "I remember your bare feet, down the hallway",
-                "num": 33,
-                "section": "[Chorus]"
-            },
-            {
-                "prev": "You were my best four years",
-                "this": "I remember your bare feet, down the hallway",
-                "next": "I love you to the moon and back",
-                "num": 34,
-                "section": "[Outro]"
-            },
-            {
-                "prev": "I remember your bare feet, down the hallway",
-                "this": "I love you to the moon and back",
-                "next": "",
-                "num": 35,
-                "section": "[Outro]"
             }
         ],
         "Safe & Sound": [
