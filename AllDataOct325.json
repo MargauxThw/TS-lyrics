@@ -2,11 +2,4555 @@
     "The Life of a Showgirl": {
         "The Fate of Ophelia": [
             {
+                "section": "[Verse 1]",
+                "num": 1,
+                "prev": "",
+                "this": "I heard you calling on the megaphone",
+                "next": "You wanna see me all alone"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 2,
+                "prev": "I heard you calling on the megaphone",
+                "this": "You wanna see me all alone",
+                "next": "As legend has it, you are quite the pyro"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 3,
+                "prev": "You wanna see me all alone",
+                "this": "As legend has it, you are quite the pyro",
+                "next": "You light the match to watch it blow"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 4,
+                "prev": "As legend has it, you are quite the pyro",
+                "this": "You light the match to watch it blow",
+                "next": "And if you'd never come for me"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 5,
+                "prev": "You light the match to watch it blow",
+                "this": "And if you'd never come for me",
+                "next": "I might've drowned in the melancholy"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 6,
+                "prev": "And if you'd never come for me",
+                "this": "I might've drowned in the melancholy",
+                "next": "I swore my loyalty to me, myself, and I"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 7,
+                "prev": "I might've drowned in the melancholy",
+                "this": "I swore my loyalty to me, myself, and I",
+                "next": "Right before you lit my sky up"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 8,
+                "prev": "I swore my loyalty to me, myself, and I",
+                "this": "Right before you lit my sky up",
+                "next": "All that time, I sat alone in my tower"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 9,
+                "prev": "Right before you lit my sky up",
+                "this": "All that time, I sat alone in my tower",
+                "next": "You were just honing your powers"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 10,
+                "prev": "All that time, I sat alone in my tower",
+                "this": "You were just honing your powers",
+                "next": "Now I can see it all (See it all)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 11,
+                "prev": "You were just honing your powers",
+                "this": "Now I can see it all (See it all)",
+                "next": "Late one night, you dug me out of my grave and"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 12,
+                "prev": "Now I can see it all (See it all)",
+                "this": "Late one night, you dug me out of my grave and",
+                "next": "Saved my heart from the fate of Ophelia (Ophelia)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 13,
+                "prev": "Late one night, you dug me out of my grave and",
+                "this": "Saved my heart from the fate of Ophelia (Ophelia)",
+                "next": "Keep it one hundred on the land, the sea, the sky"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 14,
+                "prev": "Saved my heart from the fate of Ophelia (Ophelia)",
+                "this": "Keep it one hundred on the land, the sea, the sky",
+                "next": "Pledge allegiance to your hands, your team, your vibes"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 15,
+                "prev": "Keep it one hundred on the land, the sea, the sky",
+                "this": "Pledge allegiance to your hands, your team, your vibes",
+                "next": "Don't care where the hell you been, 'cause now you're mine"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 16,
+                "prev": "Pledge allegiance to your hands, your team, your vibes",
+                "this": "Don't care where the hell you been, 'cause now you're mine",
+                "next": "It's 'bout to be the sleepless night you've been dreaming of"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 17,
+                "prev": "Don't care where the hell you been, 'cause now you're mine",
+                "this": "It's 'bout to be the sleepless night you've been dreaming of",
+                "next": "The fate of Ophelia"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 18,
+                "prev": "It's 'bout to be the sleepless night you've been dreaming of",
+                "this": "The fate of Ophelia",
+                "next": "The eldest daughter of a nobleman"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 19,
+                "prev": "The fate of Ophelia",
+                "this": "The eldest daughter of a nobleman",
+                "next": "Ophelia lived in fantasy"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 20,
+                "prev": "The eldest daughter of a nobleman",
+                "this": "Ophelia lived in fantasy",
+                "next": "But love was a cold bed full of scorpions"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 21,
+                "prev": "Ophelia lived in fantasy",
+                "this": "But love was a cold bed full of scorpions",
+                "next": "The venom stole her sanity"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 22,
+                "prev": "But love was a cold bed full of scorpions",
+                "this": "The venom stole her sanity",
+                "next": "And if you'd never come for me (Come for me)"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 23,
+                "prev": "The venom stole her sanity",
+                "this": "And if you'd never come for me (Come for me)",
+                "next": "I might've lingered in purgatory"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 24,
+                "prev": "And if you'd never come for me (Come for me)",
+                "this": "I might've lingered in purgatory",
+                "next": "You wrap around me like a chain (Chain), a crown (A crown), a vine (A vine)"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 25,
+                "prev": "I might've lingered in purgatory",
+                "this": "You wrap around me like a chain (Chain), a crown (A crown), a vine (A vine)",
+                "next": "Pulling me into the fire"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 26,
+                "prev": "You wrap around me like a chain (Chain), a crown (A crown), a vine (A vine)",
+                "this": "Pulling me into the fire",
+                "next": "All that time, I sat alone in my tower"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 27,
+                "prev": "Pulling me into the fire",
+                "this": "All that time, I sat alone in my tower",
+                "next": "You were just honing your powers"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 28,
+                "prev": "All that time, I sat alone in my tower",
+                "this": "You were just honing your powers",
+                "next": "Now I can see it all (See it all)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 29,
+                "prev": "You were just honing your powers",
+                "this": "Now I can see it all (See it all)",
+                "next": "Late one night, you dug me out of my grave and"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 30,
+                "prev": "Now I can see it all (See it all)",
+                "this": "Late one night, you dug me out of my grave and",
+                "next": "Saved my heart from the fate of Ophelia (Ophelia)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 31,
+                "prev": "Late one night, you dug me out of my grave and",
+                "this": "Saved my heart from the fate of Ophelia (Ophelia)",
+                "next": "Keep it one hundred on the land, the sea, the sky"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 32,
+                "prev": "Saved my heart from the fate of Ophelia (Ophelia)",
+                "this": "Keep it one hundred on the land, the sea, the sky",
+                "next": "Pledge allegiance to your hands, your team, your vibes"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 33,
+                "prev": "Keep it one hundred on the land, the sea, the sky",
+                "this": "Pledge allegiance to your hands, your team, your vibes",
+                "next": "Don't care where the hell you been, 'cause now you're mine"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 34,
+                "prev": "Pledge allegiance to your hands, your team, your vibes",
+                "this": "Don't care where the hell you been, 'cause now you're mine",
+                "next": "It's 'bout to be the sleepless night you've been dreaming of"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 35,
+                "prev": "Don't care where the hell you been, 'cause now you're mine",
+                "this": "It's 'bout to be the sleepless night you've been dreaming of",
+                "next": "The fate of Ophelia"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 36,
+                "prev": "It's 'bout to be the sleepless night you've been dreaming of",
+                "this": "The fate of Ophelia",
+                "next": "'Tis locked inside my memory"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 37,
+                "prev": "The fate of Ophelia",
+                "this": "'Tis locked inside my memory",
+                "next": "And only you possess the key"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 38,
+                "prev": "'Tis locked inside my memory",
+                "this": "And only you possess the key",
+                "next": "No longer drowning and deceived"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 39,
+                "prev": "And only you possess the key",
+                "this": "No longer drowning and deceived",
+                "next": "All because you came for me"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 40,
+                "prev": "No longer drowning and deceived",
+                "this": "All because you came for me",
+                "next": "Locked inside my memory"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 41,
+                "prev": "All because you came for me",
+                "this": "Locked inside my memory",
+                "next": "And only you possess the key"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 42,
+                "prev": "Locked inside my memory",
+                "this": "And only you possess the key",
+                "next": "No longer drowning and deceived"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 43,
+                "prev": "And only you possess the key",
+                "this": "No longer drowning and deceived",
+                "next": "All because you came for me"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 44,
+                "prev": "No longer drowning and deceived",
+                "this": "All because you came for me",
+                "next": "All that time, I sat alone in my tower"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 45,
+                "prev": "All because you came for me",
+                "this": "All that time, I sat alone in my tower",
+                "next": "You were just honing your powers"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 46,
+                "prev": "All that time, I sat alone in my tower",
+                "this": "You were just honing your powers",
+                "next": "Now I can see it all (I can see it all)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 47,
+                "prev": "You were just honing your powers",
+                "this": "Now I can see it all (I can see it all)",
+                "next": "Late one night, you dug me out of my grave and"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 48,
+                "prev": "Now I can see it all (I can see it all)",
+                "this": "Late one night, you dug me out of my grave and",
+                "next": "Saved my heart from the fate of Ophelia (Ophelia)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 49,
+                "prev": "Late one night, you dug me out of my grave and",
+                "this": "Saved my heart from the fate of Ophelia (Ophelia)",
+                "next": "Keep it one hundred on the land, the sea, the sky"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 50,
+                "prev": "Saved my heart from the fate of Ophelia (Ophelia)",
+                "this": "Keep it one hundred on the land, the sea, the sky",
+                "next": "Pledge allegiance to your hands, your team, your vibes"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 51,
+                "prev": "Keep it one hundred on the land, the sea, the sky",
+                "this": "Pledge allegiance to your hands, your team, your vibes",
+                "next": "Don't care where the hell you been, 'cause now you're mine"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 52,
+                "prev": "Pledge allegiance to your hands, your team, your vibes",
+                "this": "Don't care where the hell you been, 'cause now you're mine",
+                "next": "It's 'bout to be the sleepless night you've been dreaming of"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 53,
+                "prev": "Don't care where the hell you been, 'cause now you're mine",
+                "this": "It's 'bout to be the sleepless night you've been dreaming of",
+                "next": "The fate of Ophelia"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 54,
+                "prev": "It's 'bout to be the sleepless night you've been dreaming of",
+                "this": "The fate of Ophelia",
+                "next": "You saved my heart from the fate of Ophelia"
+            },
+            {
+                "section": "[Outro]",
+                "num": 55,
+                "prev": "The fate of Ophelia",
+                "this": "You saved my heart from the fate of Ophelia",
+                "next": ""
+            }
+        ],
+        "Elizabeth Taylor": [
+            {
+                "section": "[Intro]",
+                "num": 1,
+                "prev": "",
+                "this": "Elizabeth Taylor",
+                "next": "Do you think it's forever?"
+            },
+            {
+                "section": "[Intro]",
+                "num": 2,
+                "prev": "Elizabeth Taylor",
+                "this": "Do you think it's forever?",
+                "next": "That view of Portofino was on my mind when you called me at the Plaza Athénée"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 3,
+                "prev": "Do you think it's forever?",
+                "this": "That view of Portofino was on my mind when you called me at the Plaza Athénée",
+                "next": "Ooh, oftentimes it doesn't feel so glamorous to be me"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 4,
+                "prev": "That view of Portofino was on my mind when you called me at the Plaza Athénée",
+                "this": "Ooh, oftentimes it doesn't feel so glamorous to be me",
+                "next": "All the right guys promised they'd stay"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 5,
+                "prev": "Ooh, oftentimes it doesn't feel so glamorous to be me",
+                "this": "All the right guys promised they'd stay",
+                "next": "Under bright lights, they withered away, but you bloom"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 6,
+                "prev": "All the right guys promised they'd stay",
+                "this": "Under bright lights, they withered away, but you bloom",
+                "next": "Portofino was on my mind (And I think you know why)"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 7,
+                "prev": "Under bright lights, they withered away, but you bloom",
+                "this": "Portofino was on my mind (And I think you know why)",
+                "next": "And if your letters ever said, \"Goodbye\""
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 8,
+                "prev": "Portofino was on my mind (And I think you know why)",
+                "this": "And if your letters ever said, \"Goodbye\"",
+                "next": "I'd cry my eyes violet, Elizabeth Taylor"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 9,
+                "prev": "And if your letters ever said, \"Goodbye\"",
+                "this": "I'd cry my eyes violet, Elizabeth Taylor",
+                "next": "Tell me for real, do you think it's forever?"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 10,
+                "prev": "I'd cry my eyes violet, Elizabeth Taylor",
+                "this": "Tell me for real, do you think it's forever?",
+                "next": "Been number one, but I never had two"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 11,
+                "prev": "Tell me for real, do you think it's forever?",
+                "this": "Been number one, but I never had two",
+                "next": "And I can't have fun if I can't have (Uh)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 12,
+                "prev": "Been number one, but I never had two",
+                "this": "And I can't have fun if I can't have (Uh)",
+                "next": "Be my NY when Hollywood hates me"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 13,
+                "prev": "And I can't have fun if I can't have (Uh)",
+                "this": "Be my NY when Hollywood hates me",
+                "next": "You're only as hot as your last hit, baby"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 14,
+                "prev": "Be my NY when Hollywood hates me",
+                "this": "You're only as hot as your last hit, baby",
+                "next": "Been number one, but I never had two"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 15,
+                "prev": "You're only as hot as your last hit, baby",
+                "this": "Been number one, but I never had two",
+                "next": "And I can't have fun if I can't have you"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 16,
+                "prev": "Been number one, but I never had two",
+                "this": "And I can't have fun if I can't have you",
+                "next": "Hey, what could you possibly get for the girl who has everything and nothing all at once?"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 17,
+                "prev": "And I can't have fun if I can't have you",
+                "this": "Hey, what could you possibly get for the girl who has everything and nothing all at once?",
+                "next": "Babe, I would trade the Cartier for someone to trust (Just kidding)"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 18,
+                "prev": "Hey, what could you possibly get for the girl who has everything and nothing all at once?",
+                "this": "Babe, I would trade the Cartier for someone to trust (Just kidding)",
+                "next": "We hit the best booth at Musso and Frank's"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 19,
+                "prev": "Babe, I would trade the Cartier for someone to trust (Just kidding)",
+                "this": "We hit the best booth at Musso and Frank's",
+                "next": "They say I'm bad news, I just say, \"Thanks\""
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 20,
+                "prev": "We hit the best booth at Musso and Frank's",
+                "this": "They say I'm bad news, I just say, \"Thanks\"",
+                "next": "And you look at me like you're hypnotized"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 21,
+                "prev": "They say I'm bad news, I just say, \"Thanks\"",
+                "this": "And you look at me like you're hypnotized",
+                "next": "And I think you know why"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 22,
+                "prev": "And you look at me like you're hypnotized",
+                "this": "And I think you know why",
+                "next": "And if you ever leave me high and dry"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 23,
+                "prev": "And I think you know why",
+                "this": "And if you ever leave me high and dry",
+                "next": "I'd cry my eyes violet, Elizabeth Taylor"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 24,
+                "prev": "And if you ever leave me high and dry",
+                "this": "I'd cry my eyes violet, Elizabeth Taylor",
+                "next": "Tell me for real, do you think it's forever?"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 25,
+                "prev": "I'd cry my eyes violet, Elizabeth Taylor",
+                "this": "Tell me for real, do you think it's forever?",
+                "next": "Been number one, but I never had two"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 26,
+                "prev": "Tell me for real, do you think it's forever?",
+                "this": "Been number one, but I never had two",
+                "next": "And I can't have fun if I can't have (Uh)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 27,
+                "prev": "Been number one, but I never had two",
+                "this": "And I can't have fun if I can't have (Uh)",
+                "next": "Be my NY when Hollywood hates me"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 28,
+                "prev": "And I can't have fun if I can't have (Uh)",
+                "this": "Be my NY when Hollywood hates me",
+                "next": "You're only as hot as your last hit, baby"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 29,
+                "prev": "Be my NY when Hollywood hates me",
+                "this": "You're only as hot as your last hit, baby",
+                "next": "Been number one, but I never had two"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 30,
+                "prev": "You're only as hot as your last hit, baby",
+                "this": "Been number one, but I never had two",
+                "next": "And I can't have fun if I can't have you (Uh)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 31,
+                "prev": "Been number one, but I never had two",
+                "this": "And I can't have fun if I can't have you (Uh)",
+                "next": "Elizabeth Taylor (Oh)"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 32,
+                "prev": "And I can't have fun if I can't have you (Uh)",
+                "this": "Elizabeth Taylor (Oh)",
+                "next": "Do you think it's forever? (Oh)"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 33,
+                "prev": "Elizabeth Taylor (Oh)",
+                "this": "Do you think it's forever? (Oh)",
+                "next": "If I can't have you"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 34,
+                "prev": "Do you think it's forever? (Oh)",
+                "this": "If I can't have you",
+                "next": "All my white diamonds and lovers are forever"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 35,
+                "prev": "If I can't have you",
+                "this": "All my white diamonds and lovers are forever",
+                "next": "In the papers, on the screen, and in their minds"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 36,
+                "prev": "All my white diamonds and lovers are forever",
+                "this": "In the papers, on the screen, and in their minds",
+                "next": "All my white diamonds and lovers are forever"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 37,
+                "prev": "In the papers, on the screen, and in their minds",
+                "this": "All my white diamonds and lovers are forever",
+                "next": "Don't you ever end up anything but mine"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 38,
+                "prev": "All my white diamonds and lovers are forever",
+                "this": "Don't you ever end up anything but mine",
+                "next": "I'd cry my eyes violet, Elizabeth Taylor"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 39,
+                "prev": "Don't you ever end up anything but mine",
+                "this": "I'd cry my eyes violet, Elizabeth Taylor",
+                "next": "Tell me for real, do you think it's forever?"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 40,
+                "prev": "I'd cry my eyes violet, Elizabeth Taylor",
+                "this": "Tell me for real, do you think it's forever?",
+                "next": "Been number one, but I never had two"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 41,
+                "prev": "Tell me for real, do you think it's forever?",
+                "this": "Been number one, but I never had two",
+                "next": "And I can't have fun if I can't have (If I can't have you)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 42,
+                "prev": "Been number one, but I never had two",
+                "this": "And I can't have fun if I can't have (If I can't have you)",
+                "next": "Be my NY when Hollywood hates me"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 43,
+                "prev": "And I can't have fun if I can't have (If I can't have you)",
+                "this": "Be my NY when Hollywood hates me",
+                "next": "You're only as hot as your last hit, baby"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 44,
+                "prev": "Be my NY when Hollywood hates me",
+                "this": "You're only as hot as your last hit, baby",
+                "next": "Been number one, but l never had two"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 45,
+                "prev": "You're only as hot as your last hit, baby",
+                "this": "Been number one, but l never had two",
+                "next": "And I can't have fun if I can't have (If I can't have you)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 46,
+                "prev": "Been number one, but l never had two",
+                "this": "And I can't have fun if I can't have (If I can't have you)",
+                "next": "All my white diamonds and lovers are forever (Elizabeth Taylor, do you think it's forever?)"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 47,
+                "prev": "And I can't have fun if I can't have (If I can't have you)",
+                "this": "All my white diamonds and lovers are forever (Elizabeth Taylor, do you think it's forever?)",
+                "next": "In the papers, on the screen, and in their minds"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 48,
+                "prev": "All my white diamonds and lovers are forever (Elizabeth Taylor, do you think it's forever?)",
+                "this": "In the papers, on the screen, and in their minds",
+                "next": "All my white diamonds and lovers are forever"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 49,
+                "prev": "In the papers, on the screen, and in their minds",
+                "this": "All my white diamonds and lovers are forever",
+                "next": "Don't you ever end up anything but mine"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 50,
+                "prev": "All my white diamonds and lovers are forever",
+                "this": "Don't you ever end up anything but mine",
+                "next": "Oh, oh, oh"
+            },
+            {
+                "section": "[Outro]",
+                "num": 51,
+                "prev": "Don't you ever end up anything but mine",
+                "this": "Oh, oh, oh",
+                "next": ""
+            }
+        ],
+        "Opalite": [
+            {
+                "section": "[Verse 1]",
+                "num": 1,
+                "prev": "",
+                "this": "I had a bad habit",
+                "next": "Of missing lovers past"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 2,
+                "prev": "I had a bad habit",
+                "this": "Of missing lovers past",
+                "next": "My brother used to call it"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 3,
+                "prev": "Of missing lovers past",
+                "this": "My brother used to call it",
+                "next": "\"Eating out of the trash\""
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 4,
+                "prev": "My brother used to call it",
+                "this": "\"Eating out of the trash\"",
+                "next": "It's never gonna last"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 5,
+                "prev": "\"Eating out of the trash\"",
+                "this": "It's never gonna last",
+                "next": "I thought my house was haunted"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 6,
+                "prev": "It's never gonna last",
+                "this": "I thought my house was haunted",
+                "next": "I used to live with ghosts"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 7,
+                "prev": "I thought my house was haunted",
+                "this": "I used to live with ghosts",
+                "next": "And all the perfect couples"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 8,
+                "prev": "I used to live with ghosts",
+                "this": "And all the perfect couples",
+                "next": "Said, \"When you know, you know\""
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 9,
+                "prev": "And all the perfect couples",
+                "this": "Said, \"When you know, you know\"",
+                "next": "And, \"When you don't, you don't\""
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 10,
+                "prev": "Said, \"When you know, you know\"",
+                "this": "And, \"When you don't, you don't\"",
+                "next": "And all of the foes, and all of the friends (Ha, ha)"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 11,
+                "prev": "And, \"When you don't, you don't\"",
+                "this": "And all of the foes, and all of the friends (Ha, ha)",
+                "next": "They've seen it before, they'll see it again (Ha, ha)"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 12,
+                "prev": "And all of the foes, and all of the friends (Ha, ha)",
+                "this": "They've seen it before, they'll see it again (Ha, ha)",
+                "next": "Life is a song, it ends when it ends"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 13,
+                "prev": "They've seen it before, they'll see it again (Ha, ha)",
+                "this": "Life is a song, it ends when it ends",
+                "next": "I was wrong"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 14,
+                "prev": "Life is a song, it ends when it ends",
+                "this": "I was wrong",
+                "next": "But my mama told me"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 15,
+                "prev": "I was wrong",
+                "this": "But my mama told me",
+                "next": "It's alright"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 16,
+                "prev": "But my mama told me",
+                "this": "It's alright",
+                "next": "You were dancing through the lightning strikes"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 17,
+                "prev": "It's alright",
+                "this": "You were dancing through the lightning strikes",
+                "next": "Sleepless in the onyx night"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 18,
+                "prev": "You were dancing through the lightning strikes",
+                "this": "Sleepless in the onyx night",
+                "next": "But now the sky is opalite"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 19,
+                "prev": "Sleepless in the onyx night",
+                "this": "But now the sky is opalite",
+                "next": "Oh, oh-oh-oh-oh, oh my Lord"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 20,
+                "prev": "But now the sky is opalite",
+                "this": "Oh, oh-oh-oh-oh, oh my Lord",
+                "next": "Never met no one like you before"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 21,
+                "prev": "Oh, oh-oh-oh-oh, oh my Lord",
+                "this": "Never met no one like you before",
+                "next": "You had to make your own sunshine"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 22,
+                "prev": "Never met no one like you before",
+                "this": "You had to make your own sunshine",
+                "next": "But now the sky is opalite"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 23,
+                "prev": "You had to make your own sunshine",
+                "this": "But now the sky is opalite",
+                "next": "Oh, oh-oh-oh-oh-oh"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 24,
+                "prev": "But now the sky is opalite",
+                "this": "Oh, oh-oh-oh-oh-oh",
+                "next": "You couldn't understand it"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 25,
+                "prev": "Oh, oh-oh-oh-oh-oh",
+                "this": "You couldn't understand it",
+                "next": "Why you felt alone"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 26,
+                "prev": "You couldn't understand it",
+                "this": "Why you felt alone",
+                "next": "You were in it for real"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 27,
+                "prev": "Why you felt alone",
+                "this": "You were in it for real",
+                "next": "She was in her phone"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 28,
+                "prev": "You were in it for real",
+                "this": "She was in her phone",
+                "next": "And you were just a pose"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 29,
+                "prev": "She was in her phone",
+                "this": "And you were just a pose",
+                "next": "And don't we try to love love? (Love love?)"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 30,
+                "prev": "And you were just a pose",
+                "this": "And don't we try to love love? (Love love?)",
+                "next": "We give it all we've got (Give it all we've got)"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 31,
+                "prev": "And don't we try to love love? (Love love?)",
+                "this": "We give it all we've got (Give it all we've got)",
+                "next": "You finally left the table (Uh, uh)"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 32,
+                "prev": "We give it all we've got (Give it all we've got)",
+                "this": "You finally left the table (Uh, uh)",
+                "next": "And what a simple thought"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 33,
+                "prev": "You finally left the table (Uh, uh)",
+                "this": "And what a simple thought",
+                "next": "You're starving 'til you're not"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 34,
+                "prev": "And what a simple thought",
+                "this": "You're starving 'til you're not",
+                "next": "And all of the foes and all of the friends (Ha, ha)"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 35,
+                "prev": "You're starving 'til you're not",
+                "this": "And all of the foes and all of the friends (Ha, ha)",
+                "next": "Have messed up before, they'll mess up again (Ha, ha)"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 36,
+                "prev": "And all of the foes and all of the friends (Ha, ha)",
+                "this": "Have messed up before, they'll mess up again (Ha, ha)",
+                "next": "Life is a song, it ends when it ends"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 37,
+                "prev": "Have messed up before, they'll mess up again (Ha, ha)",
+                "this": "Life is a song, it ends when it ends",
+                "next": "You move on"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 38,
+                "prev": "Life is a song, it ends when it ends",
+                "this": "You move on",
+                "next": "And that's when I told you"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 39,
+                "prev": "You move on",
+                "this": "And that's when I told you",
+                "next": "It's alright"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 40,
+                "prev": "And that's when I told you",
+                "this": "It's alright",
+                "next": "You were dancing through the lightning strikes"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 41,
+                "prev": "It's alright",
+                "this": "You were dancing through the lightning strikes",
+                "next": "Sleepless in the onyx night"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 42,
+                "prev": "You were dancing through the lightning strikes",
+                "this": "Sleepless in the onyx night",
+                "next": "But now the sky is opalite"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 43,
+                "prev": "Sleepless in the onyx night",
+                "this": "But now the sky is opalite",
+                "next": "Oh, oh-oh-oh-oh, oh my Lord"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 44,
+                "prev": "But now the sky is opalite",
+                "this": "Oh, oh-oh-oh-oh, oh my Lord",
+                "next": "Never met no one like you before"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 45,
+                "prev": "Oh, oh-oh-oh-oh, oh my Lord",
+                "this": "Never met no one like you before",
+                "next": "You had to make your own sunshine"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 46,
+                "prev": "Never met no one like you before",
+                "this": "You had to make your own sunshine",
+                "next": "But now the sky is opalite"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 47,
+                "prev": "You had to make your own sunshine",
+                "this": "But now the sky is opalite",
+                "next": "Oh, oh-oh-oh-oh-oh"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 48,
+                "prev": "But now the sky is opalite",
+                "this": "Oh, oh-oh-oh-oh-oh",
+                "next": "This is just a storm inside a teacup"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 49,
+                "prev": "Oh, oh-oh-oh-oh-oh",
+                "this": "This is just a storm inside a teacup",
+                "next": "But shelter here with me, my love"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 50,
+                "prev": "This is just a storm inside a teacup",
+                "this": "But shelter here with me, my love",
+                "next": "Thunder like a drum"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 51,
+                "prev": "But shelter here with me, my love",
+                "this": "Thunder like a drum",
+                "next": "This life will beat you up, up, up, up"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 52,
+                "prev": "Thunder like a drum",
+                "this": "This life will beat you up, up, up, up",
+                "next": "This is just a temporary speed bump"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 53,
+                "prev": "This life will beat you up, up, up, up",
+                "this": "This is just a temporary speed bump",
+                "next": "But failure brings you freedom"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 54,
+                "prev": "This is just a temporary speed bump",
+                "this": "But failure brings you freedom",
+                "next": "And I can bring you love, love, love, love, love"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 55,
+                "prev": "But failure brings you freedom",
+                "this": "And I can bring you love, love, love, love, love",
+                "next": "Don't you sweat it, baby"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 56,
+                "prev": "And I can bring you love, love, love, love, love",
+                "this": "Don't you sweat it, baby",
+                "next": "It's alright"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 57,
+                "prev": "Don't you sweat it, baby",
+                "this": "It's alright",
+                "next": "You were dancing through the lightning strikes"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 58,
+                "prev": "It's alright",
+                "this": "You were dancing through the lightning strikes",
+                "next": "Oh, so sleepless in the onyx night"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 59,
+                "prev": "You were dancing through the lightning strikes",
+                "this": "Oh, so sleepless in the onyx night",
+                "next": "But now the sky is opalite"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 60,
+                "prev": "Oh, so sleepless in the onyx night",
+                "this": "But now the sky is opalite",
+                "next": "Oh, oh-oh-oh-oh, oh my Lord"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 61,
+                "prev": "But now the sky is opalite",
+                "this": "Oh, oh-oh-oh-oh, oh my Lord",
+                "next": "Never met no one like you before (No)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 62,
+                "prev": "Oh, oh-oh-oh-oh, oh my Lord",
+                "this": "Never met no one like you before (No)",
+                "next": "You had to make your own sunshine"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 63,
+                "prev": "Never met no one like you before (No)",
+                "this": "You had to make your own sunshine",
+                "next": "But now the sky is opalite"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 64,
+                "prev": "You had to make your own sunshine",
+                "this": "But now the sky is opalite",
+                "next": "Oh, oh-oh-oh-oh-oh"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 65,
+                "prev": "But now the sky is opalite",
+                "this": "Oh, oh-oh-oh-oh-oh",
+                "next": ""
+            }
+        ],
+        "Father Figure": [
+            {
+                "section": "[Verse 1]",
+                "num": 1,
+                "prev": "",
+                "this": "When I found you, you were young, wayward, lost in the cold",
+                "next": "Pulled up to you in the Jag', turned your rags into gold"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 2,
+                "prev": "When I found you, you were young, wayward, lost in the cold",
+                "this": "Pulled up to you in the Jag', turned your rags into gold",
+                "next": "The winding road leads to the chateau"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 3,
+                "prev": "Pulled up to you in the Jag', turned your rags into gold",
+                "this": "The winding road leads to the chateau",
+                "next": "\"You remind me of a younger me\""
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 4,
+                "prev": "The winding road leads to the chateau",
+                "this": "\"You remind me of a younger me\"",
+                "next": "I saw potential"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 5,
+                "prev": "\"You remind me of a younger me\"",
+                "this": "I saw potential",
+                "next": "I'll be your father figure"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 6,
+                "prev": "I saw potential",
+                "this": "I'll be your father figure",
+                "next": "I drink that brown liquor"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 7,
+                "prev": "I'll be your father figure",
+                "this": "I drink that brown liquor",
+                "next": "I can make deals with the devil because my dick's bigger"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 8,
+                "prev": "I drink that brown liquor",
+                "this": "I can make deals with the devil because my dick's bigger",
+                "next": "This love is pure profit"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 9,
+                "prev": "I can make deals with the devil because my dick's bigger",
+                "this": "This love is pure profit",
+                "next": "Just step into my office"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 10,
+                "prev": "This love is pure profit",
+                "this": "Just step into my office",
+                "next": "I dry your tears with my sleeve"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 11,
+                "prev": "Just step into my office",
+                "this": "I dry your tears with my sleeve",
+                "next": "Leave it with me"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 12,
+                "prev": "I dry your tears with my sleeve",
+                "this": "Leave it with me",
+                "next": "I protect the family"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 13,
+                "prev": "Leave it with me",
+                "this": "I protect the family",
+                "next": "Leave it with me"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 14,
+                "prev": "I protect the family",
+                "this": "Leave it with me",
+                "next": "I protect the family"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 15,
+                "prev": "Leave it with me",
+                "this": "I protect the family",
+                "next": "I pay the check before it kisses the mahogany grain"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 16,
+                "prev": "I protect the family",
+                "this": "I pay the check before it kisses the mahogany grain",
+                "next": "Said, \"They want to see you rise, they don't want you to reign\""
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 17,
+                "prev": "I pay the check before it kisses the mahogany grain",
+                "this": "Said, \"They want to see you rise, they don't want you to reign\"",
+                "next": "I showed you all the tricks of the trade"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 18,
+                "prev": "Said, \"They want to see you rise, they don't want you to reign\"",
+                "this": "I showed you all the tricks of the trade",
+                "next": "All I ask is for your loyalty"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 19,
+                "prev": "I showed you all the tricks of the trade",
+                "this": "All I ask is for your loyalty",
+                "next": "My dear protégé"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 20,
+                "prev": "All I ask is for your loyalty",
+                "this": "My dear protégé",
+                "next": "I'll be your father figure"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 21,
+                "prev": "My dear protégé",
+                "this": "I'll be your father figure",
+                "next": "I drink that brown liquor"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 22,
+                "prev": "I'll be your father figure",
+                "this": "I drink that brown liquor",
+                "next": "I can make deals with the devil because my dick's bigger"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 23,
+                "prev": "I drink that brown liquor",
+                "this": "I can make deals with the devil because my dick's bigger",
+                "next": "This love is pure profit"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 24,
+                "prev": "I can make deals with the devil because my dick's bigger",
+                "this": "This love is pure profit",
+                "next": "Just step into my office"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 25,
+                "prev": "This love is pure profit",
+                "this": "Just step into my office",
+                "next": "They'll know your name in the streets"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 26,
+                "prev": "Just step into my office",
+                "this": "They'll know your name in the streets",
+                "next": "Leave it with me"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 27,
+                "prev": "They'll know your name in the streets",
+                "this": "Leave it with me",
+                "next": "I protect the family"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 28,
+                "prev": "Leave it with me",
+                "this": "I protect the family",
+                "next": "Leave it with me"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 29,
+                "prev": "I protect the family",
+                "this": "Leave it with me",
+                "next": "I protect the family"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 30,
+                "prev": "Leave it with me",
+                "this": "I protect the family",
+                "next": "My dear boy, they don't make loyalty like they used to"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 31,
+                "prev": "I protect the family",
+                "this": "My dear boy, they don't make loyalty like they used to",
+                "next": "Your thoughtless ambition sparked the ignition"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 32,
+                "prev": "My dear boy, they don't make loyalty like they used to",
+                "this": "Your thoughtless ambition sparked the ignition",
+                "next": "On foolish decisions which lead to misguided visions"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 33,
+                "prev": "Your thoughtless ambition sparked the ignition",
+                "this": "On foolish decisions which lead to misguided visions",
+                "next": "That to fulfill your dreams"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 34,
+                "prev": "On foolish decisions which lead to misguided visions",
+                "this": "That to fulfill your dreams",
+                "next": "You had to get rid of me"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 35,
+                "prev": "That to fulfill your dreams",
+                "this": "You had to get rid of me",
+                "next": "I protect the family"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 36,
+                "prev": "You had to get rid of me",
+                "this": "I protect the family",
+                "next": "I was your father figure"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 37,
+                "prev": "I protect the family",
+                "this": "I was your father figure",
+                "next": "We drank that brown liquor"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 38,
+                "prev": "I was your father figure",
+                "this": "We drank that brown liquor",
+                "next": "You made a deal with this devil, turns out my dick's bigger"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 39,
+                "prev": "We drank that brown liquor",
+                "this": "You made a deal with this devil, turns out my dick's bigger",
+                "next": "You want a fight, you found it"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 40,
+                "prev": "You made a deal with this devil, turns out my dick's bigger",
+                "this": "You want a fight, you found it",
+                "next": "I got the place surrounded"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 41,
+                "prev": "You want a fight, you found it",
+                "this": "I got the place surrounded",
+                "next": "You'll be sleeping with the fishes before you know you're drowning"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 42,
+                "prev": "I got the place surrounded",
+                "this": "You'll be sleeping with the fishes before you know you're drowning",
+                "next": "Whose portrait's on the mantle?"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 43,
+                "prev": "You'll be sleeping with the fishes before you know you're drowning",
+                "this": "Whose portrait's on the mantle?",
+                "next": "Who covered up your scandals?"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 44,
+                "prev": "Whose portrait's on the mantle?",
+                "this": "Who covered up your scandals?",
+                "next": "Mistake my kindness for weakness and find your card cancelled"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 45,
+                "prev": "Who covered up your scandals?",
+                "this": "Mistake my kindness for weakness and find your card cancelled",
+                "next": "I was your father figure"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 46,
+                "prev": "Mistake my kindness for weakness and find your card cancelled",
+                "this": "I was your father figure",
+                "next": "You pulled the wrong trigger"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 47,
+                "prev": "I was your father figure",
+                "this": "You pulled the wrong trigger",
+                "next": "This empire belongs to me"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 48,
+                "prev": "You pulled the wrong trigger",
+                "this": "This empire belongs to me",
+                "next": "Leave it with me"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 49,
+                "prev": "This empire belongs to me",
+                "this": "Leave it with me",
+                "next": "I protect the family"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 50,
+                "prev": "Leave it with me",
+                "this": "I protect the family",
+                "next": "Leave it with me"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 51,
+                "prev": "I protect the family",
+                "this": "Leave it with me",
+                "next": "I protect the family"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 52,
+                "prev": "Leave it with me",
+                "this": "I protect the family",
+                "next": "Leave it with me"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 53,
+                "prev": "I protect the family",
+                "this": "Leave it with me",
+                "next": "You know, you remind me of a younger me"
+            },
+            {
+                "section": "[Outro]",
+                "num": 54,
+                "prev": "Leave it with me",
+                "this": "You know, you remind me of a younger me",
+                "next": "I saw potential"
+            },
+            {
+                "section": "[Outro]",
+                "num": 55,
+                "prev": "You know, you remind me of a younger me",
+                "this": "I saw potential",
+                "next": ""
+            }
+        ],
+        "Eldest Daughter": [
+            {
+                "section": "[Verse 1]",
+                "num": 1,
+                "prev": "",
+                "this": "Everybody's so punk on the internet",
+                "next": "Everyone's unbothered 'til they're not"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 2,
+                "prev": "Everybody's so punk on the internet",
+                "this": "Everyone's unbothered 'til they're not",
+                "next": "Every joke's just trolling and memes"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 3,
+                "prev": "Everyone's unbothered 'til they're not",
+                "this": "Every joke's just trolling and memes",
+                "next": "Sad as it seems, apathy is hot"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 4,
+                "prev": "Every joke's just trolling and memes",
+                "this": "Sad as it seems, apathy is hot",
+                "next": "Everybody's cutthroat in the comments"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 5,
+                "prev": "Sad as it seems, apathy is hot",
+                "this": "Everybody's cutthroat in the comments",
+                "next": "Every single hot take is cold as ice"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 6,
+                "prev": "Everybody's cutthroat in the comments",
+                "this": "Every single hot take is cold as ice",
+                "next": "When you found me, I said I was busy, that was a lie"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 7,
+                "prev": "Every single hot take is cold as ice",
+                "this": "When you found me, I said I was busy, that was a lie",
+                "next": "I have been afflicted by a terminal uniqueness"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 8,
+                "prev": "When you found me, I said I was busy, that was a lie",
+                "this": "I have been afflicted by a terminal uniqueness",
+                "next": "I've been dying just from trying to seem cool"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 9,
+                "prev": "I have been afflicted by a terminal uniqueness",
+                "this": "I've been dying just from trying to seem cool",
+                "next": "But I'm not a bad bitch, and this isn't savage"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 10,
+                "prev": "I've been dying just from trying to seem cool",
+                "this": "But I'm not a bad bitch, and this isn't savage",
+                "next": "But I'm never gonna let you down"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 11,
+                "prev": "But I'm not a bad bitch, and this isn't savage",
+                "this": "But I'm never gonna let you down",
+                "next": "I'm never gonna leave you out"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 12,
+                "prev": "But I'm never gonna let you down",
+                "this": "I'm never gonna leave you out",
+                "next": "So many traitors, smooth operators"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 13,
+                "prev": "I'm never gonna leave you out",
+                "this": "So many traitors, smooth operators",
+                "next": "But I'm never gonna break that vow"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 14,
+                "prev": "So many traitors, smooth operators",
+                "this": "But I'm never gonna break that vow",
+                "next": "I'm never gonna leave you now, now, now"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 15,
+                "prev": "But I'm never gonna break that vow",
+                "this": "I'm never gonna leave you now, now, now",
+                "next": "You know, the last time I laughed this hard was"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 16,
+                "prev": "I'm never gonna leave you now, now, now",
+                "this": "You know, the last time I laughed this hard was",
+                "next": "On the trampoline in somebody's backyard"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 17,
+                "prev": "You know, the last time I laughed this hard was",
+                "this": "On the trampoline in somebody's backyard",
+                "next": "I must've been about eight or nine"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 18,
+                "prev": "On the trampoline in somebody's backyard",
+                "this": "I must've been about eight or nine",
+                "next": "That was the night I fell off and broke my arm"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 19,
+                "prev": "I must've been about eight or nine",
+                "this": "That was the night I fell off and broke my arm",
+                "next": "Pretty soon, I learned cautious discretion"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 20,
+                "prev": "That was the night I fell off and broke my arm",
+                "this": "Pretty soon, I learned cautious discretion",
+                "next": "When your first crush crushes something kind"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 21,
+                "prev": "Pretty soon, I learned cautious discretion",
+                "this": "When your first crush crushes something kind",
+                "next": "When I said I don't believe in marriage, that was a lie"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 22,
+                "prev": "When your first crush crushes something kind",
+                "this": "When I said I don't believe in marriage, that was a lie",
+                "next": "Every eldest daughter"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 23,
+                "prev": "When I said I don't believe in marriage, that was a lie",
+                "this": "Every eldest daughter",
+                "next": "Was the first lamb to the slaughter"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 24,
+                "prev": "Every eldest daughter",
+                "this": "Was the first lamb to the slaughter",
+                "next": "So we all dressed up as wolves and we looked fire"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 25,
+                "prev": "Was the first lamb to the slaughter",
+                "this": "So we all dressed up as wolves and we looked fire",
+                "next": "But I'm not a bad bitch, and this isn't savage"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 26,
+                "prev": "So we all dressed up as wolves and we looked fire",
+                "this": "But I'm not a bad bitch, and this isn't savage",
+                "next": "But I'm never gonna let you down"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 27,
+                "prev": "But I'm not a bad bitch, and this isn't savage",
+                "this": "But I'm never gonna let you down",
+                "next": "I'm never gonna leave you out"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 28,
+                "prev": "But I'm never gonna let you down",
+                "this": "I'm never gonna leave you out",
+                "next": "So many traitors, smooth operators"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 29,
+                "prev": "I'm never gonna leave you out",
+                "this": "So many traitors, smooth operators",
+                "next": "But I'm never gonna break that vow"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 30,
+                "prev": "So many traitors, smooth operators",
+                "this": "But I'm never gonna break that vow",
+                "next": "I'm never gonna leave you now, now, now"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 31,
+                "prev": "But I'm never gonna break that vow",
+                "this": "I'm never gonna leave you now, now, now",
+                "next": "We lie back"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 32,
+                "prev": "I'm never gonna leave you now, now, now",
+                "this": "We lie back",
+                "next": "A beautiful, beautiful time-lapse"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 33,
+                "prev": "We lie back",
+                "this": "A beautiful, beautiful time-lapse",
+                "next": "Ferris wheels, kisses, and lilacs"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 34,
+                "prev": "A beautiful, beautiful time-lapse",
+                "this": "Ferris wheels, kisses, and lilacs",
+                "next": "And things I said were dumb"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 35,
+                "prev": "Ferris wheels, kisses, and lilacs",
+                "this": "And things I said were dumb",
+                "next": "'Cause I thought that I'd never find that beautiful, beautiful life that (Ah)"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 36,
+                "prev": "And things I said were dumb",
+                "this": "'Cause I thought that I'd never find that beautiful, beautiful life that (Ah)",
+                "next": "Shimmers that innocent light back"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 37,
+                "prev": "'Cause I thought that I'd never find that beautiful, beautiful life that (Ah)",
+                "this": "Shimmers that innocent light back",
+                "next": "Like when we were young"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 38,
+                "prev": "Shimmers that innocent light back",
+                "this": "Like when we were young",
+                "next": "Every youngest child felt"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 39,
+                "prev": "Like when we were young",
+                "this": "Every youngest child felt",
+                "next": "They were raised up in the wild"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 40,
+                "prev": "Every youngest child felt",
+                "this": "They were raised up in the wild",
+                "next": "But now you're home"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 41,
+                "prev": "They were raised up in the wild",
+                "this": "But now you're home",
+                "next": "'Cause I'm not a bad bitch"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 42,
+                "prev": "But now you're home",
+                "this": "'Cause I'm not a bad bitch",
+                "next": "And this isn't savage"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 43,
+                "prev": "'Cause I'm not a bad bitch",
+                "this": "And this isn't savage",
+                "next": "And I'm never gonna let you down"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 44,
+                "prev": "And this isn't savage",
+                "this": "And I'm never gonna let you down",
+                "next": "I'm never gonna leave you out"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 45,
+                "prev": "And I'm never gonna let you down",
+                "this": "I'm never gonna leave you out",
+                "next": "So many traitors, smooth operators (Ah, ah)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 46,
+                "prev": "I'm never gonna leave you out",
+                "this": "So many traitors, smooth operators (Ah, ah)",
+                "next": "But I'm never gonna break that vow (Never gonna break that vow)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 47,
+                "prev": "So many traitors, smooth operators (Ah, ah)",
+                "this": "But I'm never gonna break that vow (Never gonna break that vow)",
+                "next": "I'm never gonna leave you now, now, now"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 48,
+                "prev": "But I'm never gonna break that vow (Never gonna break that vow)",
+                "this": "I'm never gonna leave you now, now, now",
+                "next": "Never gonna break that vow (Ooh)"
+            },
+            {
+                "section": "[Outro]",
+                "num": 49,
+                "prev": "I'm never gonna leave you now, now, now",
+                "this": "Never gonna break that vow (Ooh)",
+                "next": "Never gonna leave you now, now"
+            },
+            {
+                "section": "[Outro]",
+                "num": 50,
+                "prev": "Never gonna break that vow (Ooh)",
+                "this": "Never gonna leave you now, now",
+                "next": "I'm never gonna leave you now"
+            },
+            {
+                "section": "[Outro]",
+                "num": 51,
+                "prev": "Never gonna leave you now, now",
+                "this": "I'm never gonna leave you now",
+                "next": ""
+            }
+        ],
+        "Ruin The Friendship": [
+            {
+                "section": "[Verse 1]",
+                "num": 1,
+                "prev": "",
+                "this": "Glistening grass from September rain",
+                "next": "Gray overpass full of neon names"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 2,
+                "prev": "Glistening grass from September rain",
+                "this": "Gray overpass full of neon names",
+                "next": "You drive (Mm-mm), 85 (Mm-mm)"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 3,
+                "prev": "Gray overpass full of neon names",
+                "this": "You drive (Mm-mm), 85 (Mm-mm)",
+                "next": "Gallatin Road and the Lakeside Beach"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 4,
+                "prev": "You drive (Mm-mm), 85 (Mm-mm)",
+                "this": "Gallatin Road and the Lakeside Beach",
+                "next": "Watching the game from your brother's Jeep"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 5,
+                "prev": "Gallatin Road and the Lakeside Beach",
+                "this": "Watching the game from your brother's Jeep",
+                "next": "Your smile (Mm-mm), miles wide"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 6,
+                "prev": "Watching the game from your brother's Jeep",
+                "this": "Your smile (Mm-mm), miles wide",
+                "next": "And it was not an invitation"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 7,
+                "prev": "Your smile (Mm-mm), miles wide",
+                "this": "And it was not an invitation",
+                "next": "Should've kissed you anyway"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 8,
+                "prev": "And it was not an invitation",
+                "this": "Should've kissed you anyway",
+                "next": "Should've kissed you anyway"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 9,
+                "prev": "Should've kissed you anyway",
+                "this": "Should've kissed you anyway",
+                "next": "And it was not convenient, no"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 10,
+                "prev": "Should've kissed you anyway",
+                "this": "And it was not convenient, no",
+                "next": "But your girlfriend was away"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 11,
+                "prev": "And it was not convenient, no",
+                "this": "But your girlfriend was away",
+                "next": "Should've kissed you anyway, hey"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 12,
+                "prev": "But your girlfriend was away",
+                "this": "Should've kissed you anyway, hey",
+                "next": "Shiny wood floors underneath my feet"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 13,
+                "prev": "Should've kissed you anyway, hey",
+                "this": "Shiny wood floors underneath my feet",
+                "next": "Disco ball makes everything look cheap"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 14,
+                "prev": "Shiny wood floors underneath my feet",
+                "this": "Disco ball makes everything look cheap",
+                "next": "Have fun (Mm-mm), it's prom (Mm-mm)"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 15,
+                "prev": "Disco ball makes everything look cheap",
+                "this": "Have fun (Mm-mm), it's prom (Mm-mm)",
+                "next": "Wilted corsage dangles from my wrist"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 16,
+                "prev": "Have fun (Mm-mm), it's prom (Mm-mm)",
+                "this": "Wilted corsage dangles from my wrist",
+                "next": "Over his shoulder, I catch a glimpse"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 17,
+                "prev": "Wilted corsage dangles from my wrist",
+                "this": "Over his shoulder, I catch a glimpse",
+                "next": "And see (Mm-mm)"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 18,
+                "prev": "Over his shoulder, I catch a glimpse",
+                "this": "And see (Mm-mm)",
+                "next": "You looking at me"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 19,
+                "prev": "And see (Mm-mm)",
+                "this": "You looking at me",
+                "next": "And it was not an invitation"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 20,
+                "prev": "You looking at me",
+                "this": "And it was not an invitation",
+                "next": "But as the 50 Cent song played (Song played)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 21,
+                "prev": "And it was not an invitation",
+                "this": "But as the 50 Cent song played (Song played)",
+                "next": "Should've kissed you anyway (Anyway)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 22,
+                "prev": "But as the 50 Cent song played (Song played)",
+                "this": "Should've kissed you anyway (Anyway)",
+                "next": "And it was not convenient, no (It was not, convenient)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 23,
+                "prev": "Should've kissed you anyway (Anyway)",
+                "this": "And it was not convenient, no (It was not, convenient)",
+                "next": "Would've been the best mistake"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 24,
+                "prev": "And it was not convenient, no (It was not, convenient)",
+                "this": "Would've been the best mistake",
+                "next": "Should've kissed you anyway, hey"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 25,
+                "prev": "Would've been the best mistake",
+                "this": "Should've kissed you anyway, hey",
+                "next": "Don't make it awkward in second period"
+            },
+            {
+                "section": "[Refrain]",
+                "num": 26,
+                "prev": "Should've kissed you anyway, hey",
+                "this": "Don't make it awkward in second period",
+                "next": "Might piss your ex off, lately we've been good"
+            },
+            {
+                "section": "[Refrain]",
+                "num": 27,
+                "prev": "Don't make it awkward in second period",
+                "this": "Might piss your ex off, lately we've been good",
+                "next": "Staying friends is safe, doesn't mean you should"
+            },
+            {
+                "section": "[Refrain]",
+                "num": 28,
+                "prev": "Might piss your ex off, lately we've been good",
+                "this": "Staying friends is safe, doesn't mean you should",
+                "next": "Don't make it awkward in second period"
+            },
+            {
+                "section": "[Refrain]",
+                "num": 29,
+                "prev": "Staying friends is safe, doesn't mean you should",
+                "this": "Don't make it awkward in second period",
+                "next": "Might piss your ex off, lately we've been good"
+            },
+            {
+                "section": "[Refrain]",
+                "num": 30,
+                "prev": "Don't make it awkward in second period",
+                "this": "Might piss your ex off, lately we've been good",
+                "next": "Staying friends is safe, doesn't mean you should"
+            },
+            {
+                "section": "[Refrain]",
+                "num": 31,
+                "prev": "Might piss your ex off, lately we've been good",
+                "this": "Staying friends is safe, doesn't mean you should",
+                "next": "When I left school, I lost track of you"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 32,
+                "prev": "Staying friends is safe, doesn't mean you should",
+                "this": "When I left school, I lost track of you",
+                "next": "Abigail called me with the bad news"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 33,
+                "prev": "When I left school, I lost track of you",
+                "this": "Abigail called me with the bad news",
+                "next": "Goodbye, and we'll never know why"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 34,
+                "prev": "Abigail called me with the bad news",
+                "this": "Goodbye, and we'll never know why",
+                "next": "It was not an invitation"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 35,
+                "prev": "Goodbye, and we'll never know why",
+                "this": "It was not an invitation",
+                "next": "But I flew home anyway"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 36,
+                "prev": "It was not an invitation",
+                "this": "But I flew home anyway",
+                "next": "With so much left to say"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 37,
+                "prev": "But I flew home anyway",
+                "this": "With so much left to say",
+                "next": "It was not convenient, no"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 38,
+                "prev": "With so much left to say",
+                "this": "It was not convenient, no",
+                "next": "But I whispered at the grave"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 39,
+                "prev": "It was not convenient, no",
+                "this": "But I whispered at the grave",
+                "next": "\"Should've kissed you anyway\""
+            },
+            {
+                "section": "[Bridge]",
+                "num": 40,
+                "prev": "But I whispered at the grave",
+                "this": "\"Should've kissed you anyway\"",
+                "next": "Oh, and it was not an invitation (It was not, an invitation)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 41,
+                "prev": "\"Should've kissed you anyway\"",
+                "this": "Oh, and it was not an invitation (It was not, an invitation)",
+                "next": "Should've kissed you anyway (Anyway)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 42,
+                "prev": "Oh, and it was not an invitation (It was not, an invitation)",
+                "this": "Should've kissed you anyway (Anyway)",
+                "next": "Should've kissed you anyway, anyway (Anyway)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 43,
+                "prev": "Should've kissed you anyway (Anyway)",
+                "this": "Should've kissed you anyway, anyway (Anyway)",
+                "next": "And it was not—"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 44,
+                "prev": "Should've kissed you anyway, anyway (Anyway)",
+                "this": "And it was not—",
+                "next": "My advice is always ruin the friendship"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 45,
+                "prev": "And it was not—",
+                "this": "My advice is always ruin the friendship",
+                "next": "Better that than regret it for all time"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 46,
+                "prev": "My advice is always ruin the friendship",
+                "this": "Better that than regret it for all time",
+                "next": "Should've kissed you anyway"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 47,
+                "prev": "Better that than regret it for all time",
+                "this": "Should've kissed you anyway",
+                "next": "And my advice is always answer the question"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 48,
+                "prev": "Should've kissed you anyway",
+                "this": "And my advice is always answer the question",
+                "next": "Better that than to ask it all your life"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 49,
+                "prev": "And my advice is always answer the question",
+                "this": "Better that than to ask it all your life",
+                "next": "Should've kissed you anyway"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 50,
+                "prev": "Better that than to ask it all your life",
+                "this": "Should've kissed you anyway",
+                "next": "Should've kissed you anyway"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 51,
+                "prev": "Should've kissed you anyway",
+                "this": "Should've kissed you anyway",
+                "next": ""
+            }
+        ],
+        "Actually Romantic": [
+            {
+                "section": "[Verse 1]",
+                "num": 1,
+                "prev": "",
+                "this": "I heard you call me \"Boring Barbie\" when the coke's got you brave",
+                "next": "High-fived my ex and then you said you're glad he ghosted me"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 2,
+                "prev": "I heard you call me \"Boring Barbie\" when the coke's got you brave",
+                "this": "High-fived my ex and then you said you're glad he ghosted me",
+                "next": "Wrote me a song saying it makes you sick to see my face"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 3,
+                "prev": "High-fived my ex and then you said you're glad he ghosted me",
+                "this": "Wrote me a song saying it makes you sick to see my face",
+                "next": "Some people might be offended"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 4,
+                "prev": "Wrote me a song saying it makes you sick to see my face",
+                "this": "Some people might be offended",
+                "next": "But it's actually sweet"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 5,
+                "prev": "Some people might be offended",
+                "this": "But it's actually sweet",
+                "next": "All the time you've spent on me"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 6,
+                "prev": "But it's actually sweet",
+                "this": "All the time you've spent on me",
+                "next": "It's honestly wild"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 7,
+                "prev": "All the time you've spent on me",
+                "this": "It's honestly wild",
+                "next": "All the effort you've put in"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 8,
+                "prev": "It's honestly wild",
+                "this": "All the effort you've put in",
+                "next": "It's actually romantic"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 9,
+                "prev": "All the effort you've put in",
+                "this": "It's actually romantic",
+                "next": "I really gotta hand it to you, ooh"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 10,
+                "prev": "It's actually romantic",
+                "this": "I really gotta hand it to you, ooh",
+                "next": "No man has ever loved me like you do"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 11,
+                "prev": "I really gotta hand it to you, ooh",
+                "this": "No man has ever loved me like you do",
+                "next": "Hadn't thought of you in a long time"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 12,
+                "prev": "No man has ever loved me like you do",
+                "this": "Hadn't thought of you in a long time",
+                "next": "But you keep sending me funny valentines"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 13,
+                "prev": "Hadn't thought of you in a long time",
+                "this": "But you keep sending me funny valentines",
+                "next": "And I know you think it comes off vicious"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 14,
+                "prev": "But you keep sending me funny valentines",
+                "this": "And I know you think it comes off vicious",
+                "next": "But it's precious, adorable"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 15,
+                "prev": "And I know you think it comes off vicious",
+                "this": "But it's precious, adorable",
+                "next": "Like a toy chihuahua barking at me from a tiny purse"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 16,
+                "prev": "But it's precious, adorable",
+                "this": "Like a toy chihuahua barking at me from a tiny purse",
+                "next": "That's how much it hurts"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 17,
+                "prev": "Like a toy chihuahua barking at me from a tiny purse",
+                "this": "That's how much it hurts",
+                "next": "How many times has your boyfriend said"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 18,
+                "prev": "That's how much it hurts",
+                "this": "How many times has your boyfriend said",
+                "next": "\"Why are we always talking 'bout her?\""
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 19,
+                "prev": "How many times has your boyfriend said",
+                "this": "\"Why are we always talking 'bout her?\"",
+                "next": "It's actually sweet"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 20,
+                "prev": "\"Why are we always talking 'bout her?\"",
+                "this": "It's actually sweet",
+                "next": "All the time you've spent on me"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 21,
+                "prev": "It's actually sweet",
+                "this": "All the time you've spent on me",
+                "next": "It's honestly wild"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 22,
+                "prev": "All the time you've spent on me",
+                "this": "It's honestly wild",
+                "next": "All the effort you've put in"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 23,
+                "prev": "It's honestly wild",
+                "this": "All the effort you've put in",
+                "next": "It's actually romantic"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 24,
+                "prev": "All the effort you've put in",
+                "this": "It's actually romantic",
+                "next": "I really gotta hand it to you, ooh"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 25,
+                "prev": "It's actually romantic",
+                "this": "I really gotta hand it to you, ooh",
+                "next": "No man has ever loved me like you do"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 26,
+                "prev": "I really gotta hand it to you, ooh",
+                "this": "No man has ever loved me like you do",
+                "next": "You think I'm tacky, baby"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 27,
+                "prev": "No man has ever loved me like you do",
+                "this": "You think I'm tacky, baby",
+                "next": "Stop talking dirty to me"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 28,
+                "prev": "You think I'm tacky, baby",
+                "this": "Stop talking dirty to me",
+                "next": "It sounded nasty, but it"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 29,
+                "prev": "Stop talking dirty to me",
+                "this": "It sounded nasty, but it",
+                "next": "Feels like you're flirting with me"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 30,
+                "prev": "It sounded nasty, but it",
+                "this": "Feels like you're flirting with me",
+                "next": "I mind my business, God's my witness that I don't provoke it"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 31,
+                "prev": "Feels like you're flirting with me",
+                "this": "I mind my business, God's my witness that I don't provoke it",
+                "next": "It's kind of making me wet (Oh)"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 32,
+                "prev": "I mind my business, God's my witness that I don't provoke it",
+                "this": "It's kind of making me wet (Oh)",
+                "next": "'Cause it's actually sweet"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 33,
+                "prev": "It's kind of making me wet (Oh)",
+                "this": "'Cause it's actually sweet",
+                "next": "All the time you've spent on me"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 34,
+                "prev": "'Cause it's actually sweet",
+                "this": "All the time you've spent on me",
+                "next": "It's honestly lovely"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 35,
+                "prev": "All the time you've spent on me",
+                "this": "It's honestly lovely",
+                "next": "All the effort you've put in"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 36,
+                "prev": "It's honestly lovely",
+                "this": "All the effort you've put in",
+                "next": "It's actually romantic"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 37,
+                "prev": "All the effort you've put in",
+                "this": "It's actually romantic",
+                "next": "Really got to hand it to you, to you"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 38,
+                "prev": "It's actually romantic",
+                "this": "Really got to hand it to you, to you",
+                "next": "No man has ever loved me like you do"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 39,
+                "prev": "Really got to hand it to you, to you",
+                "this": "No man has ever loved me like you do",
+                "next": "It's actually romantic (You've just given me so much attention; la-la-la-la)"
+            },
+            {
+                "section": "[Outro]",
+                "num": 40,
+                "prev": "No man has ever loved me like you do",
+                "this": "It's actually romantic (You've just given me so much attention; la-la-la-la)",
+                "next": "It's actually romantic"
+            },
+            {
+                "section": "[Outro]",
+                "num": 41,
+                "prev": "It's actually romantic (You've just given me so much attention; la-la-la-la)",
+                "this": "It's actually romantic",
+                "next": "(It's so) Romantic"
+            },
+            {
+                "section": "[Outro]",
+                "num": 42,
+                "prev": "It's actually romantic",
+                "this": "(It's so) Romantic",
+                "next": ""
+            }
+        ],
+        "Wi$h Li$t": [
+            {
+                "section": "[Verse 1]",
+                "num": 1,
+                "prev": "",
+                "this": "They want that yacht life, under chopper blades",
+                "next": "They want those bright lights and Balenci' shades"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 2,
+                "prev": "They want that yacht life, under chopper blades",
+                "this": "They want those bright lights and Balenci' shades",
+                "next": "And a fat ass with a baby face"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 3,
+                "prev": "They want those bright lights and Balenci' shades",
+                "this": "And a fat ass with a baby face",
+                "next": "They want it all"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 4,
+                "prev": "And a fat ass with a baby face",
+                "this": "They want it all",
+                "next": "They want that complex female character"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 5,
+                "prev": "They want it all",
+                "this": "They want that complex female character",
+                "next": "They want that critical smash Palme d'Or"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 6,
+                "prev": "They want that complex female character",
+                "this": "They want that critical smash Palme d'Or",
+                "next": "And an Oscar on their bathroom floor"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 7,
+                "prev": "They want that critical smash Palme d'Or",
+                "this": "And an Oscar on their bathroom floor",
+                "next": "They want it all"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 8,
+                "prev": "And an Oscar on their bathroom floor",
+                "this": "They want it all",
+                "next": "And they should have what they want"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 9,
+                "prev": "They want it all",
+                "this": "And they should have what they want",
+                "next": "They deserve what they want"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 10,
+                "prev": "And they should have what they want",
+                "this": "They deserve what they want",
+                "next": "Hope they get what they want"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 11,
+                "prev": "They deserve what they want",
+                "this": "Hope they get what they want",
+                "next": "I just want you, huh"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 12,
+                "prev": "Hope they get what they want",
+                "this": "I just want you, huh",
+                "next": "Have a couple kids, got the whole block looking like you"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 13,
+                "prev": "I just want you, huh",
+                "this": "Have a couple kids, got the whole block looking like you",
+                "next": "We tell the world to leave us the fuck alone, and they do, wow"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 14,
+                "prev": "Have a couple kids, got the whole block looking like you",
+                "this": "We tell the world to leave us the fuck alone, and they do, wow",
+                "next": "Got me dreaming about a driveway with a basketball hoop"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 15,
+                "prev": "We tell the world to leave us the fuck alone, and they do, wow",
+                "this": "Got me dreaming about a driveway with a basketball hoop",
+                "next": "Boss up, settle down, got a wish list (Wish list)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 16,
+                "prev": "Got me dreaming about a driveway with a basketball hoop",
+                "this": "Boss up, settle down, got a wish list (Wish list)",
+                "next": "I just want you"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 17,
+                "prev": "Boss up, settle down, got a wish list (Wish list)",
+                "this": "I just want you",
+                "next": "They want that freedom, living off the grid"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 18,
+                "prev": "I just want you",
+                "this": "They want that freedom, living off the grid",
+                "next": "They want those three dogs that they call their kids"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 19,
+                "prev": "They want that freedom, living off the grid",
+                "this": "They want those three dogs that they call their kids",
+                "next": "And that good surf, no hypocrites"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 20,
+                "prev": "They want those three dogs that they call their kids",
+                "this": "And that good surf, no hypocrites",
+                "next": "They want it all"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 21,
+                "prev": "And that good surf, no hypocrites",
+                "this": "They want it all",
+                "next": "They want a contract with Real Madrid"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 22,
+                "prev": "They want it all",
+                "this": "They want a contract with Real Madrid",
+                "next": "They want that spring break that was fuckin' lit"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 23,
+                "prev": "They want a contract with Real Madrid",
+                "this": "They want that spring break that was fuckin' lit",
+                "next": "And then that video taken off the internet"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 24,
+                "prev": "They want that spring break that was fuckin' lit",
+                "this": "And then that video taken off the internet",
+                "next": "They want it all"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 25,
+                "prev": "And then that video taken off the internet",
+                "this": "They want it all",
+                "next": "And they should have what they want"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 26,
+                "prev": "They want it all",
+                "this": "And they should have what they want",
+                "next": "They deserve what they want"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 27,
+                "prev": "And they should have what they want",
+                "this": "They deserve what they want",
+                "next": "I hope they get what they want"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 28,
+                "prev": "They deserve what they want",
+                "this": "I hope they get what they want",
+                "next": "I just want you, huh (You, you, yeah)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 29,
+                "prev": "I hope they get what they want",
+                "this": "I just want you, huh (You, you, yeah)",
+                "next": "Have a couple kids, got the whole block looking like you"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 30,
+                "prev": "I just want you, huh (You, you, yeah)",
+                "this": "Have a couple kids, got the whole block looking like you",
+                "next": "We tell the world to leave us the fuck alone, and they do (Oh), wow"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 31,
+                "prev": "Have a couple kids, got the whole block looking like you",
+                "this": "We tell the world to leave us the fuck alone, and they do (Oh), wow",
+                "next": "Got me dreaming about a driveway with a basketball hoop (Hoop)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 32,
+                "prev": "We tell the world to leave us the fuck alone, and they do (Oh), wow",
+                "this": "Got me dreaming about a driveway with a basketball hoop (Hoop)",
+                "next": "Boss up, settle down, got a wish list (Wish list)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 33,
+                "prev": "Got me dreaming about a driveway with a basketball hoop (Hoop)",
+                "this": "Boss up, settle down, got a wish list (Wish list)",
+                "next": "I made wishes on all of the stars"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 34,
+                "prev": "Boss up, settle down, got a wish list (Wish list)",
+                "this": "I made wishes on all of the stars",
+                "next": "Please, God, bring me a best friend who I think is hot"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 35,
+                "prev": "I made wishes on all of the stars",
+                "this": "Please, God, bring me a best friend who I think is hot",
+                "next": "I thought I had it right, once, twice, but I did not"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 36,
+                "prev": "Please, God, bring me a best friend who I think is hot",
+                "this": "I thought I had it right, once, twice, but I did not",
+                "next": "You caught me off my guard"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 37,
+                "prev": "I thought I had it right, once, twice, but I did not",
+                "this": "You caught me off my guard",
+                "next": "I hope get what I want (Get what I want)"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 38,
+                "prev": "You caught me off my guard",
+                "this": "I hope get what I want (Get what I want)",
+                "next": "'Cause I know what I want"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 39,
+                "prev": "I hope get what I want (Get what I want)",
+                "this": "'Cause I know what I want",
+                "next": "I just want you (Baby)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 40,
+                "prev": "'Cause I know what I want",
+                "this": "I just want you (Baby)",
+                "next": "Have a couple kids, got the whole block looking like you (Got 'em looking like you)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 41,
+                "prev": "I just want you (Baby)",
+                "this": "Have a couple kids, got the whole block looking like you (Got 'em looking like you)",
+                "next": "We tell the world to leave us the fuck alone, and they do, wow"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 42,
+                "prev": "Have a couple kids, got the whole block looking like you (Got 'em looking like you)",
+                "this": "We tell the world to leave us the fuck alone, and they do, wow",
+                "next": "Got me dreaming about a driveway with a basketball hoop"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 43,
+                "prev": "We tell the world to leave us the fuck alone, and they do, wow",
+                "this": "Got me dreaming about a driveway with a basketball hoop",
+                "next": "Boss up, settle down, got a wish list (Wish list)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 44,
+                "prev": "Got me dreaming about a driveway with a basketball hoop",
+                "this": "Boss up, settle down, got a wish list (Wish list)",
+                "next": "I just want you (Ooh)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 45,
+                "prev": "Boss up, settle down, got a wish list (Wish list)",
+                "this": "I just want you (Ooh)",
+                "next": "And we can have a couple kids, got the whole block looking like you (You)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 46,
+                "prev": "I just want you (Ooh)",
+                "this": "And we can have a couple kids, got the whole block looking like you (You)",
+                "next": "We tell the world to leave us the fuck alone, and they do (Yeah), wow"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 47,
+                "prev": "And we can have a couple kids, got the whole block looking like you (You)",
+                "this": "We tell the world to leave us the fuck alone, and they do (Yeah), wow",
+                "next": "And now you got me dreaming about a driveway with a basketball hoop"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 48,
+                "prev": "We tell the world to leave us the fuck alone, and they do (Yeah), wow",
+                "this": "And now you got me dreaming about a driveway with a basketball hoop",
+                "next": "Boss up, settle down, got a wish list (Wish list)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 49,
+                "prev": "And now you got me dreaming about a driveway with a basketball hoop",
+                "this": "Boss up, settle down, got a wish list (Wish list)",
+                "next": "I just want you"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 50,
+                "prev": "Boss up, settle down, got a wish list (Wish list)",
+                "this": "I just want you",
+                "next": ""
+            }
+        ],
+        "Wood": [
+            {
+                "section": "[Verse 1]",
+                "num": 1,
+                "prev": "",
+                "this": "Daisy's bare naked, I was distraught",
+                "next": "He loves me not, he loves me not"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 2,
+                "prev": "Daisy's bare naked, I was distraught",
+                "this": "He loves me not, he loves me not",
+                "next": "Penny's unlucky, I took him back"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 3,
+                "prev": "He loves me not, he loves me not",
+                "this": "Penny's unlucky, I took him back",
+                "next": "And then stepped on a crack"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 4,
+                "prev": "Penny's unlucky, I took him back",
+                "this": "And then stepped on a crack",
+                "next": "And the black cat laughed"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 5,
+                "prev": "And then stepped on a crack",
+                "this": "And the black cat laughed",
+                "next": "And baby, I'll admit I've been a little superstitious (Superstitious)"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 6,
+                "prev": "And the black cat laughed",
+                "this": "And baby, I'll admit I've been a little superstitious (Superstitious)",
+                "next": "Fingers crossed until you put your hand on mine (Ah)"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 7,
+                "prev": "And baby, I'll admit I've been a little superstitious (Superstitious)",
+                "this": "Fingers crossed until you put your hand on mine (Ah)",
+                "next": "Seems to be that you and me, we make our own luck"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 8,
+                "prev": "Fingers crossed until you put your hand on mine (Ah)",
+                "this": "Seems to be that you and me, we make our own luck",
+                "next": "A bad sign is all good"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 9,
+                "prev": "Seems to be that you and me, we make our own luck",
+                "this": "A bad sign is all good",
+                "next": "I ain't gotta knock on wood"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 10,
+                "prev": "A bad sign is all good",
+                "this": "I ain't gotta knock on wood",
+                "next": "(Ah) All of that bitchin', wishing on a falling star"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 11,
+                "prev": "I ain't gotta knock on wood",
+                "this": "(Ah) All of that bitchin', wishing on a falling star",
+                "next": "Never did me any good"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 12,
+                "prev": "(Ah) All of that bitchin', wishing on a falling star",
+                "this": "Never did me any good",
+                "next": "I ain't got to knock on wood"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 13,
+                "prev": "Never did me any good",
+                "this": "I ain't got to knock on wood",
+                "next": "(Ah) It's you and me forever dancing in the dark (Ah)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 14,
+                "prev": "I ain't got to knock on wood",
+                "this": "(Ah) It's you and me forever dancing in the dark (Ah)",
+                "next": "All over me, it's understood"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 15,
+                "prev": "(Ah) It's you and me forever dancing in the dark (Ah)",
+                "this": "All over me, it's understood",
+                "next": "I ain't got to knock on wood"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 16,
+                "prev": "All over me, it's understood",
+                "this": "I ain't got to knock on wood",
+                "next": "Forgive me, it sounds cocky"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 17,
+                "prev": "I ain't got to knock on wood",
+                "this": "Forgive me, it sounds cocky",
+                "next": "He ah-matized me and opened my eyes"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 18,
+                "prev": "Forgive me, it sounds cocky",
+                "this": "He ah-matized me and opened my eyes",
+                "next": "Redwood tree, it ain't hard to see"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 19,
+                "prev": "He ah-matized me and opened my eyes",
+                "this": "Redwood tree, it ain't hard to see",
+                "next": "His love was the key that opened my thighs"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 20,
+                "prev": "Redwood tree, it ain't hard to see",
+                "this": "His love was the key that opened my thighs",
+                "next": "Girls, I don't need to catch the bouquet, mm"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 21,
+                "prev": "His love was the key that opened my thighs",
+                "this": "Girls, I don't need to catch the bouquet, mm",
+                "next": "To know a hard rock is on the way"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 22,
+                "prev": "Girls, I don't need to catch the bouquet, mm",
+                "this": "To know a hard rock is on the way",
+                "next": "And baby, I'll admit I've been a little superstitious (Superstitious)"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 23,
+                "prev": "To know a hard rock is on the way",
+                "this": "And baby, I'll admit I've been a little superstitious (Superstitious)",
+                "next": "The curse on me was broken by your magic wand (Ah)"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 24,
+                "prev": "And baby, I'll admit I've been a little superstitious (Superstitious)",
+                "this": "The curse on me was broken by your magic wand (Ah)",
+                "next": "Seems to be that you and me, we make our own luck"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 25,
+                "prev": "The curse on me was broken by your magic wand (Ah)",
+                "this": "Seems to be that you and me, we make our own luck",
+                "next": "New Heights (New Heights) of manhood (Manhood)"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 26,
+                "prev": "Seems to be that you and me, we make our own luck",
+                "this": "New Heights (New Heights) of manhood (Manhood)",
+                "next": "I ain't gotta knock on wood"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 27,
+                "prev": "New Heights (New Heights) of manhood (Manhood)",
+                "this": "I ain't gotta knock on wood",
+                "next": "(Ah) All of that bitchin', wishing on a falling star"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 28,
+                "prev": "I ain't gotta knock on wood",
+                "this": "(Ah) All of that bitchin', wishing on a falling star",
+                "next": "Never did me any good"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 29,
+                "prev": "(Ah) All of that bitchin', wishing on a falling star",
+                "this": "Never did me any good",
+                "next": "I ain't got to knock on wood"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 30,
+                "prev": "Never did me any good",
+                "this": "I ain't got to knock on wood",
+                "next": "(Ah) It's you and me forever dancing in the dark (Ah)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 31,
+                "prev": "I ain't got to knock on wood",
+                "this": "(Ah) It's you and me forever dancing in the dark (Ah)",
+                "next": "All over me, it's understood"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 32,
+                "prev": "(Ah) It's you and me forever dancing in the dark (Ah)",
+                "this": "All over me, it's understood",
+                "next": "I ain't got to knock on wood"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 33,
+                "prev": "All over me, it's understood",
+                "this": "I ain't got to knock on wood",
+                "next": "Forgive me, it sounds cocky"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 34,
+                "prev": "I ain't got to knock on wood",
+                "this": "Forgive me, it sounds cocky",
+                "next": "He ah-matized me and opened my eyes"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 35,
+                "prev": "Forgive me, it sounds cocky",
+                "this": "He ah-matized me and opened my eyes",
+                "next": "Redwood tree, it ain't hard to see"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 36,
+                "prev": "He ah-matized me and opened my eyes",
+                "this": "Redwood tree, it ain't hard to see",
+                "next": "His love was the key that opened my thighs"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 37,
+                "prev": "Redwood tree, it ain't hard to see",
+                "this": "His love was the key that opened my thighs",
+                "next": "Forgive me, it sounds cocky"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 38,
+                "prev": "His love was the key that opened my thighs",
+                "this": "Forgive me, it sounds cocky",
+                "next": "He ah-matized me and opened my eyes"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 39,
+                "prev": "Forgive me, it sounds cocky",
+                "this": "He ah-matized me and opened my eyes",
+                "next": "Redwood tree, it ain't hard to see"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 40,
+                "prev": "He ah-matized me and opened my eyes",
+                "this": "Redwood tree, it ain't hard to see",
+                "next": "His love was the key that opened my thighs"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 41,
+                "prev": "Redwood tree, it ain't hard to see",
+                "this": "His love was the key that opened my thighs",
+                "next": ""
+            }
+        ],
+        "CANCELLED!": [
+            {
+                "section": "[Verse 1]",
+                "num": 1,
+                "prev": "",
+                "this": "You thought that it would be okay, at first",
+                "next": "The situation could be saved, of course"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 2,
+                "prev": "You thought that it would be okay, at first",
+                "this": "The situation could be saved, of course",
+                "next": "But they'd already picked out your grave and hearse"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 3,
+                "prev": "The situation could be saved, of course",
+                "this": "But they'd already picked out your grave and hearse",
+                "next": "Beware the wrath of masked crusaders"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 4,
+                "prev": "But they'd already picked out your grave and hearse",
+                "this": "Beware the wrath of masked crusaders",
+                "next": "Did you girl-boss too close to the sun?"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 5,
+                "prev": "Beware the wrath of masked crusaders",
+                "this": "Did you girl-boss too close to the sun?",
+                "next": "Did they catch you having far too much fun?"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 6,
+                "prev": "Did you girl-boss too close to the sun?",
+                "this": "Did they catch you having far too much fun?",
+                "next": "Come with me, when they see us, they'll run"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 7,
+                "prev": "Did they catch you having far too much fun?",
+                "this": "Come with me, when they see us, they'll run",
+                "next": "Something wicked this way comes"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 8,
+                "prev": "Come with me, when they see us, they'll run",
+                "this": "Something wicked this way comes",
+                "next": "Good thing I like my friends cancelled"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 9,
+                "prev": "Something wicked this way comes",
+                "this": "Good thing I like my friends cancelled",
+                "next": "I like 'em cloaked in Gucci and in scandal"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 10,
+                "prev": "Good thing I like my friends cancelled",
+                "this": "I like 'em cloaked in Gucci and in scandal",
+                "next": "Like my whiskey sour"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 11,
+                "prev": "I like 'em cloaked in Gucci and in scandal",
+                "this": "Like my whiskey sour",
+                "next": "And poison thorny flowers"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 12,
+                "prev": "Like my whiskey sour",
+                "this": "And poison thorny flowers",
+                "next": "Welcome to my underworld"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 13,
+                "prev": "And poison thorny flowers",
+                "this": "Welcome to my underworld",
+                "next": "Where it gets quite dark"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 14,
+                "prev": "Welcome to my underworld",
+                "this": "Where it gets quite dark",
+                "next": "At least you know exactly who your friends are"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 15,
+                "prev": "Where it gets quite dark",
+                "this": "At least you know exactly who your friends are",
+                "next": "They're the ones with matching scars"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 16,
+                "prev": "At least you know exactly who your friends are",
+                "this": "They're the ones with matching scars",
+                "next": "It's easy to love you when you're popular"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 17,
+                "prev": "They're the ones with matching scars",
+                "this": "It's easy to love you when you're popular",
+                "next": "The optics click, everyone prospers"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 18,
+                "prev": "It's easy to love you when you're popular",
+                "this": "The optics click, everyone prospers",
+                "next": "But one single drop, you're off the roster"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 19,
+                "prev": "The optics click, everyone prospers",
+                "this": "But one single drop, you're off the roster",
+                "next": "\"Tone-deaf and hot, let's fuckin' off her\""
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 20,
+                "prev": "But one single drop, you're off the roster",
+                "this": "\"Tone-deaf and hot, let's fuckin' off her\"",
+                "next": "Did you make a joke only a man could?"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 21,
+                "prev": "\"Tone-deaf and hot, let's fuckin' off her\"",
+                "this": "Did you make a joke only a man could?",
+                "next": "Were you just too smug for your own good?"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 22,
+                "prev": "Did you make a joke only a man could?",
+                "this": "Were you just too smug for your own good?",
+                "next": "Or bring a tiny violin to a knife fight?"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 23,
+                "prev": "Were you just too smug for your own good?",
+                "this": "Or bring a tiny violin to a knife fight?",
+                "next": "Baby, that all ends tonight"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 24,
+                "prev": "Or bring a tiny violin to a knife fight?",
+                "this": "Baby, that all ends tonight",
+                "next": "Good thing I like my friends cancelled (Cancelled)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 25,
+                "prev": "Baby, that all ends tonight",
+                "this": "Good thing I like my friends cancelled (Cancelled)",
+                "next": "I like 'em cloaked in Gucci and in scandal"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 26,
+                "prev": "Good thing I like my friends cancelled (Cancelled)",
+                "this": "I like 'em cloaked in Gucci and in scandal",
+                "next": "Like my whiskey sour"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 27,
+                "prev": "I like 'em cloaked in Gucci and in scandal",
+                "this": "Like my whiskey sour",
+                "next": "And poison thorny flowers"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 28,
+                "prev": "Like my whiskey sour",
+                "this": "And poison thorny flowers",
+                "next": "(Honey) Welcome to my underworld"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 29,
+                "prev": "And poison thorny flowers",
+                "this": "(Honey) Welcome to my underworld",
+                "next": "It'll break your heart"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 30,
+                "prev": "(Honey) Welcome to my underworld",
+                "this": "It'll break your heart",
+                "next": "At least you know exactly who your friends are"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 31,
+                "prev": "It'll break your heart",
+                "this": "At least you know exactly who your friends are",
+                "next": "They're the ones with matching scars"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 32,
+                "prev": "At least you know exactly who your friends are",
+                "this": "They're the ones with matching scars",
+                "next": "They stood by me"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 33,
+                "prev": "They're the ones with matching scars",
+                "this": "They stood by me",
+                "next": "Before my exoneration"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 34,
+                "prev": "They stood by me",
+                "this": "Before my exoneration",
+                "next": "They believed I was innocent"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 35,
+                "prev": "Before my exoneration",
+                "this": "They believed I was innocent",
+                "next": "So I'm not here for judgment, no, ooh"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 36,
+                "prev": "They believed I was innocent",
+                "this": "So I'm not here for judgment, no, ooh",
+                "next": "But if you can't be good, then just be better at it"
+            },
+            {
+                "section": "[Verse 3]",
+                "num": 37,
+                "prev": "So I'm not here for judgment, no, ooh",
+                "this": "But if you can't be good, then just be better at it",
+                "next": "Everyone's got bodies in the attic"
+            },
+            {
+                "section": "[Verse 3]",
+                "num": 38,
+                "prev": "But if you can't be good, then just be better at it",
+                "this": "Everyone's got bodies in the attic",
+                "next": "Or took somebody's man, we'll take you by the hand"
+            },
+            {
+                "section": "[Verse 3]",
+                "num": 39,
+                "prev": "Everyone's got bodies in the attic",
+                "this": "Or took somebody's man, we'll take you by the hand",
+                "next": "And soon you'll learn the art of never getting caught"
+            },
+            {
+                "section": "[Verse 3]",
+                "num": 40,
+                "prev": "Or took somebody's man, we'll take you by the hand",
+                "this": "And soon you'll learn the art of never getting caught",
+                "next": "It's a good thing I like my friends cancelled"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 41,
+                "prev": "And soon you'll learn the art of never getting caught",
+                "this": "It's a good thing I like my friends cancelled",
+                "next": "You know that I like 'em cloaked in Gucci and in scandal"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 42,
+                "prev": "It's a good thing I like my friends cancelled",
+                "this": "You know that I like 'em cloaked in Gucci and in scandal",
+                "next": "I like my whiskey sour"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 43,
+                "prev": "You know that I like 'em cloaked in Gucci and in scandal",
+                "this": "I like my whiskey sour",
+                "next": "And poison thorny flowers (Ooh)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 44,
+                "prev": "I like my whiskey sour",
+                "this": "And poison thorny flowers (Ooh)",
+                "next": "Yeah, it's a good thing I like my friends cancelled (Cancelled)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 45,
+                "prev": "And poison thorny flowers (Ooh)",
+                "this": "Yeah, it's a good thing I like my friends cancelled (Cancelled)",
+                "next": "I salute you if you're much too much to handle"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 46,
+                "prev": "Yeah, it's a good thing I like my friends cancelled (Cancelled)",
+                "this": "I salute you if you're much too much to handle",
+                "next": "Like my whiskey sour (I like it)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 47,
+                "prev": "I salute you if you're much too much to handle",
+                "this": "Like my whiskey sour (I like it)",
+                "next": "And poison thorny flowers (I love it)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 48,
+                "prev": "Like my whiskey sour (I like it)",
+                "this": "And poison thorny flowers (I love it)",
+                "next": "Can't you see my infamy loves company?"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 49,
+                "prev": "And poison thorny flowers (I love it)",
+                "this": "Can't you see my infamy loves company?",
+                "next": "Now they've broken you like they've broken me"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 50,
+                "prev": "Can't you see my infamy loves company?",
+                "this": "Now they've broken you like they've broken me",
+                "next": "But a shattered glass is a lot more sharp"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 51,
+                "prev": "Now they've broken you like they've broken me",
+                "this": "But a shattered glass is a lot more sharp",
+                "next": "And now you know exactly who your friends are"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 52,
+                "prev": "But a shattered glass is a lot more sharp",
+                "this": "And now you know exactly who your friends are",
+                "next": "You know who we are"
+            },
+            {
+                "section": "[Outro]",
+                "num": 53,
+                "prev": "And now you know exactly who your friends are",
+                "this": "You know who we are",
+                "next": "We're the ones with matching scars"
+            },
+            {
+                "section": "[Outro]",
+                "num": 54,
+                "prev": "You know who we are",
+                "this": "We're the ones with matching scars",
+                "next": ""
+            }
+        ],
+        "Honey": [
+            {
+                "section": "[Refrain]",
+                "num": 1,
+                "prev": "",
+                "this": "You can call me \"Honey\" if you want because I'm the one you want",
+                "next": "Mm-mm"
+            },
+            {
+                "section": "[Refrain]",
+                "num": 2,
+                "prev": "You can call me \"Honey\" if you want because I'm the one you want",
+                "this": "Mm-mm",
+                "next": "When anyone called me \"Sweetheart\""
+            },
+            {
+                "section": "[Chorus]",
+                "num": 3,
+                "prev": "Mm-mm",
+                "this": "When anyone called me \"Sweetheart\"",
+                "next": "It was passive-aggressive at the bar"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 4,
+                "prev": "When anyone called me \"Sweetheart\"",
+                "this": "It was passive-aggressive at the bar",
+                "next": "And the bitch was tellin' me to back off"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 5,
+                "prev": "It was passive-aggressive at the bar",
+                "this": "And the bitch was tellin' me to back off",
+                "next": "'Cause her man had looked at me wrong"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 6,
+                "prev": "And the bitch was tellin' me to back off",
+                "this": "'Cause her man had looked at me wrong",
+                "next": "If anyone called me \"Honey\""
+            },
+            {
+                "section": "[Chorus]",
+                "num": 7,
+                "prev": "'Cause her man had looked at me wrong",
+                "this": "If anyone called me \"Honey\"",
+                "next": "It was standin' in the bathroom, white teeth"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 8,
+                "prev": "If anyone called me \"Honey\"",
+                "this": "It was standin' in the bathroom, white teeth",
+                "next": "They were sayin' that skirt don't fit me"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 9,
+                "prev": "It was standin' in the bathroom, white teeth",
+                "this": "They were sayin' that skirt don't fit me",
+                "next": "And I cried the whole way home"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 10,
+                "prev": "They were sayin' that skirt don't fit me",
+                "this": "And I cried the whole way home",
+                "next": "But you touched my face"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 11,
+                "prev": "And I cried the whole way home",
+                "this": "But you touched my face",
+                "next": "Redefined all of those blues"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 12,
+                "prev": "But you touched my face",
+                "this": "Redefined all of those blues",
+                "next": "When you say \"Honey\""
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 13,
+                "prev": "Redefined all of those blues",
+                "this": "When you say \"Honey\"",
+                "next": "Summertime spritz, pink skies"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 14,
+                "prev": "When you say \"Honey\"",
+                "this": "Summertime spritz, pink skies",
+                "next": "You can call me \"Honey\" if you want because I'm the one you want"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 15,
+                "prev": "Summertime spritz, pink skies",
+                "this": "You can call me \"Honey\" if you want because I'm the one you want",
+                "next": "Wintergreen kiss, on my"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 16,
+                "prev": "You can call me \"Honey\" if you want because I'm the one you want",
+                "this": "Wintergreen kiss, on my",
+                "next": "Gave it a different meaning 'cause you mean it when you talk"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 17,
+                "prev": "Wintergreen kiss, on my",
+                "this": "Gave it a different meaning 'cause you mean it when you talk",
+                "next": "Honey, I'm home, we could play house"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 18,
+                "prev": "Gave it a different meaning 'cause you mean it when you talk",
+                "this": "Honey, I'm home, we could play house",
+                "next": "We can bed down, pick me up"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 19,
+                "prev": "Honey, I'm home, we could play house",
+                "this": "We can bed down, pick me up",
+                "next": "Who's the baddest in the land? What's the plan? (What's the plan?)"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 20,
+                "prev": "We can bed down, pick me up",
+                "this": "Who's the baddest in the land? What's the plan? (What's the plan?)",
+                "next": "You could be my forever night stand"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 21,
+                "prev": "Who's the baddest in the land? What's the plan? (What's the plan?)",
+                "this": "You could be my forever night stand",
+                "next": "Honey"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 22,
+                "prev": "You could be my forever night stand",
+                "this": "Honey",
+                "next": "When anyone called me \"Sweetheart\""
+            },
+            {
+                "section": "[Chorus]",
+                "num": 23,
+                "prev": "Honey",
+                "this": "When anyone called me \"Sweetheart\"",
+                "next": "It was passive-aggressive at the bar"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 24,
+                "prev": "When anyone called me \"Sweetheart\"",
+                "this": "It was passive-aggressive at the bar",
+                "next": "And the bitch was tellin' me to back off (Back off)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 25,
+                "prev": "It was passive-aggressive at the bar",
+                "this": "And the bitch was tellin' me to back off (Back off)",
+                "next": "'Cause her man had looked at me wrong"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 26,
+                "prev": "And the bitch was tellin' me to back off (Back off)",
+                "this": "'Cause her man had looked at me wrong",
+                "next": "If anyone called me \"Honey\""
+            },
+            {
+                "section": "[Chorus]",
+                "num": 27,
+                "prev": "'Cause her man had looked at me wrong",
+                "this": "If anyone called me \"Honey\"",
+                "next": "It was standin' in the bathroom, white teeth"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 28,
+                "prev": "If anyone called me \"Honey\"",
+                "this": "It was standin' in the bathroom, white teeth",
+                "next": "They were sayin' that skirt don't fit me"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 29,
+                "prev": "It was standin' in the bathroom, white teeth",
+                "this": "They were sayin' that skirt don't fit me",
+                "next": "And I cried the whole way home"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 30,
+                "prev": "They were sayin' that skirt don't fit me",
+                "this": "And I cried the whole way home",
+                "next": "But you touched my face"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 31,
+                "prev": "And I cried the whole way home",
+                "this": "But you touched my face",
+                "next": "Redefined all of those blues"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 32,
+                "prev": "But you touched my face",
+                "this": "Redefined all of those blues",
+                "next": "When you say"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 33,
+                "prev": "Redefined all of those blues",
+                "this": "When you say",
+                "next": "You can call me \"Honey\" if you want because I'm the one you want"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 34,
+                "prev": "When you say",
+                "this": "You can call me \"Honey\" if you want because I'm the one you want",
+                "next": "I'm the one you want"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 35,
+                "prev": "You can call me \"Honey\" if you want because I'm the one you want",
+                "this": "I'm the one you want",
+                "next": "You give it different meaning, 'cause you mean it when you talk"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 36,
+                "prev": "I'm the one you want",
+                "this": "You give it different meaning, 'cause you mean it when you talk",
+                "next": "Sweetie, it's yours, kicking in doors"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 37,
+                "prev": "You give it different meaning, 'cause you mean it when you talk",
+                "this": "Sweetie, it's yours, kicking in doors",
+                "next": "Take it to the floor, give me more"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 38,
+                "prev": "Sweetie, it's yours, kicking in doors",
+                "this": "Take it to the floor, give me more",
+                "next": "Buy the paint in the color of your eyes (Of your eyes)"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 39,
+                "prev": "Take it to the floor, give me more",
+                "this": "Buy the paint in the color of your eyes (Of your eyes)",
+                "next": "And graffiti my whole damn life"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 40,
+                "prev": "Buy the paint in the color of your eyes (Of your eyes)",
+                "this": "And graffiti my whole damn life",
+                "next": "Honey"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 41,
+                "prev": "And graffiti my whole damn life",
+                "this": "Honey",
+                "next": "When anyone called me late night"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 42,
+                "prev": "Honey",
+                "this": "When anyone called me late night",
+                "next": "He was screwin' around with my mind"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 43,
+                "prev": "When anyone called me late night",
+                "this": "He was screwin' around with my mind",
+                "next": "Askin', \"What are you wearin'?\""
+            },
+            {
+                "section": "[Bridge]",
+                "num": 44,
+                "prev": "He was screwin' around with my mind",
+                "this": "Askin', \"What are you wearin'?\"",
+                "next": "Too hard to remember in the morning"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 45,
+                "prev": "Askin', \"What are you wearin'?\"",
+                "this": "Too hard to remember in the morning",
+                "next": "And when anyone called me \"Lovely\""
+            },
+            {
+                "section": "[Bridge]",
+                "num": 46,
+                "prev": "Too hard to remember in the morning",
+                "this": "And when anyone called me \"Lovely\"",
+                "next": "They were findin' ways not to praise me"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 47,
+                "prev": "And when anyone called me \"Lovely\"",
+                "this": "They were findin' ways not to praise me",
+                "next": "But you say it like you're in awe of me"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 48,
+                "prev": "They were findin' ways not to praise me",
+                "this": "But you say it like you're in awe of me",
+                "next": "And you stay until the morning"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 49,
+                "prev": "But you say it like you're in awe of me",
+                "this": "And you stay until the morning",
+                "next": "Honey"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 50,
+                "prev": "And you stay until the morning",
+                "this": "Honey",
+                "next": "When anyone called me \"Sweetheart\""
+            },
+            {
+                "section": "[Chorus]",
+                "num": 51,
+                "prev": "Honey",
+                "this": "When anyone called me \"Sweetheart\"",
+                "next": "It was passive-aggressive at the bar"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 52,
+                "prev": "When anyone called me \"Sweetheart\"",
+                "this": "It was passive-aggressive at the bar",
+                "next": "And the bitch was tellin' me to back off (Back off)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 53,
+                "prev": "It was passive-aggressive at the bar",
+                "this": "And the bitch was tellin' me to back off (Back off)",
+                "next": "'Cause her man had looked at me wrong (He looked at me wrong)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 54,
+                "prev": "And the bitch was tellin' me to back off (Back off)",
+                "this": "'Cause her man had looked at me wrong (He looked at me wrong)",
+                "next": "If anyone called me \"Honey\" (Ooh)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 55,
+                "prev": "'Cause her man had looked at me wrong (He looked at me wrong)",
+                "this": "If anyone called me \"Honey\" (Ooh)",
+                "next": "It was standin' in the bathroom (Yeah), white teeth"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 56,
+                "prev": "If anyone called me \"Honey\" (Ooh)",
+                "this": "It was standin' in the bathroom (Yeah), white teeth",
+                "next": "They were sayin' that skirt don't fit me"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 57,
+                "prev": "It was standin' in the bathroom (Yeah), white teeth",
+                "this": "They were sayin' that skirt don't fit me",
+                "next": "And I cried the whole way home (Cried the whole way home)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 58,
+                "prev": "They were sayin' that skirt don't fit me",
+                "this": "And I cried the whole way home (Cried the whole way home)",
+                "next": "But you can call me \"Honey\" if you want"
+            },
+            {
+                "section": "[Outro]",
+                "num": 59,
+                "prev": "And I cried the whole way home (Cried the whole way home)",
+                "this": "But you can call me \"Honey\" if you want",
+                "next": ""
+            }
+        ],
+        "The Life of a Showgirl (feat. Sabrina Carpenter)": [
+            {
                 "section": "[Verse 1: Taylor Swift]",
                 "num": 1,
                 "prev": "",
-                "this": "I was s'posed to be sent away",
-                "next": "But they forgot to come and get me"
+                "this": "Her name was Kitty",
+                "next": "Made her money being pretty and witty"
+            },
+            {
+                "section": "[Verse 1: Taylor Swift]",
+                "num": 2,
+                "prev": "Her name was Kitty",
+                "this": "Made her money being pretty and witty",
+                "next": "They gave her the keys to this city"
+            },
+            {
+                "section": "[Verse 1: Taylor Swift]",
+                "num": 3,
+                "prev": "Made her money being pretty and witty",
+                "this": "They gave her the keys to this city",
+                "next": "Then they said she didn't do it legitly, uh"
+            },
+            {
+                "section": "[Verse 1: Taylor Swift]",
+                "num": 4,
+                "prev": "They gave her the keys to this city",
+                "this": "Then they said she didn't do it legitly, uh",
+                "next": "I bought a ticket"
+            },
+            {
+                "section": "[Verse 1: Taylor Swift]",
+                "num": 5,
+                "prev": "Then they said she didn't do it legitly, uh",
+                "this": "I bought a ticket",
+                "next": "She's dancing in her garters and fishnets"
+            },
+            {
+                "section": "[Verse 1: Taylor Swift]",
+                "num": 6,
+                "prev": "I bought a ticket",
+                "this": "She's dancing in her garters and fishnets",
+                "next": "Fifty in the cast, zero missteps"
+            },
+            {
+                "section": "[Verse 1: Taylor Swift]",
+                "num": 7,
+                "prev": "She's dancing in her garters and fishnets",
+                "this": "Fifty in the cast, zero missteps",
+                "next": "Looking back, I guess it was kismet"
+            },
+            {
+                "section": "[Verse 1: Taylor Swift]",
+                "num": 8,
+                "prev": "Fifty in the cast, zero missteps",
+                "this": "Looking back, I guess it was kismet",
+                "next": "I waited by the stage door"
+            },
+            {
+                "section": "[Pre-Chorus: Taylor Swift]",
+                "num": 9,
+                "prev": "Looking back, I guess it was kismet",
+                "this": "I waited by the stage door",
+                "next": "Packed in with the autograph"
+            },
+            {
+                "section": "[Pre-Chorus: Taylor Swift]",
+                "num": 10,
+                "prev": "I waited by the stage door",
+                "this": "Packed in with the autograph",
+                "next": "Hounds barking her name"
+            },
+            {
+                "section": "[Pre-Chorus: Taylor Swift]",
+                "num": 11,
+                "prev": "Packed in with the autograph",
+                "this": "Hounds barking her name",
+                "next": "Then glowing like the end of a cigarette"
+            },
+            {
+                "section": "[Pre-Chorus: Taylor Swift]",
+                "num": 12,
+                "prev": "Hounds barking her name",
+                "this": "Then glowing like the end of a cigarette",
+                "next": "Wow, she came out"
+            },
+            {
+                "section": "[Pre-Chorus: Taylor Swift]",
+                "num": 13,
+                "prev": "Then glowing like the end of a cigarette",
+                "this": "Wow, she came out",
+                "next": "I said, \"You're living my dream\""
+            },
+            {
+                "section": "[Pre-Chorus: Taylor Swift]",
+                "num": 14,
+                "prev": "Wow, she came out",
+                "this": "I said, \"You're living my dream\"",
+                "next": "Then she said to me"
+            },
+            {
+                "section": "[Pre-Chorus: Taylor Swift]",
+                "num": 15,
+                "prev": "I said, \"You're living my dream\"",
+                "this": "Then she said to me",
+                "next": "\"Hey, thank you for the lovely bouquet"
+            },
+            {
+                "section": "[Chorus: Taylor Swift]",
+                "num": 16,
+                "prev": "Then she said to me",
+                "this": "\"Hey, thank you for the lovely bouquet",
+                "next": "You're sweeter than a peach"
+            },
+            {
+                "section": "[Chorus: Taylor Swift]",
+                "num": 17,
+                "prev": "\"Hey, thank you for the lovely bouquet",
+                "this": "You're sweeter than a peach",
+                "next": "But you don't know the life of a showgirl, babe"
+            },
+            {
+                "section": "[Chorus: Taylor Swift]",
+                "num": 18,
+                "prev": "You're sweeter than a peach",
+                "this": "But you don't know the life of a showgirl, babe",
+                "next": "And you're never, ever gonna"
+            },
+            {
+                "section": "[Chorus: Taylor Swift]",
+                "num": 19,
+                "prev": "But you don't know the life of a showgirl, babe",
+                "this": "And you're never, ever gonna",
+                "next": "Wait, the more you play, the more that you pay"
+            },
+            {
+                "section": "[Chorus: Taylor Swift]",
+                "num": 20,
+                "prev": "And you're never, ever gonna",
+                "this": "Wait, the more you play, the more that you pay",
+                "next": "You're softer than a kitten, so"
+            },
+            {
+                "section": "[Chorus: Taylor Swift]",
+                "num": 21,
+                "prev": "Wait, the more you play, the more that you pay",
+                "this": "You're softer than a kitten, so",
+                "next": "You don't know the life of a showgirl, babe"
+            },
+            {
+                "section": "[Chorus: Taylor Swift]",
+                "num": 22,
+                "prev": "You're softer than a kitten, so",
+                "this": "You don't know the life of a showgirl, babe",
+                "next": "And you're never gonna wanna\""
+            },
+            {
+                "section": "[Chorus: Taylor Swift]",
+                "num": 23,
+                "prev": "You don't know the life of a showgirl, babe",
+                "this": "And you're never gonna wanna\"",
+                "next": "She was a menace"
+            },
+            {
+                "section": "[Verse 2: Sabrina Carpenter]",
+                "num": 24,
+                "prev": "And you're never gonna wanna\"",
+                "this": "She was a menace",
+                "next": "The baby of the family in Lenox"
+            },
+            {
+                "section": "[Verse 2: Sabrina Carpenter]",
+                "num": 25,
+                "prev": "She was a menace",
+                "this": "The baby of the family in Lenox",
+                "next": "Her father whored around like all men did"
+            },
+            {
+                "section": "[Verse 2: Sabrina Carpenter]",
+                "num": 26,
+                "prev": "The baby of the family in Lenox",
+                "this": "Her father whored around like all men did",
+                "next": "Her mother took pills and played tennis"
+            },
+            {
+                "section": "[Verse 2: Sabrina Carpenter]",
+                "num": 27,
+                "prev": "Her father whored around like all men did",
+                "this": "Her mother took pills and played tennis",
+                "next": "So she waited by the stage door"
+            },
+            {
+                "section": "[Pre-Chorus: Sabrina Carpenter & Taylor Swift]",
+                "num": 28,
+                "prev": "Her mother took pills and played tennis",
+                "this": "So she waited by the stage door",
+                "next": "Asked the club for more to arrive"
+            },
+            {
+                "section": "[Pre-Chorus: Sabrina Carpenter & Taylor Swift]",
+                "num": 29,
+                "prev": "So she waited by the stage door",
+                "this": "Asked the club for more to arrive",
+                "next": "She said, \"I'd sell my soul to have a taste of a magnificent life\""
+            },
+            {
+                "section": "[Pre-Chorus: Sabrina Carpenter & Taylor Swift]",
+                "num": 30,
+                "prev": "Asked the club for more to arrive",
+                "this": "She said, \"I'd sell my soul to have a taste of a magnificent life\"",
+                "next": "It's all mine"
+            },
+            {
+                "section": "[Pre-Chorus: Sabrina Carpenter & Taylor Swift]",
+                "num": 31,
+                "prev": "She said, \"I'd sell my soul to have a taste of a magnificent life\"",
+                "this": "It's all mine",
+                "next": "But that's not what showgirls get"
+            },
+            {
+                "section": "[Pre-Chorus: Sabrina Carpenter & Taylor Swift]",
+                "num": 32,
+                "prev": "It's all mine",
+                "this": "But that's not what showgirls get",
+                "next": "They leave us for dead"
+            },
+            {
+                "section": "[Pre-Chorus: Sabrina Carpenter & Taylor Swift]",
+                "num": 33,
+                "prev": "But that's not what showgirls get",
+                "this": "They leave us for dead",
+                "next": "Hey, thank you for the lovely bouquet"
+            },
+            {
+                "section": "[Chorus: Sabrina Carpenter & Taylor Swift]",
+                "num": 34,
+                "prev": "They leave us for dead",
+                "this": "Hey, thank you for the lovely bouquet",
+                "next": "You're sweeter than a peach"
+            },
+            {
+                "section": "[Chorus: Sabrina Carpenter & Taylor Swift]",
+                "num": 35,
+                "prev": "Hey, thank you for the lovely bouquet",
+                "this": "You're sweeter than a peach",
+                "next": "But you don't know the life of a showgirl, babe"
+            },
+            {
+                "section": "[Chorus: Sabrina Carpenter & Taylor Swift]",
+                "num": 36,
+                "prev": "You're sweeter than a peach",
+                "this": "But you don't know the life of a showgirl, babe",
+                "next": "And you're never, ever gonna"
+            },
+            {
+                "section": "[Chorus: Sabrina Carpenter & Taylor Swift]",
+                "num": 37,
+                "prev": "But you don't know the life of a showgirl, babe",
+                "this": "And you're never, ever gonna",
+                "next": "Wait, the more you play, the more that you pay"
+            },
+            {
+                "section": "[Chorus: Sabrina Carpenter & Taylor Swift]",
+                "num": 38,
+                "prev": "And you're never, ever gonna",
+                "this": "Wait, the more you play, the more that you pay",
+                "next": "You're softer than a kitten, so"
+            },
+            {
+                "section": "[Chorus: Sabrina Carpenter & Taylor Swift]",
+                "num": 39,
+                "prev": "Wait, the more you play, the more that you pay",
+                "this": "You're softer than a kitten, so",
+                "next": "You don't know the life of a showgirl, babe"
+            },
+            {
+                "section": "[Chorus: Sabrina Carpenter & Taylor Swift]",
+                "num": 40,
+                "prev": "You're softer than a kitten, so",
+                "this": "You don't know the life of a showgirl, babe",
+                "next": "And you're never gonna wanna"
+            },
+            {
+                "section": "[Chorus: Sabrina Carpenter & Taylor Swift]",
+                "num": 41,
+                "prev": "You don't know the life of a showgirl, babe",
+                "this": "And you're never gonna wanna",
+                "next": "I took her pearls of wisdom"
+            },
+            {
+                "section": "[Bridge: Taylor Swift & Sabrina Carpenter]",
+                "num": 42,
+                "prev": "And you're never gonna wanna",
+                "this": "I took her pearls of wisdom",
+                "next": "Hung them from my neck"
+            },
+            {
+                "section": "[Bridge: Taylor Swift & Sabrina Carpenter]",
+                "num": 43,
+                "prev": "I took her pearls of wisdom",
+                "this": "Hung them from my neck",
+                "next": "I paid my dues with every bruise"
+            },
+            {
+                "section": "[Bridge: Taylor Swift & Sabrina Carpenter]",
+                "num": 44,
+                "prev": "Hung them from my neck",
+                "this": "I paid my dues with every bruise",
+                "next": "I knew what to expect"
+            },
+            {
+                "section": "[Bridge: Taylor Swift & Sabrina Carpenter]",
+                "num": 45,
+                "prev": "I paid my dues with every bruise",
+                "this": "I knew what to expect",
+                "next": "Do you wanna take a skate on the ice inside my veins?"
+            },
+            {
+                "section": "[Bridge: Taylor Swift & Sabrina Carpenter]",
+                "num": 46,
+                "prev": "I knew what to expect",
+                "this": "Do you wanna take a skate on the ice inside my veins?",
+                "next": "They ripped me off like false lashes"
+            },
+            {
+                "section": "[Bridge: Taylor Swift & Sabrina Carpenter]",
+                "num": 47,
+                "prev": "Do you wanna take a skate on the ice inside my veins?",
+                "this": "They ripped me off like false lashes",
+                "next": "And then threw me away"
+            },
+            {
+                "section": "[Bridge: Taylor Swift & Sabrina Carpenter]",
+                "num": 48,
+                "prev": "They ripped me off like false lashes",
+                "this": "And then threw me away",
+                "next": "And all the headshots on the walls"
+            },
+            {
+                "section": "[Bridge: Taylor Swift & Sabrina Carpenter]",
+                "num": 49,
+                "prev": "And then threw me away",
+                "this": "And all the headshots on the walls",
+                "next": "Of the dance hall are of the bitches"
+            },
+            {
+                "section": "[Bridge: Taylor Swift & Sabrina Carpenter]",
+                "num": 50,
+                "prev": "And all the headshots on the walls",
+                "this": "Of the dance hall are of the bitches",
+                "next": "Who wish I'd hurry up and die"
+            },
+            {
+                "section": "[Bridge: Taylor Swift & Sabrina Carpenter]",
+                "num": 51,
+                "prev": "Of the dance hall are of the bitches",
+                "this": "Who wish I'd hurry up and die",
+                "next": "But, I'm immortal now, baby dolls"
+            },
+            {
+                "section": "[Bridge: Taylor Swift & Sabrina Carpenter]",
+                "num": 52,
+                "prev": "Who wish I'd hurry up and die",
+                "this": "But, I'm immortal now, baby dolls",
+                "next": "I couldn't if I tried, so I say"
+            },
+            {
+                "section": "[Bridge: Taylor Swift & Sabrina Carpenter]",
+                "num": 53,
+                "prev": "But, I'm immortal now, baby dolls",
+                "this": "I couldn't if I tried, so I say",
+                "next": "\"Thank you for the lovely bouquet"
+            },
+            {
+                "section": "[Chorus: Taylor Swift, Sabrina Carpenter]",
+                "num": 54,
+                "prev": "I couldn't if I tried, so I say",
+                "this": "\"Thank you for the lovely bouquet",
+                "next": "I'm married to the hustle"
+            },
+            {
+                "section": "[Chorus: Taylor Swift, Sabrina Carpenter]",
+                "num": 55,
+                "prev": "\"Thank you for the lovely bouquet",
+                "this": "I'm married to the hustle",
+                "next": "And now I know the life of a showgirl, babe"
+            },
+            {
+                "section": "[Chorus: Taylor Swift, Sabrina Carpenter]",
+                "num": 56,
+                "prev": "I'm married to the hustle",
+                "this": "And now I know the life of a showgirl, babe",
+                "next": "And I'll never know another"
+            },
+            {
+                "section": "[Chorus: Taylor Swift, Sabrina Carpenter]",
+                "num": 57,
+                "prev": "And now I know the life of a showgirl, babe",
+                "this": "And I'll never know another",
+                "next": "Pain hidden by the lipstick and lace (Lipstick and lace)"
+            },
+            {
+                "section": "[Chorus: Taylor Swift, Sabrina Carpenter]",
+                "num": 58,
+                "prev": "And I'll never know another",
+                "this": "Pain hidden by the lipstick and lace (Lipstick and lace)",
+                "next": "Sequins are forever and now I know the life of a showgirl, babe"
+            },
+            {
+                "section": "[Chorus: Taylor Swift, Sabrina Carpenter]",
+                "num": 59,
+                "prev": "Pain hidden by the lipstick and lace (Lipstick and lace)",
+                "this": "Sequins are forever and now I know the life of a showgirl, babe",
+                "next": "Wouldn't have it any other way (Thank you for the lovely bouquet)"
+            },
+            {
+                "section": "[Chorus: Taylor Swift, Sabrina Carpenter]",
+                "num": 60,
+                "prev": "Sequins are forever and now I know the life of a showgirl, babe",
+                "this": "Wouldn't have it any other way (Thank you for the lovely bouquet)",
+                "next": "Wouldn't have it any other way (Thank you for lovely bouquet)"
+            },
+            {
+                "section": "[Chorus: Taylor Swift, Sabrina Carpenter]",
+                "num": 61,
+                "prev": "Wouldn't have it any other way (Thank you for the lovely bouquet)",
+                "this": "Wouldn't have it any other way (Thank you for lovely bouquet)",
+                "next": "Hey, Kitty (Thank you for lovely bouquet)"
+            },
+            {
+                "section": "[Chorus: Taylor Swift, Sabrina Carpenter]",
+                "num": 62,
+                "prev": "Wouldn't have it any other way (Thank you for lovely bouquet)",
+                "this": "Hey, Kitty (Thank you for lovely bouquet)",
+                "next": "Now I'm making money being pretty and witty"
+            },
+            {
+                "section": "[Chorus: Taylor Swift, Sabrina Carpenter]",
+                "num": 63,
+                "prev": "Hey, Kitty (Thank you for lovely bouquet)",
+                "this": "Now I'm making money being pretty and witty",
+                "next": "Thank you for the lovely bouquet\""
+            },
+            {
+                "section": "[Chorus: Taylor Swift, Sabrina Carpenter]",
+                "num": 64,
+                "prev": "Now I'm making money being pretty and witty",
+                "this": "Thank you for the lovely bouquet\"",
+                "next": "Thank you for an unforgettable night"
+            },
+            {
+                "section": "[Outro: Taylor Swift & Sabrina Carpenter]",
+                "num": 65,
+                "prev": "Thank you for the lovely bouquet\"",
+                "this": "Thank you for an unforgettable night",
+                "next": "We will see you next time"
+            },
+            {
+                "section": "[Outro: Taylor Swift & Sabrina Carpenter]",
+                "num": 66,
+                "prev": "Thank you for an unforgettable night",
+                "this": "We will see you next time",
+                "next": "Give it up for the band"
+            },
+            {
+                "section": "[Outro: Taylor Swift & Sabrina Carpenter]",
+                "num": 67,
+                "prev": "We will see you next time",
+                "this": "Give it up for the band",
+                "next": "And the dancers"
+            },
+            {
+                "section": "[Outro: Taylor Swift & Sabrina Carpenter]",
+                "num": 68,
+                "prev": "Give it up for the band",
+                "this": "And the dancers",
+                "next": "And of course, Sabrina"
+            },
+            {
+                "section": "[Outro: Taylor Swift & Sabrina Carpenter]",
+                "num": 69,
+                "prev": "And the dancers",
+                "this": "And of course, Sabrina",
+                "next": "I love you, Taylor"
+            },
+            {
+                "section": "[Outro: Taylor Swift & Sabrina Carpenter]",
+                "num": 70,
+                "prev": "And of course, Sabrina",
+                "this": "I love you, Taylor",
+                "next": "That's our show"
+            },
+            {
+                "section": "[Outro: Taylor Swift & Sabrina Carpenter]",
+                "num": 71,
+                "prev": "I love you, Taylor",
+                "this": "That's our show",
+                "next": "We love you so much"
+            },
+            {
+                "section": "[Outro: Taylor Swift & Sabrina Carpenter]",
+                "num": 72,
+                "prev": "That's our show",
+                "this": "We love you so much",
+                "next": "Goodnight"
+            },
+            {
+                "section": "[Outro: Taylor Swift & Sabrina Carpenter]",
+                "num": 73,
+                "prev": "We love you so much",
+                "this": "Goodnight",
+                "next": ""
             }
         ]
     },
