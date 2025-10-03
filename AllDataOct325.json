@@ -106281,6 +106281,239 @@
                 "section": "[Lyrics from supposed snippet]"
             }
         ],
+        "Need": [
+            {
+                "section": "[Verse 1]",
+                "num": 1,
+                "prev": "",
+                "this": "Want is the cigarette smoke on a jacket",
+                "next": "You wore to the wrong part of town"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 2,
+                "prev": "Want is the cigarette smoke on a jacket",
+                "this": "You wore to the wrong part of town",
+                "next": "Desire is the sound of the whiskey"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 3,
+                "prev": "You wore to the wrong part of town",
+                "this": "Desire is the sound of the whiskey",
+                "next": "Telling me you miss me, can you come around?"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 4,
+                "prev": "Desire is the sound of the whiskey",
+                "this": "Telling me you miss me, can you come around?",
+                "next": "Passion is a passing thing, it's"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 5,
+                "prev": "Telling me you miss me, can you come around?",
+                "this": "Passion is a passing thing, it's",
+                "next": "Accidental chemistry (Ah-ah-ah-ah)"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 6,
+                "prev": "Passion is a passing thing, it's",
+                "this": "Accidental chemistry (Ah-ah-ah-ah)",
+                "next": "Lust is a liar, a short-lived fire"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 7,
+                "prev": "Accidental chemistry (Ah-ah-ah-ah)",
+                "this": "Lust is a liar, a short-lived fire",
+                "next": "It ain't what you and I are at all"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 8,
+                "prev": "Lust is a liar, a short-lived fire",
+                "this": "It ain't what you and I are at all",
+                "next": "Oh, it's a need, it's a need"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 9,
+                "prev": "It ain't what you and I are at all",
+                "this": "Oh, it's a need, it's a need",
+                "next": "I would go anywhere that you lead"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 10,
+                "prev": "Oh, it's a need, it's a need",
+                "this": "I would go anywhere that you lead",
+                "next": "I am hopeless, breathless, burning slow"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 11,
+                "prev": "I would go anywhere that you lead",
+                "this": "I am hopeless, breathless, burning slow",
+                "next": "Touch me, hold me, tell me, \"I won't let you go\""
+            },
+            {
+                "section": "[Chorus]",
+                "num": 12,
+                "prev": "I am hopeless, breathless, burning slow",
+                "this": "Touch me, hold me, tell me, \"I won't let you go\"",
+                "next": "I won't leave, it's a need"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 13,
+                "prev": "Touch me, hold me, tell me, \"I won't let you go\"",
+                "this": "I won't leave, it's a need",
+                "next": "Danger is a thousand prickles on my neck"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 14,
+                "prev": "I won't leave, it's a need",
+                "this": "Danger is a thousand prickles on my neck",
+                "next": "That tell me to run or to freeze"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 15,
+                "prev": "Danger is a thousand prickles on my neck",
+                "this": "That tell me to run or to freeze",
+                "next": "Fear is the nightmare I had, you were with someone else"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 16,
+                "prev": "That tell me to run or to freeze",
+                "this": "Fear is the nightmare I had, you were with someone else",
+                "next": "You forgot about me"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 17,
+                "prev": "Fear is the nightmare I had, you were with someone else",
+                "this": "You forgot about me",
+                "next": "Passion is a passing thing, it's"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 18,
+                "prev": "You forgot about me",
+                "this": "Passion is a passing thing, it's",
+                "next": "Accidental chemistry (Ah-ah-ah-ah)"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 19,
+                "prev": "Passion is a passing thing, it's",
+                "this": "Accidental chemistry (Ah-ah-ah-ah)",
+                "next": "Caught up in a feelin', it can be deceivin'"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 20,
+                "prev": "Accidental chemistry (Ah-ah-ah-ah)",
+                "this": "Caught up in a feelin', it can be deceivin'",
+                "next": "This is like breathing for me (Ah)"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 21,
+                "prev": "Caught up in a feelin', it can be deceivin'",
+                "this": "This is like breathing for me (Ah)",
+                "next": "Oh, it's a need, it's a need"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 22,
+                "prev": "This is like breathing for me (Ah)",
+                "this": "Oh, it's a need, it's a need",
+                "next": "I would go anywhere that you lead"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 23,
+                "prev": "Oh, it's a need, it's a need",
+                "this": "I would go anywhere that you lead",
+                "next": "I am hopeless, breathless, burning slow"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 24,
+                "prev": "I would go anywhere that you lead",
+                "this": "I am hopeless, breathless, burning slow",
+                "next": "Touch me, hold me, tell me, \"I won't let you go\""
+            },
+            {
+                "section": "[Chorus]",
+                "num": 25,
+                "prev": "I am hopeless, breathless, burning slow",
+                "this": "Touch me, hold me, tell me, \"I won't let you go\"",
+                "next": "I won't leave, it's a need"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 26,
+                "prev": "Touch me, hold me, tell me, \"I won't let you go\"",
+                "this": "I won't leave, it's a need",
+                "next": "Baby, it's always a new kiss every time we do this, the truth is (Ah-ah-ah-ah)"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 27,
+                "prev": "I won't leave, it's a need",
+                "this": "Baby, it's always a new kiss every time we do this, the truth is (Ah-ah-ah-ah)",
+                "next": "It's essential to me that you love me more than wishing, longing"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 28,
+                "prev": "Baby, it's always a new kiss every time we do this, the truth is (Ah-ah-ah-ah)",
+                "this": "It's essential to me that you love me more than wishing, longing",
+                "next": "Oh, it's a need (It's a need), it's a need (Ah-ah, ah-ah)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 29,
+                "prev": "It's essential to me that you love me more than wishing, longing",
+                "this": "Oh, it's a need (It's a need), it's a need (Ah-ah, ah-ah)",
+                "next": "I would go (I would go) anywhere (Anywhere) that you lead (Oh, oh)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 30,
+                "prev": "Oh, it's a need (It's a need), it's a need (Ah-ah, ah-ah)",
+                "this": "I would go (I would go) anywhere (Anywhere) that you lead (Oh, oh)",
+                "next": "I am hopeless, breathless, burning slow (Burning slow)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 31,
+                "prev": "I would go (I would go) anywhere (Anywhere) that you lead (Oh, oh)",
+                "this": "I am hopeless, breathless, burning slow (Burning slow)",
+                "next": "Touch me, hold me, tell me, \"I won't let you go\""
+            },
+            {
+                "section": "[Chorus]",
+                "num": 32,
+                "prev": "I am hopeless, breathless, burning slow (Burning slow)",
+                "this": "Touch me, hold me, tell me, \"I won't let you go\"",
+                "next": "I won't leave (I won't leave), it's a need (Oh)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 33,
+                "prev": "Touch me, hold me, tell me, \"I won't let you go\"",
+                "this": "I won't leave (I won't leave), it's a need (Oh)",
+                "next": ""
+            }
+        ],
         "Need You Now": [
             {
                 "prev": "",
