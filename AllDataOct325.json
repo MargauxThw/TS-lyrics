@@ -3932,19 +3932,19 @@
                 "num": 44,
                 "prev": "He was screwin' around with my mind",
                 "this": "Askin', \"What are you wearin'?\"",
-                "next": "Too hard to remember in the morning"
+                "next": "Too high to remember in the morning"
             },
             {
                 "section": "[Bridge]",
                 "num": 45,
                 "prev": "Askin', \"What are you wearin'?\"",
-                "this": "Too hard to remember in the morning",
+                "this": "Too high to remember in the morning",
                 "next": "And when anyone called me \"Lovely\""
             },
             {
                 "section": "[Bridge]",
                 "num": 46,
-                "prev": "Too hard to remember in the morning",
+                "prev": "Too high to remember in the morning",
                 "this": "And when anyone called me \"Lovely\"",
                 "next": "They were findin' ways not to praise me"
             },
