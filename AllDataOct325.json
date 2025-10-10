@@ -6362,13 +6362,13 @@
                 "section": "[Verse 1]",
                 "num": 1,
                 "prev": "",
-                "this": "I forget how the west was won",
+                "this": "I forget how the West was won",
                 "next": "I forget if this was ever fun"
             },
             {
                 "section": "[Verse 1]",
                 "num": 2,
-                "prev": "I forget how the west was won",
+                "prev": "I forget how the West was won",
                 "this": "I forget if this was ever fun",
                 "next": "I just learned these people only raise you"
             },
@@ -6391,19 +6391,19 @@
                 "num": 5,
                 "prev": "To cage you",
                 "this": "Sarahs and Hannahs in their Sunday best",
-                "next": "Clutchin' their pearls saying, \"What a mess\""
+                "next": "Clutchin' their pearls, sighing, \"What a mess\""
             },
             {
                 "section": "[Verse 1]",
                 "num": 6,
                 "prev": "Sarahs and Hannahs in their Sunday best",
-                "this": "Clutchin' their pearls saying, \"What a mess\"",
+                "this": "Clutchin' their pearls, sighing, \"What a mess\"",
                 "next": "I just learned these people try and save you"
             },
             {
                 "section": "[Verse 1]",
                 "num": 7,
-                "prev": "Clutchin' their pearls saying, \"What a mess\"",
+                "prev": "Clutchin' their pearls, sighing, \"What a mess\"",
                 "this": "I just learned these people try and save you",
                 "next": "'Cause they hate you"
             },
@@ -6412,503 +6412,545 @@
                 "num": 8,
                 "prev": "I just learned these people try and save you",
                 "this": "'Cause they hate you",
-                "next": "Too high a horse for a simple girl"
+                "next": "Too high a horse"
             },
             {
                 "section": "[Pre-Chorus]",
                 "num": 9,
                 "prev": "'Cause they hate you",
-                "this": "Too high a horse for a simple girl",
-                "next": "To rise above it"
+                "this": "Too high a horse",
+                "next": "For a simple girl"
             },
             {
                 "section": "[Pre-Chorus]",
                 "num": 10,
-                "prev": "Too high a horse for a simple girl",
-                "this": "To rise above it",
-                "next": "They slammed the door on my whole world"
+                "prev": "Too high a horse",
+                "this": "For a simple girl",
+                "next": "To rise above it"
             },
             {
                 "section": "[Pre-Chorus]",
                 "num": 11,
-                "prev": "To rise above it",
-                "this": "They slammed the door on my whole world",
-                "next": "The one thing I wanted"
+                "prev": "For a simple girl",
+                "this": "To rise above it",
+                "next": "They slammed the door"
             },
             {
                 "section": "[Pre-Chorus]",
                 "num": 12,
-                "prev": "They slammed the door on my whole world",
-                "this": "The one thing I wanted",
-                "next": "Now I'm running with my dress unbuttoned"
+                "prev": "To rise above it",
+                "this": "They slammed the door",
+                "next": "On my whole world"
             },
             {
-                "section": "[Chorus]",
+                "section": "[Pre-Chorus]",
                 "num": 13,
-                "prev": "The one thing I wanted",
-                "this": "Now I'm running with my dress unbuttoned",
-                "next": "Screamin', \"But, daddy, I love him\""
+                "prev": "They slammed the door",
+                "this": "On my whole world",
+                "next": "The one thing I wanted"
             },
             {
-                "section": "[Chorus]",
+                "section": "[Pre-Chorus]",
                 "num": 14,
-                "prev": "Now I'm running with my dress unbuttoned",
-                "this": "Screamin', \"But, daddy, I love him\"",
-                "next": "I'm having his baby, no, I'm not"
+                "prev": "On my whole world",
+                "this": "The one thing I wanted",
+                "next": "Now I'm runnin' with my dress unbuttoned"
             },
             {
                 "section": "[Chorus]",
                 "num": 15,
-                "prev": "Screamin', \"But, daddy, I love him\"",
-                "this": "I'm having his baby, no, I'm not",
-                "next": "But you should see your faces"
+                "prev": "The one thing I wanted",
+                "this": "Now I'm runnin' with my dress unbuttoned",
+                "next": "Scrеamin', \"But, Daddy, I love him\""
             },
             {
                 "section": "[Chorus]",
                 "num": 16,
-                "prev": "I'm having his baby, no, I'm not",
-                "this": "But you should see your faces",
-                "next": "I'm telling him to floor it through the fences"
+                "prev": "Now I'm runnin' with my dress unbuttoned",
+                "this": "Scrеamin', \"But, Daddy, I love him\"",
+                "next": "I'm havin' his baby"
             },
             {
                 "section": "[Chorus]",
                 "num": 17,
-                "prev": "But you should see your faces",
-                "this": "I'm telling him to floor it through the fences",
-                "next": "No, I'm not coming to my senses"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 18,
-                "prev": "I'm telling him to floor it through the fences",
-                "this": "No, I'm not coming to my senses",
-                "next": "I know it's crazy"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 19,
-                "prev": "No, I'm not coming to my senses",
-                "this": "I know it's crazy",
-                "next": "But he's the one I want"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 20,
-                "prev": "I know it's crazy",
-                "this": "But he's the one I want",
-                "next": "Beautiful daughter on the plans relate"
-            },
-            {
-                "section": "[Verse 2]",
-                "num": 21,
-                "prev": "But he's the one I want",
-                "this": "Beautiful daughter on the plans relate",
-                "next": "Tendrils tucked into a woven braid"
-            },
-            {
-                "section": "[Verse 2]",
-                "num": 22,
-                "prev": "Beautiful daughter on the plans relate",
-                "this": "Tendrils tucked into a woven braid",
-                "next": "Growing up precocious sometimes means not growing up at all"
-            },
-            {
-                "section": "[Verse 2]",
-                "num": 23,
-                "prev": "Tendrils tucked into a woven braid",
-                "this": "Growing up precocious sometimes means not growing up at all",
-                "next": "You're this chaos he was revelry"
-            },
-            {
-                "section": "[Verse 2]",
-                "num": 24,
-                "prev": "Growing up precocious sometimes means not growing up at all",
-                "this": "You're this chaos he was revelry",
-                "next": "Bedroom eyes like a remedy"
-            },
-            {
-                "section": "[Verse 2]",
-                "num": 25,
-                "prev": "You're this chaos he was revelry",
-                "this": "Bedroom eyes like a remedy",
-                "next": "Soon enough the elders had convened down at the city hall"
-            },
-            {
-                "section": "[Verse 2]",
-                "num": 26,
-                "prev": "Bedroom eyes like a remedy",
-                "this": "Soon enough the elders had convened down at the city hall",
-                "next": "\"Stay away from her,\" the saboteurs"
-            },
-            {
-                "section": "[Pre-Chorus]",
-                "num": 27,
-                "prev": "Soon enough the elders had convened down at the city hall",
-                "this": "\"Stay away from her,\" the saboteurs",
-                "next": "Protested too much"
-            },
-            {
-                "section": "[Pre-Chorus]",
-                "num": 28,
-                "prev": "\"Stay away from her,\" the saboteurs",
-                "this": "Protested too much",
-                "next": "Lord knows the words we never heard"
-            },
-            {
-                "section": "[Pre-Chorus]",
-                "num": 29,
-                "prev": "Protested too much",
-                "this": "Lord knows the words we never heard",
-                "next": "Just screeching tires of true love"
-            },
-            {
-                "section": "[Pre-Chorus]",
-                "num": 30,
-                "prev": "Lord knows the words we never heard",
-                "this": "Just screeching tires of true love",
-                "next": "And I'm running with my dress unbuttoned"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 31,
-                "prev": "Just screeching tires of true love",
-                "this": "And I'm running with my dress unbuttoned",
-                "next": "Screaming, \"But daddy I love him\""
-            },
-            {
-                "section": "[Chorus]",
-                "num": 32,
-                "prev": "And I'm running with my dress unbuttoned",
-                "this": "Screaming, \"But daddy I love him\"",
-                "next": "I'm having this baby"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 33,
-                "prev": "Screaming, \"But daddy I love him\"",
-                "this": "I'm having this baby",
+                "prev": "Scrеamin', \"But, Daddy, I love him\"",
+                "this": "I'm havin' his baby",
                 "next": "No, I'm not, but you should see your faces"
             },
             {
                 "section": "[Chorus]",
-                "num": 34,
-                "prev": "I'm having this baby",
+                "num": 18,
+                "prev": "I'm havin' his baby",
                 "this": "No, I'm not, but you should see your faces",
-                "next": "I'm telling him to floor it through the fences"
+                "next": "I'm tellin' him to floor it through thе fences"
             },
             {
                 "section": "[Chorus]",
-                "num": 35,
+                "num": 19,
                 "prev": "No, I'm not, but you should see your faces",
-                "this": "I'm telling him to floor it through the fences",
+                "this": "I'm tellin' him to floor it through thе fences",
                 "next": "No, I'm not coming to my senses"
             },
             {
                 "section": "[Chorus]",
-                "num": 36,
-                "prev": "I'm telling him to floor it through the fences",
+                "num": 20,
+                "prev": "I'm tellin' him to floor it through thе fences",
                 "this": "No, I'm not coming to my senses",
-                "next": "I know it's crazy"
+                "next": "I know he's crazy, but he's the one I want"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 21,
+                "prev": "No, I'm not coming to my senses",
+                "this": "I know he's crazy, but he's the one I want",
+                "next": "Dutiful daughter, all my plans were laid"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 22,
+                "prev": "I know he's crazy, but he's the one I want",
+                "this": "Dutiful daughter, all my plans were laid",
+                "next": "Tendrils tucked into a woven braid"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 23,
+                "prev": "Dutiful daughter, all my plans were laid",
+                "this": "Tendrils tucked into a woven braid",
+                "next": "Growin' up precocious sometimes means"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 24,
+                "prev": "Tendrils tucked into a woven braid",
+                "this": "Growin' up precocious sometimes means",
+                "next": "Not growin' up at all"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 25,
+                "prev": "Growin' up precocious sometimes means",
+                "this": "Not growin' up at all",
+                "next": "He was chaos, he was revelry"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 26,
+                "prev": "Not growin' up at all",
+                "this": "He was chaos, he was revelry",
+                "next": "Bedroom eyes like a remedy"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 27,
+                "prev": "He was chaos, he was revelry",
+                "this": "Bedroom eyes like a remedy",
+                "next": "Soon enough, the elders had convened"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 28,
+                "prev": "Bedroom eyes like a remedy",
+                "this": "Soon enough, the elders had convened",
+                "next": "Down at the city hall"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 29,
+                "prev": "Soon enough, the elders had convened",
+                "this": "Down at the city hall",
+                "next": "\"Stay away from her\""
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 30,
+                "prev": "Down at the city hall",
+                "this": "\"Stay away from her\"",
+                "next": "The saboteurs"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 31,
+                "prev": "\"Stay away from her\"",
+                "this": "The saboteurs",
+                "next": "Protested too much"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 32,
+                "prev": "The saboteurs",
+                "this": "Protested too much",
+                "next": "Lord knows the words"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 33,
+                "prev": "Protested too much",
+                "this": "Lord knows the words",
+                "next": "We never heard"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 34,
+                "prev": "Lord knows the words",
+                "this": "We never heard",
+                "next": "Just screeching tires and true love"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 35,
+                "prev": "We never heard",
+                "this": "Just screeching tires and true love",
+                "next": "And I'm runnin' with my dress unbuttoned"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 36,
+                "prev": "Just screeching tires and true love",
+                "this": "And I'm runnin' with my dress unbuttoned",
+                "next": "Screamin', \"But, Daddy, I love him\""
             },
             {
                 "section": "[Chorus]",
                 "num": 37,
-                "prev": "No, I'm not coming to my senses",
-                "this": "I know it's crazy",
-                "next": "But he's the one I want"
+                "prev": "And I'm runnin' with my dress unbuttoned",
+                "this": "Screamin', \"But, Daddy, I love him\"",
+                "next": "I'm havin' his baby"
             },
             {
                 "section": "[Chorus]",
                 "num": 38,
-                "prev": "I know it's crazy",
-                "this": "But he's the one I want",
-                "next": "I'll tell you something right now"
+                "prev": "Screamin', \"But, Daddy, I love him\"",
+                "this": "I'm havin' his baby",
+                "next": "No, I'm not, but you should see your faces"
             },
             {
                 "section": "[Chorus]",
                 "num": 39,
-                "prev": "But he's the one I want",
-                "this": "I'll tell you something right now",
-                "next": "I'd rather burn my whole life down"
+                "prev": "I'm havin' his baby",
+                "this": "No, I'm not, but you should see your faces",
+                "next": "I'm tellin' him to floor it through the fences"
             },
             {
                 "section": "[Chorus]",
                 "num": 40,
+                "prev": "No, I'm not, but you should see your faces",
+                "this": "I'm tellin' him to floor it through the fences",
+                "next": "No, I'm not coming to my senses"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 41,
+                "prev": "I'm tellin' him to floor it through the fences",
+                "this": "No, I'm not coming to my senses",
+                "next": "I know he's crazy, but he's the one I want"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 42,
+                "prev": "No, I'm not coming to my senses",
+                "this": "I know he's crazy, but he's the one I want",
+                "next": "I'll tell you something right now"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 43,
+                "prev": "I know he's crazy, but he's the one I want",
+                "this": "I'll tell you something right now",
+                "next": "I'd rather burn my whole life down"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 44,
                 "prev": "I'll tell you something right now",
                 "this": "I'd rather burn my whole life down",
                 "next": "Than listen to one more second of all this bitchin' and moanin'"
             },
             {
-                "section": "[Chorus]",
-                "num": 41,
+                "section": "[Post-Chorus]",
+                "num": 45,
                 "prev": "I'd rather burn my whole life down",
                 "this": "Than listen to one more second of all this bitchin' and moanin'",
                 "next": "I'll tell you something 'bout my good name"
             },
             {
-                "section": "[Chorus]",
-                "num": 42,
+                "section": "[Post-Chorus]",
+                "num": 46,
                 "prev": "Than listen to one more second of all this bitchin' and moanin'",
                 "this": "I'll tell you something 'bout my good name",
-                "next": "It's mine along with all the disgrace"
+                "next": "It's mine alone to disgrace"
             },
             {
-                "section": "[Chorus]",
-                "num": 43,
+                "section": "[Post-Chorus]",
+                "num": 47,
                 "prev": "I'll tell you something 'bout my good name",
-                "this": "It's mine along with all the disgrace",
-                "next": "I don't cater to all these vipers dressed in empire's clothing"
+                "this": "It's mine alone to disgrace",
+                "next": "I don't cater to all these vipers dressed in empath's clothing"
             },
             {
-                "section": "[Chorus]",
-                "num": 44,
-                "prev": "It's mine along with all the disgrace",
-                "this": "I don't cater to all these vipers dressed in empire's clothing",
+                "section": "[Post-Chorus]",
+                "num": 48,
+                "prev": "It's mine alone to disgrace",
+                "this": "I don't cater to all these vipers dressed in empath's clothing",
                 "next": "God save the most judgmental creeps"
             },
             {
                 "section": "[Bridge]",
-                "num": 45,
-                "prev": "I don't cater to all these vipers dressed in empire's clothing",
+                "num": 49,
+                "prev": "I don't cater to all these vipers dressed in empath's clothing",
                 "this": "God save the most judgmental creeps",
                 "next": "Who say they want what's best for me"
             },
             {
                 "section": "[Bridge]",
-                "num": 46,
+                "num": 50,
                 "prev": "God save the most judgmental creeps",
                 "this": "Who say they want what's best for me",
                 "next": "Sanctimoniously performing soliloquies I'll never see"
             },
             {
                 "section": "[Bridge]",
-                "num": 47,
+                "num": 51,
                 "prev": "Who say they want what's best for me",
                 "this": "Sanctimoniously performing soliloquies I'll never see",
-                "next": "Thinking it can change the beat of my heart when he touches me"
+                "next": "Thinkin' it can change the beat"
             },
             {
                 "section": "[Bridge]",
-                "num": 48,
+                "num": 52,
                 "prev": "Sanctimoniously performing soliloquies I'll never see",
-                "this": "Thinking it can change the beat of my heart when he touches me",
+                "this": "Thinkin' it can change the beat",
+                "next": "Of my heart when he touches me"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 53,
+                "prev": "Thinkin' it can change the beat",
+                "this": "Of my heart when he touches me",
                 "next": "And counteract the chemistry"
             },
             {
                 "section": "[Bridge]",
-                "num": 49,
-                "prev": "Thinking it can change the beat of my heart when he touches me",
+                "num": 54,
+                "prev": "Of my heart when he touches me",
                 "this": "And counteract the chemistry",
                 "next": "And undo the destiny"
             },
             {
                 "section": "[Bridge]",
-                "num": 50,
+                "num": 55,
                 "prev": "And counteract the chemistry",
                 "this": "And undo the destiny",
                 "next": "You ain't gotta pray for me"
             },
             {
                 "section": "[Bridge]",
-                "num": 51,
+                "num": 56,
                 "prev": "And undo the destiny",
                 "this": "You ain't gotta pray for me",
-                "next": "Me and my wild boy"
+                "next": "Me and my wild boy and all of this wild joy"
             },
             {
                 "section": "[Bridge]",
-                "num": 52,
+                "num": 57,
                 "prev": "You ain't gotta pray for me",
-                "this": "Me and my wild boy",
-                "next": "And all of this wild joy"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 53,
-                "prev": "Me and my wild boy",
-                "this": "And all of this wild joy",
+                "this": "Me and my wild boy and all of this wild joy",
                 "next": "If all you want is gray for me"
             },
             {
                 "section": "[Bridge]",
-                "num": 54,
-                "prev": "And all of this wild joy",
-                "this": "If all you want is gray for me",
-                "next": "It's just white noise"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 55,
-                "prev": "If all you want is gray for me",
-                "this": "It's just white noise",
-                "next": "It's just my choice"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 56,
-                "prev": "It's just white noise",
-                "this": "It's just my choice",
-                "next": "There's a lot of people in town that I bestow upon my fakest smiles"
-            },
-            {
-                "section": "[Verse 3]",
-                "num": 57,
-                "prev": "It's just my choice",
-                "this": "There's a lot of people in town that I bestow upon my fakest smiles",
-                "next": "Scandal does funny things to pride but brings lovers closer"
-            },
-            {
-                "section": "[Verse 3]",
                 "num": 58,
-                "prev": "There's a lot of people in town that I bestow upon my fakest smiles",
-                "this": "Scandal does funny things to pride but brings lovers closer",
+                "prev": "Me and my wild boy and all of this wild joy",
+                "this": "If all you want is gray for me",
+                "next": "Then it's just white noise, and it's just my choice"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 59,
+                "prev": "If all you want is gray for me",
+                "this": "Then it's just white noise, and it's just my choice",
+                "next": "There's a lot of people in town that I"
+            },
+            {
+                "section": "[Verse 3]",
+                "num": 60,
+                "prev": "Then it's just white noise, and it's just my choice",
+                "this": "There's a lot of people in town that I",
+                "next": "Bestow upon my fakest smiles"
+            },
+            {
+                "section": "[Verse 3]",
+                "num": 61,
+                "prev": "There's a lot of people in town that I",
+                "this": "Bestow upon my fakest smiles",
+                "next": "Scandal does funny things to pride, but brings lovers closer"
+            },
+            {
+                "section": "[Verse 3]",
+                "num": 62,
+                "prev": "Bestow upon my fakest smiles",
+                "this": "Scandal does funny things to pride, but brings lovers closer",
                 "next": "We came back when the heat died down"
             },
             {
                 "section": "[Verse 3]",
-                "num": 59,
-                "prev": "Scandal does funny things to pride but brings lovers closer",
+                "num": 63,
+                "prev": "Scandal does funny things to pride, but brings lovers closer",
                 "this": "We came back when the heat died down",
                 "next": "Went to my parents and they came around"
             },
             {
                 "section": "[Verse 3]",
-                "num": 60,
+                "num": 64,
                 "prev": "We came back when the heat died down",
                 "this": "Went to my parents and they came around",
-                "next": "All the wine moms are still holding out"
+                "next": "All the wine moms are still holdin' out, but fuck 'em, it's over"
             },
             {
                 "section": "[Verse 3]",
-                "num": 61,
+                "num": 65,
                 "prev": "Went to my parents and they came around",
-                "this": "All the wine moms are still holding out",
-                "next": "But fuck 'em, it's over"
-            },
-            {
-                "section": "[Verse 3]",
-                "num": 62,
-                "prev": "All the wine moms are still holding out",
-                "this": "But fuck 'em, it's over",
-                "next": "Now I'm dancing in my dress in the sun and"
+                "this": "All the wine moms are still holdin' out, but fuck 'em, it's over",
+                "next": "Now I'm dancin' in my dress in the sun and"
             },
             {
                 "section": "[Chorus]",
-                "num": 63,
-                "prev": "But fuck 'em, it's over",
-                "this": "Now I'm dancing in my dress in the sun and",
+                "num": 66,
+                "prev": "All the wine moms are still holdin' out, but fuck 'em, it's over",
+                "this": "Now I'm dancin' in my dress in the sun and",
                 "next": "Even my daddy just loves him"
             },
             {
                 "section": "[Chorus]",
-                "num": 64,
-                "prev": "Now I'm dancing in my dress in the sun and",
+                "num": 67,
+                "prev": "Now I'm dancin' in my dress in the sun and",
                 "this": "Even my daddy just loves him",
                 "next": "I'm his lady"
             },
             {
                 "section": "[Chorus]",
-                "num": 65,
+                "num": 68,
                 "prev": "Even my daddy just loves him",
                 "this": "I'm his lady",
-                "next": "And oh my God you should see your faces"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 66,
-                "prev": "I'm his lady",
-                "this": "And oh my God you should see your faces",
-                "next": "Time, doesn't it give some perspective"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 67,
-                "prev": "And oh my God you should see your faces",
-                "this": "Time, doesn't it give some perspective",
-                "next": "I know you can't come to the wedding"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 68,
-                "prev": "Time, doesn't it give some perspective",
-                "this": "I know you can't come to the wedding",
-                "next": "I know it's crazy but he's the one I love"
+                "next": "And, oh my God, you should see your faces"
             },
             {
                 "section": "[Chorus]",
                 "num": 69,
-                "prev": "I know you can't come to the wedding",
-                "this": "I know it's crazy but he's the one I love",
-                "next": "I'll tell you something right now"
+                "prev": "I'm his lady",
+                "this": "And, oh my God, you should see your faces",
+                "next": "Time, doesn't it give some perspective?"
             },
             {
                 "section": "[Chorus]",
                 "num": 70,
-                "prev": "I know it's crazy but he's the one I love",
-                "this": "I'll tell you something right now",
-                "next": "You ain't gotta pray for me"
+                "prev": "And, oh my God, you should see your faces",
+                "this": "Time, doesn't it give some perspective?",
+                "next": "And, no, you can't come to the wedding"
             },
             {
                 "section": "[Chorus]",
                 "num": 71,
-                "prev": "I'll tell you something right now",
-                "this": "You ain't gotta pray for me",
-                "next": "Me and my wild boy, and all of this wild joy"
+                "prev": "Time, doesn't it give some perspective?",
+                "this": "And, no, you can't come to the wedding",
+                "next": "I know it's crazy, but he's the one I want"
             },
             {
                 "section": "[Chorus]",
                 "num": 72,
-                "prev": "You ain't gotta pray for me",
-                "this": "Me and my wild boy, and all of this wild joy",
-                "next": "It's all you want, it's gray for me"
+                "prev": "And, no, you can't come to the wedding",
+                "this": "I know it's crazy, but he's the one I want",
+                "next": "I'll tell you something right now"
             },
             {
-                "section": "[?] it was revelry",
+                "section": "[Post-Chorus]",
                 "num": 73,
-                "prev": "Me and my wild boy, and all of this wild joy",
-                "this": "It's all you want, it's gray for me",
-                "next": "It's just white noise, it's my choice"
+                "prev": "I know it's crazy, but he's the one I want",
+                "this": "I'll tell you something right now",
+                "next": "You ain't gotta pray for me"
             },
             {
-                "section": "[?] it was revelry",
+                "section": "[Post-Chorus]",
                 "num": 74,
-                "prev": "It's all you want, it's gray for me",
-                "this": "It's just white noise, it's my choice",
-                "next": "Screaming, \"But, daddy, I love him\""
+                "prev": "I'll tell you something right now",
+                "this": "You ain't gotta pray for me",
+                "next": "Me and my wild boy and all of this wild joy"
             },
             {
-                "section": "[Outro]",
+                "section": "[Post-Chorus]",
                 "num": 75,
-                "prev": "It's just white noise, it's my choice",
-                "this": "Screaming, \"But, daddy, I love him\"",
-                "next": "I'm having this baby"
+                "prev": "You ain't gotta pray for me",
+                "this": "Me and my wild boy and all of this wild joy",
+                "next": "(He was chaos, he was revelry)"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 76,
+                "prev": "Me and my wild boy and all of this wild joy",
+                "this": "(He was chaos, he was revelry)",
+                "next": "If all you want is gray for me"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 77,
+                "prev": "(He was chaos, he was revelry)",
+                "this": "If all you want is gray for me",
+                "next": "Then it's just white noise, and it's my choice"
+            },
+            {
+                "section": "[Post-Chorus]",
+                "num": 78,
+                "prev": "If all you want is gray for me",
+                "this": "Then it's just white noise, and it's my choice",
+                "next": "Screamin', \"But, Daddy, I love him\""
             },
             {
                 "section": "[Outro]",
-                "num": 76,
-                "prev": "Screaming, \"But, daddy, I love him\"",
-                "this": "I'm having this baby",
+                "num": 79,
+                "prev": "Then it's just white noise, and it's my choice",
+                "this": "Screamin', \"But, Daddy, I love him\"",
+                "next": "I'm having his baby"
+            },
+            {
+                "section": "[Outro]",
+                "num": 80,
+                "prev": "Screamin', \"But, Daddy, I love him\"",
+                "this": "I'm having his baby",
                 "next": "No, I'm not"
             },
             {
                 "section": "[Outro]",
-                "num": 77,
-                "prev": "I'm having this baby",
+                "num": 81,
+                "prev": "I'm having his baby",
                 "this": "No, I'm not",
                 "next": "But you should see your faces"
             },
             {
                 "section": "[Outro]",
-                "num": 78,
+                "num": 82,
                 "prev": "No, I'm not",
                 "this": "But you should see your faces",
-                "next": "And oh my God you should see your faces"
+                "next": "But, oh my God, you should see your faces"
             },
             {
                 "section": "[Outro]",
-                "num": 79,
+                "num": 83,
                 "prev": "But you should see your faces",
-                "this": "And oh my God you should see your faces",
+                "this": "But, oh my God, you should see your faces",
+                "next": "(He was chaos, he was revelry)"
+            },
+            {
+                "section": "[Outro]",
+                "num": 84,
+                "prev": "But, oh my God, you should see your faces",
+                "this": "(He was chaos, he was revelry)",
+                "next": "(He was chaos, he was revelry)"
+            },
+            {
+                "section": "[Outro]",
+                "num": 85,
+                "prev": "(He was chaos, he was revelry)",
+                "this": "(He was chaos, he was revelry)",
                 "next": ""
             }
         ],
