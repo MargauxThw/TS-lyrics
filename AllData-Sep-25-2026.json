@@ -4555,6 +4555,901 @@
         ],
         "Patient Zero": [
             {
+                "section": "[Chorus]",
+                "num": 1,
+                "prev": "",
+                "this": "If you wanna party with somebody who might know",
+                "next": "About the devil on his shoulder under his halo"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 2,
+                "prev": "If you wanna party with somebody who might know",
+                "this": "About the devil on his shoulder under his halo",
+                "next": "When the toxins take their hold, you'd rather die than let it go"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 3,
+                "prev": "About the devil on his shoulder under his halo",
+                "this": "When the toxins take their hold, you'd rather die than let it go",
+                "next": "But if you’re sick of him, I got you, I was patient zero"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 4,
+                "prev": "When the toxins take their hold, you'd rather die than let it go",
+                "this": "But if you’re sick of him, I got you, I was patient zero",
+                "next": "I've gotta be honest, I've been expecting your call"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 5,
+                "prev": "But if you’re sick of him, I got you, I was patient zero",
+                "this": "I've gotta be honest, I've been expecting your call",
+                "next": "No, it’s not a bad time at all"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 6,
+                "prev": "I've gotta be honest, I've been expecting your call",
+                "this": "No, it’s not a bad time at all",
+                "next": "I heard somebody saying there's trouble in paradise"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 7,
+                "prev": "No, it’s not a bad time at all",
+                "this": "I heard somebody saying there's trouble in paradise",
+                "next": "And my lips are sealed tight now"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 8,
+                "prev": "I heard somebody saying there's trouble in paradise",
+                "this": "And my lips are sealed tight now",
+                "next": "It's not for me to tell"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 9,
+                "prev": "And my lips are sealed tight now",
+                "this": "It's not for me to tell",
+                "next": "Someone else what to do"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 10,
+                "prev": "It's not for me to tell",
+                "this": "Someone else what to do",
+                "next": "But if you wanna party with somebody who might know"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 11,
+                "prev": "Someone else what to do",
+                "this": "But if you wanna party with somebody who might know",
+                "next": "About the devil on his shoulder under his halo"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 12,
+                "prev": "But if you wanna party with somebody who might know",
+                "this": "About the devil on his shoulder under his halo",
+                "next": "When the toxins take their hold, you'd rather die than let it go"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 13,
+                "prev": "About the devil on his shoulder under his halo",
+                "this": "When the toxins take their hold, you'd rather die than let it go",
+                "next": "But if you're sick of him, I got you, I was patient zero"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 14,
+                "prev": "When the toxins take their hold, you'd rather die than let it go",
+                "this": "But if you're sick of him, I got you, I was patient zero",
+                "next": "I bet he burst into your life like fireworks"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 15,
+                "prev": "But if you're sick of him, I got you, I was patient zero",
+                "this": "I bet he burst into your life like fireworks",
+                "next": "I bet he even said \"I love you\" first"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 16,
+                "prev": "I bet he burst into your life like fireworks",
+                "this": "I bet he even said \"I love you\" first",
+                "next": "And when you saw another woman coming out of his place"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 17,
+                "prev": "I bet he even said \"I love you\" first",
+                "this": "And when you saw another woman coming out of his place",
+                "next": "I bet he kissed the rain off your face"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 18,
+                "prev": "And when you saw another woman coming out of his place",
+                "this": "I bet he kissed the rain off your face",
+                "next": "Now he seems bored by you"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 19,
+                "prev": "I bet he kissed the rain off your face",
+                "this": "Now he seems bored by you",
+                "next": "And you don't know what to do"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 20,
+                "prev": "Now he seems bored by you",
+                "this": "And you don't know what to do",
+                "next": "But if you wanna party with somebody who might know"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 21,
+                "prev": "And you don't know what to do",
+                "this": "But if you wanna party with somebody who might know",
+                "next": "About the devil on his shoulder under his halo"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 22,
+                "prev": "But if you wanna party with somebody who might know",
+                "this": "About the devil on his shoulder under his halo",
+                "next": "When the toxins take their hold, you'd rather die than let it go"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 23,
+                "prev": "About the devil on his shoulder under his halo",
+                "this": "When the toxins take their hold, you'd rather die than let it go",
+                "next": "But if you're sick of him, I got you, I was patient zero (I was patient)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 24,
+                "prev": "When the toxins take their hold, you'd rather die than let it go",
+                "this": "But if you're sick of him, I got you, I was patient zero (I was patient)",
+                "next": "I was patient zero"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 25,
+                "prev": "But if you're sick of him, I got you, I was patient zero (I was patient)",
+                "this": "I was patient zero",
+                "next": "So let’s get into it"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 26,
+                "prev": "I was patient zero",
+                "this": "So let’s get into it",
+                "next": "I know he charmed your family and friends"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 27,
+                "prev": "So let’s get into it",
+                "this": "I know he charmed your family and friends",
+                "next": "And you thought it’s 'cause he loves you"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 28,
+                "prev": "I know he charmed your family and friends",
+                "this": "And you thought it’s 'cause he loves you",
+                "next": "But it’s 'cause he loves how everybody else loves him (Uh-huh)"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 29,
+                "prev": "And you thought it’s 'cause he loves you",
+                "this": "But it’s 'cause he loves how everybody else loves him (Uh-huh)",
+                "next": "I know it seems like he shines so bright"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 30,
+                "prev": "But it’s 'cause he loves how everybody else loves him (Uh-huh)",
+                "this": "I know it seems like he shines so bright",
+                "next": "But he's bathing in your reflected light"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 31,
+                "prev": "I know it seems like he shines so bright",
+                "this": "But he's bathing in your reflected light",
+                "next": "On a free solo social climb (Uh-huh)"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 32,
+                "prev": "But he's bathing in your reflected light",
+                "this": "On a free solo social climb (Uh-huh)",
+                "next": "Take it from somebody who lost his games but won the race"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 33,
+                "prev": "On a free solo social climb (Uh-huh)",
+                "this": "Take it from somebody who lost his games but won the race",
+                "next": "Take it from someone who said all of this to his face"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 34,
+                "prev": "Take it from somebody who lost his games but won the race",
+                "this": "Take it from someone who said all of this to his face",
+                "next": "Someone who knows she's more than just the chase"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 35,
+                "prev": "Take it from someone who said all of this to his face",
+                "this": "Someone who knows she's more than just the chase",
+                "next": "Someone who had him and walked away"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 36,
+                "prev": "Someone who knows she's more than just the chase",
+                "this": "Someone who had him and walked away",
+                "next": "And so"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 37,
+                "prev": "Someone who had him and walked away",
+                "this": "And so",
+                "next": "If you wanna party with somebody who might know"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 38,
+                "prev": "And so",
+                "this": "If you wanna party with somebody who might know",
+                "next": "About the devil on his shoulder under his halo"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 39,
+                "prev": "If you wanna party with somebody who might know",
+                "this": "About the devil on his shoulder under his halo",
+                "next": "And when the toxins take their hold, you’d rather die than let it go"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 40,
+                "prev": "About the devil on his shoulder under his halo",
+                "this": "And when the toxins take their hold, you’d rather die than let it go",
+                "next": "But if you're sick of him, I got you, I was patient zero"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 41,
+                "prev": "And when the toxins take their hold, you’d rather die than let it go",
+                "this": "But if you're sick of him, I got you, I was patient zero",
+                "next": "So if you wanna kick it, then I'm with it, I've been there"
+            },
+            {
+                "section": "[Outro]",
+                "num": 42,
+                "prev": "But if you're sick of him, I got you, I was patient zero",
+                "this": "So if you wanna kick it, then I'm with it, I've been there",
+                "next": "Felt the reeling, done the healing, said the curses and prayers"
+            },
+            {
+                "section": "[Outro]",
+                "num": 43,
+                "prev": "So if you wanna kick it, then I'm with it, I've been there",
+                "this": "Felt the reeling, done the healing, said the curses and prayers",
+                "next": "When the fever turns a dreamer into a pathetic ghost"
+            },
+            {
+                "section": "[Outro]",
+                "num": 44,
+                "prev": "Felt the reeling, done the healing, said the curses and prayers",
+                "this": "When the fever turns a dreamer into a pathetic ghost",
+                "next": "If he's killing you, I see you, I was patient zero"
+            },
+            {
+                "section": "[Outro]",
+                "num": 45,
+                "prev": "When the fever turns a dreamer into a pathetic ghost",
+                "this": "If he's killing you, I see you, I was patient zero",
+                "next": ""
+            }
+        ],
+        "Cleveland!": [
+            {
+                "section": "[Verse 1]",
+                "num": 1,
+                "prev": "",
+                "this": "She's not as hot as she was, but she was only a four",
+                "next": "She was never a girls' girl, she was just a—"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 2,
+                "prev": "She's not as hot as she was, but she was only a four",
+                "this": "She was never a girls' girl, she was just a—",
+                "next": "And with all of that money, why's she dressed like trash?"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 3,
+                "prev": "She was never a girls' girl, she was just a—",
+                "this": "And with all of that money, why's she dressed like trash?",
+                "next": "When she smiles, it's annoying, and have you seen her"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 4,
+                "prev": "And with all of that money, why's she dressed like trash?",
+                "this": "When she smiles, it's annoying, and have you seen her",
+                "next": "Stumbling clumsily?"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 5,
+                "prev": "When she smiles, it's annoying, and have you seen her",
+                "this": "Stumbling clumsily?",
+                "next": "Would you even call that dancing?"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 6,
+                "prev": "Stumbling clumsily?",
+                "this": "Would you even call that dancing?",
+                "next": "I can see what you mean"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 7,
+                "prev": "Would you even call that dancing?",
+                "this": "I can see what you mean",
+                "next": "And now I guess there's"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 8,
+                "prev": "I can see what you mean",
+                "this": "And now I guess there's",
+                "next": "Somethin' we all can agree on"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 9,
+                "prev": "And now I guess there's",
+                "this": "Somethin' we all can agree on",
+                "next": "But my baby likes what he likes, oh-woah, oh-oh"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 10,
+                "prev": "Somethin' we all can agree on",
+                "this": "But my baby likes what he likes, oh-woah, oh-oh",
+                "next": "He already took me to Cleveland"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 11,
+                "prev": "But my baby likes what he likes, oh-woah, oh-oh",
+                "this": "He already took me to Cleveland",
+                "next": "And showed me The Heights, so hate all you like"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 12,
+                "prev": "He already took me to Cleveland",
+                "this": "And showed me The Heights, so hate all you like",
+                "next": "This is the love of my life, hey, hey, hey"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 13,
+                "prev": "And showed me The Heights, so hate all you like",
+                "this": "This is the love of my life, hey, hey, hey",
+                "next": "The taste of me is acquired, but it's his favorite dish"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 14,
+                "prev": "This is the love of my life, hey, hey, hey",
+                "this": "The taste of me is acquired, but it's his favorite dish",
+                "next": "He says I look like an angel, they say, \"I hate that bi—\""
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 15,
+                "prev": "The taste of me is acquired, but it's his favorite dish",
+                "this": "He says I look like an angel, they say, \"I hate that bi—\"",
+                "next": "There, that house with the porch is where he lived as a kid"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 16,
+                "prev": "He says I look like an angel, they say, \"I hate that bi—\"",
+                "this": "There, that house with the porch is where he lived as a kid",
+                "next": "He's been saying forever, must not have read that"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 17,
+                "prev": "There, that house with the porch is where he lived as a kid",
+                "this": "He's been saying forever, must not have read that",
+                "next": "Scathin' take 'bout how I'm fake"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 18,
+                "prev": "He's been saying forever, must not have read that",
+                "this": "Scathin' take 'bout how I'm fake",
+                "next": "And he could find someone younger"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 19,
+                "prev": "Scathin' take 'bout how I'm fake",
+                "this": "And he could find someone younger",
+                "next": "I can see what they mean"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 20,
+                "prev": "And he could find someone younger",
+                "this": "I can see what they mean",
+                "next": "And now I guess there's"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 21,
+                "prev": "I can see what they mean",
+                "this": "And now I guess there's",
+                "next": "Somethin' we all can agree on"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 22,
+                "prev": "And now I guess there's",
+                "this": "Somethin' we all can agree on",
+                "next": "But my baby likes what he likes, oh-woah, oh-oh"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 23,
+                "prev": "Somethin' we all can agree on",
+                "this": "But my baby likes what he likes, oh-woah, oh-oh",
+                "next": "He already took me to Cleveland"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 24,
+                "prev": "But my baby likes what he likes, oh-woah, oh-oh",
+                "this": "He already took me to Cleveland",
+                "next": "And he showed me The Heights (Hey), so hate all you like (Uh-huh)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 25,
+                "prev": "He already took me to Cleveland",
+                "this": "And he showed me The Heights (Hey), so hate all you like (Uh-huh)",
+                "next": "This is the love of my life, hey, hey, hey"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 26,
+                "prev": "And he showed me The Heights (Hey), so hate all you like (Uh-huh)",
+                "this": "This is the love of my life, hey, hey, hey",
+                "next": "He likes what he likes, what he likes and he likes me"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 27,
+                "prev": "This is the love of my life, hey, hey, hey",
+                "this": "He likes what he likes, what he likes and he likes me",
+                "next": "He likes what he likes, what he likes and he likes me"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 28,
+                "prev": "He likes what he likes, what he likes and he likes me",
+                "this": "He likes what he likes, what he likes and he likes me",
+                "next": "You only need to find one person in this entire world (He likes what he likes, what he likes and he likes me)"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 29,
+                "prev": "He likes what he likes, what he likes and he likes me",
+                "this": "You only need to find one person in this entire world (He likes what he likes, what he likes and he likes me)",
+                "next": "Who doesn't find you completely insufferable (He likes what he likes, what he likes and)"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 30,
+                "prev": "You only need to find one person in this entire world (He likes what he likes, what he likes and he likes me)",
+                "this": "Who doesn't find you completely insufferable (He likes what he likes, what he likes and)",
+                "next": "And I have an important announcement to make"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 31,
+                "prev": "Who doesn't find you completely insufferable (He likes what he likes, what he likes and)",
+                "this": "And I have an important announcement to make",
+                "next": "I found mine (That's right)"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 32,
+                "prev": "And I have an important announcement to make",
+                "this": "I found mine (That's right)",
+                "next": "Well, I found mine (Hey, hey, hey)"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 33,
+                "prev": "I found mine (That's right)",
+                "this": "Well, I found mine (Hey, hey, hey)",
+                "next": "Yeah, I found mine"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 34,
+                "prev": "Well, I found mine (Hey, hey, hey)",
+                "this": "Yeah, I found mine",
+                "next": "Yes, that's"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 35,
+                "prev": "Yeah, I found mine",
+                "this": "Yes, that's",
+                "next": "Somethin' we all can agree on (I guess we agree, but)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 36,
+                "prev": "Yes, that's",
+                "this": "Somethin' we all can agree on (I guess we agree, but)",
+                "next": "But my baby likes what he likes, oh-woah, oh-oh"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 37,
+                "prev": "Somethin' we all can agree on (I guess we agree, but)",
+                "this": "But my baby likes what he likes, oh-woah, oh-oh",
+                "next": "He already took me to Cleveland (To Cleveland)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 38,
+                "prev": "But my baby likes what he likes, oh-woah, oh-oh",
+                "this": "He already took me to Cleveland (To Cleveland)",
+                "next": "Now I'm wearin' white (Yeah), so hate all you like (Uh-huh)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 39,
+                "prev": "He already took me to Cleveland (To Cleveland)",
+                "this": "Now I'm wearin' white (Yeah), so hate all you like (Uh-huh)",
+                "next": "This is the love of my life (Hey, hey, hey)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 40,
+                "prev": "Now I'm wearin' white (Yeah), so hate all you like (Uh-huh)",
+                "this": "This is the love of my life (Hey, hey, hey)",
+                "next": ""
+            }
+        ],
+        "Pink Clouding": [
+            {
+                "section": "[Verse 1]",
+                "num": 1,
+                "prev": "",
+                "this": "Met the magenta sunrise",
+                "next": "Fuchsia forever intertwined"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 2,
+                "prev": "Met the magenta sunrise",
+                "this": "Fuchsia forever intertwined",
+                "next": "Threw the rosewood on the fire"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 3,
+                "prev": "Fuchsia forever intertwined",
+                "this": "Threw the rosewood on the fire",
+                "next": "Neither of us knew at the time"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 4,
+                "prev": "Threw the rosewood on the fire",
+                "this": "Neither of us knew at the time",
+                "next": "That I was a liar"
+            },
+            {
+                "section": "[Verse 1]",
+                "num": 5,
+                "prev": "Neither of us knew at the time",
+                "this": "That I was a liar",
+                "next": "And it was so good"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 6,
+                "prev": "That I was a liar",
+                "this": "And it was so good",
+                "next": "Letting you want me, so good"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 7,
+                "prev": "And it was so good",
+                "this": "Letting you want me, so good",
+                "next": "To make promises, promises, pr-pr-promises"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 8,
+                "prev": "Letting you want me, so good",
+                "this": "To make promises, promises, pr-pr-promises",
+                "next": "But I was pink (Pink) cloudin' from the thrill of it (Hahaha)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 9,
+                "prev": "To make promises, promises, pr-pr-promises",
+                "this": "But I was pink (Pink) cloudin' from the thrill of it (Hahaha)",
+                "next": "Skydivin' as you wrapped your arms around my body"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 10,
+                "prev": "But I was pink (Pink) cloudin' from the thrill of it (Hahaha)",
+                "this": "Skydivin' as you wrapped your arms around my body",
+                "next": "Gray (Gray) rockin' where the arrow hit (Hahaha)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 11,
+                "prev": "Skydivin' as you wrapped your arms around my body",
+                "this": "Gray (Gray) rockin' where the arrow hit (Hahaha)",
+                "next": "Years later, I still wonder how to tell you sorry"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 12,
+                "prev": "Gray (Gray) rockin' where the arrow hit (Hahaha)",
+                "this": "Years later, I still wonder how to tell you sorry",
+                "next": "I didn't wanna let you down (Pink cloud, pink cloud)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 13,
+                "prev": "Years later, I still wonder how to tell you sorry",
+                "this": "I didn't wanna let you down (Pink cloud, pink cloud)",
+                "next": "So I left you up there on a pink cloud (Pink cloud)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 14,
+                "prev": "I didn't wanna let you down (Pink cloud, pink cloud)",
+                "this": "So I left you up there on a pink cloud (Pink cloud)",
+                "next": "He cut me crimson, bled me dry"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 15,
+                "prev": "So I left you up there on a pink cloud (Pink cloud)",
+                "this": "He cut me crimson, bled me dry",
+                "next": "He crossеd my heart, I hoped to die (Hopеd to die)"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 16,
+                "prev": "He cut me crimson, bled me dry",
+                "this": "He crossеd my heart, I hoped to die (Hopеd to die)",
+                "next": "Ripped all my orchids from the vine"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 17,
+                "prev": "He crossеd my heart, I hoped to die (Hopеd to die)",
+                "this": "Ripped all my orchids from the vine",
+                "next": "You met me at a cursed time"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 18,
+                "prev": "Ripped all my orchids from the vine",
+                "this": "You met me at a cursed time",
+                "next": "I told you I was fine"
+            },
+            {
+                "section": "[Verse 2]",
+                "num": 19,
+                "prev": "You met me at a cursed time",
+                "this": "I told you I was fine",
+                "next": "And you were so good (Good)"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 20,
+                "prev": "I told you I was fine",
+                "this": "And you were so good (Good)",
+                "next": "That's why you haunt me like you should (Should)"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 21,
+                "prev": "And you were so good (Good)",
+                "this": "That's why you haunt me like you should (Should)",
+                "next": "And all my promises, promises, pr-pr-promises"
+            },
+            {
+                "section": "[Pre-Chorus]",
+                "num": 22,
+                "prev": "That's why you haunt me like you should (Should)",
+                "this": "And all my promises, promises, pr-pr-promises",
+                "next": "'Cause I was pink (Pink) cloudin' from the thrill of it (Hahaha)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 23,
+                "prev": "And all my promises, promises, pr-pr-promises",
+                "this": "'Cause I was pink (Pink) cloudin' from the thrill of it (Hahaha)",
+                "next": "Skydivin' as you wrapped your arms around my body"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 24,
+                "prev": "'Cause I was pink (Pink) cloudin' from the thrill of it (Hahaha)",
+                "this": "Skydivin' as you wrapped your arms around my body",
+                "next": "Gray (Gray) rockin' where the arrow hit (Hahaha)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 25,
+                "prev": "Skydivin' as you wrapped your arms around my body",
+                "this": "Gray (Gray) rockin' where the arrow hit (Hahaha)",
+                "next": "Years later, I still wonder how to tell you sorry"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 26,
+                "prev": "Gray (Gray) rockin' where the arrow hit (Hahaha)",
+                "this": "Years later, I still wonder how to tell you sorry",
+                "next": "I didn't want to let you down (Pink cloud, pink cloud)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 27,
+                "prev": "Years later, I still wonder how to tell you sorry",
+                "this": "I didn't want to let you down (Pink cloud, pink cloud)",
+                "next": "So I left you up there on a (Pink) pink cloud (Pink cloud)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 28,
+                "prev": "I didn't want to let you down (Pink cloud, pink cloud)",
+                "this": "So I left you up there on a (Pink) pink cloud (Pink cloud)",
+                "next": "I hope you realized my kind of trouble wasn't worth it"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 29,
+                "prev": "So I left you up there on a (Pink) pink cloud (Pink cloud)",
+                "this": "I hope you realized my kind of trouble wasn't worth it",
+                "next": "And the way I treated you, you never deserved it"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 30,
+                "prev": "I hope you realized my kind of trouble wasn't worth it",
+                "this": "And the way I treated you, you never deserved it",
+                "next": "And I swear to God, to this day"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 31,
+                "prev": "And the way I treated you, you never deserved it",
+                "this": "And I swear to God, to this day",
+                "next": "I wake up scared that I left scars on a good person"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 32,
+                "prev": "And I swear to God, to this day",
+                "this": "I wake up scared that I left scars on a good person",
+                "next": "And I gave you zero reason to believe it, so be it"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 33,
+                "prev": "I wake up scared that I left scars on a good person",
+                "this": "And I gave you zero reason to believe it, so be it",
+                "next": "But it didn't mean nothin' just 'cause I could leave it"
+            },
+            {
+                "section": "[Bridge]",
+                "num": 34,
+                "prev": "And I gave you zero reason to believe it, so be it",
+                "this": "But it didn't mean nothin' just 'cause I could leave it",
+                "next": "I was pink cloudin' from the thrill of it (Hahaha)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 35,
+                "prev": "But it didn't mean nothin' just 'cause I could leave it",
+                "this": "I was pink cloudin' from the thrill of it (Hahaha)",
+                "next": "Skydivin' as you wrapped your arms around my body"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 36,
+                "prev": "I was pink cloudin' from the thrill of it (Hahaha)",
+                "this": "Skydivin' as you wrapped your arms around my body",
+                "next": "Gray (Gray) rockin' where the arrow hit (Where the arrow hit; Hahaha)"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 37,
+                "prev": "Skydivin' as you wrapped your arms around my body",
+                "this": "Gray (Gray) rockin' where the arrow hit (Where the arrow hit; Hahaha)",
+                "next": "Years later, I still wonder how to tell you sorry"
+            },
+            {
+                "section": "[Chorus]",
+                "num": 38,
+                "prev": "Gray (Gray) rockin' where the arrow hit (Where the arrow hit; Hahaha)",
+                "this": "Years later, I still wonder how to tell you sorry",
+                "next": "I hope you landed safely on the ground, hey (Pink cloud, pink cloud)"
+            },
+            {
+                "section": "[Outro]",
+                "num": 39,
+                "prev": "Years later, I still wonder how to tell you sorry",
+                "this": "I hope you landed safely on the ground, hey (Pink cloud, pink cloud)",
+                "next": "And I hope you're so happy now (Pink cloud, pink cloud)"
+            },
+            {
+                "section": "[Outro]",
+                "num": 40,
+                "prev": "I hope you landed safely on the ground, hey (Pink cloud, pink cloud)",
+                "this": "And I hope you're so happy now (Pink cloud, pink cloud)",
+                "next": "I didn't wanna let you down (Pink cloud, pink cloud)"
+            },
+            {
+                "section": "[Outro]",
+                "num": 41,
+                "prev": "And I hope you're so happy now (Pink cloud, pink cloud)",
+                "this": "I didn't wanna let you down (Pink cloud, pink cloud)",
+                "next": "So I left you up there (Pink cloud) on a pink cloud"
+            },
+            {
+                "section": "[Outro]",
+                "num": 42,
+                "prev": "I didn't wanna let you down (Pink cloud, pink cloud)",
+                "this": "So I left you up there (Pink cloud) on a pink cloud",
+                "next": ""
+            }
+        ],
+        "Babylon": [
+            {
                 "section": "[Verse 1]",
                 "num": 1,
                 "prev": "",
@@ -4951,908 +5846,6 @@
                 "num": 57,
                 "prev": "You never knew that it was Babylon",
                 "this": "'Til it was gone",
-                "next": ""
-            }
-        ],
-        "Cleveland!": [
-            {
-                "section": "[Verse 1]",
-                "num": 1,
-                "prev": "",
-                "this": "Met the magenta sunrise",
-                "next": "Fuchsia forever intertwined"
-            },
-            {
-                "section": "[Verse 1]",
-                "num": 2,
-                "prev": "Met the magenta sunrise",
-                "this": "Fuchsia forever intertwined",
-                "next": "Threw the rosewood on the fire"
-            },
-            {
-                "section": "[Verse 1]",
-                "num": 3,
-                "prev": "Fuchsia forever intertwined",
-                "this": "Threw the rosewood on the fire",
-                "next": "Neither of us knew at the time"
-            },
-            {
-                "section": "[Verse 1]",
-                "num": 4,
-                "prev": "Threw the rosewood on the fire",
-                "this": "Neither of us knew at the time",
-                "next": "That I was a liar"
-            },
-            {
-                "section": "[Verse 1]",
-                "num": 5,
-                "prev": "Neither of us knew at the time",
-                "this": "That I was a liar",
-                "next": "And it was so good"
-            },
-            {
-                "section": "[Pre-Chorus]",
-                "num": 6,
-                "prev": "That I was a liar",
-                "this": "And it was so good",
-                "next": "Letting you want me, so good"
-            },
-            {
-                "section": "[Pre-Chorus]",
-                "num": 7,
-                "prev": "And it was so good",
-                "this": "Letting you want me, so good",
-                "next": "To make promises, promises, pr-pr-promises"
-            },
-            {
-                "section": "[Pre-Chorus]",
-                "num": 8,
-                "prev": "Letting you want me, so good",
-                "this": "To make promises, promises, pr-pr-promises",
-                "next": "But I was pink (Pink) cloudin' from the thrill of it (Hahaha)"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 9,
-                "prev": "To make promises, promises, pr-pr-promises",
-                "this": "But I was pink (Pink) cloudin' from the thrill of it (Hahaha)",
-                "next": "Skydivin' as you wrapped your arms around my body"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 10,
-                "prev": "But I was pink (Pink) cloudin' from the thrill of it (Hahaha)",
-                "this": "Skydivin' as you wrapped your arms around my body",
-                "next": "Gray (Gray) rockin' where the arrow hit (Hahaha)"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 11,
-                "prev": "Skydivin' as you wrapped your arms around my body",
-                "this": "Gray (Gray) rockin' where the arrow hit (Hahaha)",
-                "next": "Years later, I still wonder how to tell you sorry"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 12,
-                "prev": "Gray (Gray) rockin' where the arrow hit (Hahaha)",
-                "this": "Years later, I still wonder how to tell you sorry",
-                "next": "I didn't wanna let you down (Pink cloud, pink cloud)"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 13,
-                "prev": "Years later, I still wonder how to tell you sorry",
-                "this": "I didn't wanna let you down (Pink cloud, pink cloud)",
-                "next": "So I left you up there on a pink cloud (Pink cloud)"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 14,
-                "prev": "I didn't wanna let you down (Pink cloud, pink cloud)",
-                "this": "So I left you up there on a pink cloud (Pink cloud)",
-                "next": "He cut me crimson, bled me dry"
-            },
-            {
-                "section": "[Verse 2]",
-                "num": 15,
-                "prev": "So I left you up there on a pink cloud (Pink cloud)",
-                "this": "He cut me crimson, bled me dry",
-                "next": "He crossеd my heart, I hoped to die (Hopеd to die)"
-            },
-            {
-                "section": "[Verse 2]",
-                "num": 16,
-                "prev": "He cut me crimson, bled me dry",
-                "this": "He crossеd my heart, I hoped to die (Hopеd to die)",
-                "next": "Ripped all my orchids from the vine"
-            },
-            {
-                "section": "[Verse 2]",
-                "num": 17,
-                "prev": "He crossеd my heart, I hoped to die (Hopеd to die)",
-                "this": "Ripped all my orchids from the vine",
-                "next": "You met me at a cursed time"
-            },
-            {
-                "section": "[Verse 2]",
-                "num": 18,
-                "prev": "Ripped all my orchids from the vine",
-                "this": "You met me at a cursed time",
-                "next": "I told you I was fine"
-            },
-            {
-                "section": "[Verse 2]",
-                "num": 19,
-                "prev": "You met me at a cursed time",
-                "this": "I told you I was fine",
-                "next": "And you were so good (Good)"
-            },
-            {
-                "section": "[Pre-Chorus]",
-                "num": 20,
-                "prev": "I told you I was fine",
-                "this": "And you were so good (Good)",
-                "next": "That's why you haunt me like you should (Should)"
-            },
-            {
-                "section": "[Pre-Chorus]",
-                "num": 21,
-                "prev": "And you were so good (Good)",
-                "this": "That's why you haunt me like you should (Should)",
-                "next": "And all my promises, promises, pr-pr-promises"
-            },
-            {
-                "section": "[Pre-Chorus]",
-                "num": 22,
-                "prev": "That's why you haunt me like you should (Should)",
-                "this": "And all my promises, promises, pr-pr-promises",
-                "next": "'Cause I was pink (Pink) cloudin' from the thrill of it (Hahaha)"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 23,
-                "prev": "And all my promises, promises, pr-pr-promises",
-                "this": "'Cause I was pink (Pink) cloudin' from the thrill of it (Hahaha)",
-                "next": "Skydivin' as you wrapped your arms around my body"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 24,
-                "prev": "'Cause I was pink (Pink) cloudin' from the thrill of it (Hahaha)",
-                "this": "Skydivin' as you wrapped your arms around my body",
-                "next": "Gray (Gray) rockin' where the arrow hit (Hahaha)"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 25,
-                "prev": "Skydivin' as you wrapped your arms around my body",
-                "this": "Gray (Gray) rockin' where the arrow hit (Hahaha)",
-                "next": "Years later, I still wonder how to tell you sorry"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 26,
-                "prev": "Gray (Gray) rockin' where the arrow hit (Hahaha)",
-                "this": "Years later, I still wonder how to tell you sorry",
-                "next": "I didn't want to let you down (Pink cloud, pink cloud)"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 27,
-                "prev": "Years later, I still wonder how to tell you sorry",
-                "this": "I didn't want to let you down (Pink cloud, pink cloud)",
-                "next": "So I left you up there on a (Pink) pink cloud (Pink cloud)"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 28,
-                "prev": "I didn't want to let you down (Pink cloud, pink cloud)",
-                "this": "So I left you up there on a (Pink) pink cloud (Pink cloud)",
-                "next": "I hope you realized my kind of trouble wasn't worth it"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 29,
-                "prev": "So I left you up there on a (Pink) pink cloud (Pink cloud)",
-                "this": "I hope you realized my kind of trouble wasn't worth it",
-                "next": "And the way I treated you, you never deserved it"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 30,
-                "prev": "I hope you realized my kind of trouble wasn't worth it",
-                "this": "And the way I treated you, you never deserved it",
-                "next": "And I swear to God, to this day"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 31,
-                "prev": "And the way I treated you, you never deserved it",
-                "this": "And I swear to God, to this day",
-                "next": "I wake up scared that I left scars on a good person"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 32,
-                "prev": "And I swear to God, to this day",
-                "this": "I wake up scared that I left scars on a good person",
-                "next": "And I gave you zero reason to believe it, so be it"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 33,
-                "prev": "I wake up scared that I left scars on a good person",
-                "this": "And I gave you zero reason to believe it, so be it",
-                "next": "But it didn't mean nothin' just 'cause I could leave it"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 34,
-                "prev": "And I gave you zero reason to believe it, so be it",
-                "this": "But it didn't mean nothin' just 'cause I could leave it",
-                "next": "I was pink cloudin' from the thrill of it (Hahaha)"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 35,
-                "prev": "But it didn't mean nothin' just 'cause I could leave it",
-                "this": "I was pink cloudin' from the thrill of it (Hahaha)",
-                "next": "Skydivin' as you wrapped your arms around my body"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 36,
-                "prev": "I was pink cloudin' from the thrill of it (Hahaha)",
-                "this": "Skydivin' as you wrapped your arms around my body",
-                "next": "Gray (Gray) rockin' where the arrow hit (Where the arrow hit; Hahaha)"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 37,
-                "prev": "Skydivin' as you wrapped your arms around my body",
-                "this": "Gray (Gray) rockin' where the arrow hit (Where the arrow hit; Hahaha)",
-                "next": "Years later, I still wonder how to tell you sorry"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 38,
-                "prev": "Gray (Gray) rockin' where the arrow hit (Where the arrow hit; Hahaha)",
-                "this": "Years later, I still wonder how to tell you sorry",
-                "next": "I hope you landed safely on the ground, hey (Pink cloud, pink cloud)"
-            },
-            {
-                "section": "[Outro]",
-                "num": 39,
-                "prev": "Years later, I still wonder how to tell you sorry",
-                "this": "I hope you landed safely on the ground, hey (Pink cloud, pink cloud)",
-                "next": "And I hope you're so happy now (Pink cloud, pink cloud)"
-            },
-            {
-                "section": "[Outro]",
-                "num": 40,
-                "prev": "I hope you landed safely on the ground, hey (Pink cloud, pink cloud)",
-                "this": "And I hope you're so happy now (Pink cloud, pink cloud)",
-                "next": "I didn't wanna let you down (Pink cloud, pink cloud)"
-            },
-            {
-                "section": "[Outro]",
-                "num": 41,
-                "prev": "And I hope you're so happy now (Pink cloud, pink cloud)",
-                "this": "I didn't wanna let you down (Pink cloud, pink cloud)",
-                "next": "So I left you up there (Pink cloud) on a pink cloud"
-            },
-            {
-                "section": "[Outro]",
-                "num": 42,
-                "prev": "I didn't wanna let you down (Pink cloud, pink cloud)",
-                "this": "So I left you up there (Pink cloud) on a pink cloud",
-                "next": ""
-            }
-        ],
-        "Pink Clouding": [
-            {
-                "section": "[Verse 1]",
-                "num": 1,
-                "prev": "",
-                "this": "She's not as hot as she was, but she was only a four",
-                "next": "She was never a girls' girl, she was just a—"
-            },
-            {
-                "section": "[Verse 1]",
-                "num": 2,
-                "prev": "She's not as hot as she was, but she was only a four",
-                "this": "She was never a girls' girl, she was just a—",
-                "next": "And with all of that money, why's she dressed like trash?"
-            },
-            {
-                "section": "[Verse 1]",
-                "num": 3,
-                "prev": "She was never a girls' girl, she was just a—",
-                "this": "And with all of that money, why's she dressed like trash?",
-                "next": "When she smiles, it's annoying, and have you seen her"
-            },
-            {
-                "section": "[Verse 1]",
-                "num": 4,
-                "prev": "And with all of that money, why's she dressed like trash?",
-                "this": "When she smiles, it's annoying, and have you seen her",
-                "next": "Stumbling clumsily?"
-            },
-            {
-                "section": "[Pre-Chorus]",
-                "num": 5,
-                "prev": "When she smiles, it's annoying, and have you seen her",
-                "this": "Stumbling clumsily?",
-                "next": "Would you even call that dancing?"
-            },
-            {
-                "section": "[Pre-Chorus]",
-                "num": 6,
-                "prev": "Stumbling clumsily?",
-                "this": "Would you even call that dancing?",
-                "next": "I can see what you mean"
-            },
-            {
-                "section": "[Pre-Chorus]",
-                "num": 7,
-                "prev": "Would you even call that dancing?",
-                "this": "I can see what you mean",
-                "next": "And now I guess there's"
-            },
-            {
-                "section": "[Pre-Chorus]",
-                "num": 8,
-                "prev": "I can see what you mean",
-                "this": "And now I guess there's",
-                "next": "Somethin' we all can agree on"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 9,
-                "prev": "And now I guess there's",
-                "this": "Somethin' we all can agree on",
-                "next": "But my baby likes what he likes, oh-woah, oh-oh"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 10,
-                "prev": "Somethin' we all can agree on",
-                "this": "But my baby likes what he likes, oh-woah, oh-oh",
-                "next": "He already took me to Cleveland"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 11,
-                "prev": "But my baby likes what he likes, oh-woah, oh-oh",
-                "this": "He already took me to Cleveland",
-                "next": "And showed me The Heights, so hate all you like"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 12,
-                "prev": "He already took me to Cleveland",
-                "this": "And showed me The Heights, so hate all you like",
-                "next": "This is the love of my life, hey, hey, hey"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 13,
-                "prev": "And showed me The Heights, so hate all you like",
-                "this": "This is the love of my life, hey, hey, hey",
-                "next": "The taste of me is acquired, but it's his favorite dish"
-            },
-            {
-                "section": "[Verse 2]",
-                "num": 14,
-                "prev": "This is the love of my life, hey, hey, hey",
-                "this": "The taste of me is acquired, but it's his favorite dish",
-                "next": "He says I look like an angel, they say, \"I hate that bi—\""
-            },
-            {
-                "section": "[Verse 2]",
-                "num": 15,
-                "prev": "The taste of me is acquired, but it's his favorite dish",
-                "this": "He says I look like an angel, they say, \"I hate that bi—\"",
-                "next": "There, that house with the porch is where he lived as a kid"
-            },
-            {
-                "section": "[Verse 2]",
-                "num": 16,
-                "prev": "He says I look like an angel, they say, \"I hate that bi—\"",
-                "this": "There, that house with the porch is where he lived as a kid",
-                "next": "He's been saying forever, must not have read that"
-            },
-            {
-                "section": "[Verse 2]",
-                "num": 17,
-                "prev": "There, that house with the porch is where he lived as a kid",
-                "this": "He's been saying forever, must not have read that",
-                "next": "Scathin' take 'bout how I'm fake"
-            },
-            {
-                "section": "[Pre-Chorus]",
-                "num": 18,
-                "prev": "He's been saying forever, must not have read that",
-                "this": "Scathin' take 'bout how I'm fake",
-                "next": "And he could find someone younger"
-            },
-            {
-                "section": "[Pre-Chorus]",
-                "num": 19,
-                "prev": "Scathin' take 'bout how I'm fake",
-                "this": "And he could find someone younger",
-                "next": "I can see what they mean"
-            },
-            {
-                "section": "[Pre-Chorus]",
-                "num": 20,
-                "prev": "And he could find someone younger",
-                "this": "I can see what they mean",
-                "next": "And now I guess there's"
-            },
-            {
-                "section": "[Pre-Chorus]",
-                "num": 21,
-                "prev": "I can see what they mean",
-                "this": "And now I guess there's",
-                "next": "Somethin' we all can agree on"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 22,
-                "prev": "And now I guess there's",
-                "this": "Somethin' we all can agree on",
-                "next": "But my baby likes what he likes, oh-woah, oh-oh"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 23,
-                "prev": "Somethin' we all can agree on",
-                "this": "But my baby likes what he likes, oh-woah, oh-oh",
-                "next": "He already took me to Cleveland"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 24,
-                "prev": "But my baby likes what he likes, oh-woah, oh-oh",
-                "this": "He already took me to Cleveland",
-                "next": "And he showed me The Heights (Hey), so hate all you like (Uh-huh)"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 25,
-                "prev": "He already took me to Cleveland",
-                "this": "And he showed me The Heights (Hey), so hate all you like (Uh-huh)",
-                "next": "This is the love of my life, hey, hey, hey"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 26,
-                "prev": "And he showed me The Heights (Hey), so hate all you like (Uh-huh)",
-                "this": "This is the love of my life, hey, hey, hey",
-                "next": "He likes what he likes, what he likes and he likes me"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 27,
-                "prev": "This is the love of my life, hey, hey, hey",
-                "this": "He likes what he likes, what he likes and he likes me",
-                "next": "He likes what he likes, what he likes and he likes me"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 28,
-                "prev": "He likes what he likes, what he likes and he likes me",
-                "this": "He likes what he likes, what he likes and he likes me",
-                "next": "You only need to find one person in this entire world (He likes what he likes, what he likes and he likes me)"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 29,
-                "prev": "He likes what he likes, what he likes and he likes me",
-                "this": "You only need to find one person in this entire world (He likes what he likes, what he likes and he likes me)",
-                "next": "Who doesn't find you completely insufferable (He likes what he likes, what he likes and)"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 30,
-                "prev": "You only need to find one person in this entire world (He likes what he likes, what he likes and he likes me)",
-                "this": "Who doesn't find you completely insufferable (He likes what he likes, what he likes and)",
-                "next": "And I have an important announcement to make"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 31,
-                "prev": "Who doesn't find you completely insufferable (He likes what he likes, what he likes and)",
-                "this": "And I have an important announcement to make",
-                "next": "I found mine (That's right)"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 32,
-                "prev": "And I have an important announcement to make",
-                "this": "I found mine (That's right)",
-                "next": "Well, I found mine (Hey, hey, hey)"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 33,
-                "prev": "I found mine (That's right)",
-                "this": "Well, I found mine (Hey, hey, hey)",
-                "next": "Yeah, I found mine"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 34,
-                "prev": "Well, I found mine (Hey, hey, hey)",
-                "this": "Yeah, I found mine",
-                "next": "Yes, that's"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 35,
-                "prev": "Yeah, I found mine",
-                "this": "Yes, that's",
-                "next": "Somethin' we all can agree on (I guess we agree, but)"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 36,
-                "prev": "Yes, that's",
-                "this": "Somethin' we all can agree on (I guess we agree, but)",
-                "next": "But my baby likes what he likes, oh-woah, oh-oh"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 37,
-                "prev": "Somethin' we all can agree on (I guess we agree, but)",
-                "this": "But my baby likes what he likes, oh-woah, oh-oh",
-                "next": "He already took me to Cleveland (To Cleveland)"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 38,
-                "prev": "But my baby likes what he likes, oh-woah, oh-oh",
-                "this": "He already took me to Cleveland (To Cleveland)",
-                "next": "Now I'm wearin' white (Yeah), so hate all you like (Uh-huh)"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 39,
-                "prev": "He already took me to Cleveland (To Cleveland)",
-                "this": "Now I'm wearin' white (Yeah), so hate all you like (Uh-huh)",
-                "next": "This is the love of my life (Hey, hey, hey)"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 40,
-                "prev": "Now I'm wearin' white (Yeah), so hate all you like (Uh-huh)",
-                "this": "This is the love of my life (Hey, hey, hey)",
-                "next": ""
-            }
-        ],
-        "Babylon": [
-            {
-                "section": "[Chorus]",
-                "num": 1,
-                "prev": "",
-                "this": "“Patient Zero” is a melodic pop-driven track. Swift’s second single of 2026, the track is part of Swift’s deluxe reissue, The Life of a Showgirl: The Encore. Swift expands on the album’s glamorous sound with… Read More ",
-                "next": "If you wanna party with somebody who might know"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 2,
-                "prev": "“Patient Zero” is a melodic pop-driven track. Swift’s second single of 2026, the track is part of Swift’s deluxe reissue, The Life of a Showgirl: The Encore. Swift expands on the album’s glamorous sound with… Read More ",
-                "this": "If you wanna party with somebody who might know",
-                "next": "About the devil on his shoulder under his halo"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 3,
-                "prev": "If you wanna party with somebody who might know",
-                "this": "About the devil on his shoulder under his halo",
-                "next": "When the toxins take their hold, you'd rather die than let it go"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 4,
-                "prev": "About the devil on his shoulder under his halo",
-                "this": "When the toxins take their hold, you'd rather die than let it go",
-                "next": "But if you’re sick of him, I got you, I was patient zero"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 5,
-                "prev": "When the toxins take their hold, you'd rather die than let it go",
-                "this": "But if you’re sick of him, I got you, I was patient zero",
-                "next": "I've gotta be honest, I've been expecting your call"
-            },
-            {
-                "section": "[Verse 1]",
-                "num": 6,
-                "prev": "But if you’re sick of him, I got you, I was patient zero",
-                "this": "I've gotta be honest, I've been expecting your call",
-                "next": "No, it’s not a bad time at all"
-            },
-            {
-                "section": "[Verse 1]",
-                "num": 7,
-                "prev": "I've gotta be honest, I've been expecting your call",
-                "this": "No, it’s not a bad time at all",
-                "next": "I heard somebody saying there's trouble in paradise"
-            },
-            {
-                "section": "[Verse 1]",
-                "num": 8,
-                "prev": "No, it’s not a bad time at all",
-                "this": "I heard somebody saying there's trouble in paradise",
-                "next": "And my lips are sealed tight now"
-            },
-            {
-                "section": "[Verse 1]",
-                "num": 9,
-                "prev": "I heard somebody saying there's trouble in paradise",
-                "this": "And my lips are sealed tight now",
-                "next": "It's not for me to tell"
-            },
-            {
-                "section": "[Pre-Chorus]",
-                "num": 10,
-                "prev": "And my lips are sealed tight now",
-                "this": "It's not for me to tell",
-                "next": "Someone else what to do"
-            },
-            {
-                "section": "[Pre-Chorus]",
-                "num": 11,
-                "prev": "It's not for me to tell",
-                "this": "Someone else what to do",
-                "next": "But if you wanna party with somebody who might know"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 12,
-                "prev": "Someone else what to do",
-                "this": "But if you wanna party with somebody who might know",
-                "next": "About the devil on his shoulder under his halo"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 13,
-                "prev": "But if you wanna party with somebody who might know",
-                "this": "About the devil on his shoulder under his halo",
-                "next": "When the toxins take their hold, you'd rather die than let it go"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 14,
-                "prev": "About the devil on his shoulder under his halo",
-                "this": "When the toxins take their hold, you'd rather die than let it go",
-                "next": "But if you're sick of him, I got you, I was patient zero"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 15,
-                "prev": "When the toxins take their hold, you'd rather die than let it go",
-                "this": "But if you're sick of him, I got you, I was patient zero",
-                "next": "I bet he burst into your life like fireworks"
-            },
-            {
-                "section": "[Verse 2]",
-                "num": 16,
-                "prev": "But if you're sick of him, I got you, I was patient zero",
-                "this": "I bet he burst into your life like fireworks",
-                "next": "I bet he even said \"I love you\" first"
-            },
-            {
-                "section": "[Verse 2]",
-                "num": 17,
-                "prev": "I bet he burst into your life like fireworks",
-                "this": "I bet he even said \"I love you\" first",
-                "next": "And when you saw another woman coming out of his place"
-            },
-            {
-                "section": "[Verse 2]",
-                "num": 18,
-                "prev": "I bet he even said \"I love you\" first",
-                "this": "And when you saw another woman coming out of his place",
-                "next": "I bet he kissed the rain off your face"
-            },
-            {
-                "section": "[Verse 2]",
-                "num": 19,
-                "prev": "And when you saw another woman coming out of his place",
-                "this": "I bet he kissed the rain off your face",
-                "next": "Now he seems bored by you"
-            },
-            {
-                "section": "[Pre-Chorus]",
-                "num": 20,
-                "prev": "I bet he kissed the rain off your face",
-                "this": "Now he seems bored by you",
-                "next": "And you don't know what to do"
-            },
-            {
-                "section": "[Pre-Chorus]",
-                "num": 21,
-                "prev": "Now he seems bored by you",
-                "this": "And you don't know what to do",
-                "next": "But if you wanna party with somebody who might know"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 22,
-                "prev": "And you don't know what to do",
-                "this": "But if you wanna party with somebody who might know",
-                "next": "About the devil on his shoulder under his halo"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 23,
-                "prev": "But if you wanna party with somebody who might know",
-                "this": "About the devil on his shoulder under his halo",
-                "next": "When the toxins take their hold, you'd rather die than let it go"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 24,
-                "prev": "About the devil on his shoulder under his halo",
-                "this": "When the toxins take their hold, you'd rather die than let it go",
-                "next": "But if you're sick of him, I got you, I was patient zero (I was patient)"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 25,
-                "prev": "When the toxins take their hold, you'd rather die than let it go",
-                "this": "But if you're sick of him, I got you, I was patient zero (I was patient)",
-                "next": "I was patient zero"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 26,
-                "prev": "But if you're sick of him, I got you, I was patient zero (I was patient)",
-                "this": "I was patient zero",
-                "next": "So let’s get into it"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 27,
-                "prev": "I was patient zero",
-                "this": "So let’s get into it",
-                "next": "I know he charmed your family and friends"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 28,
-                "prev": "So let’s get into it",
-                "this": "I know he charmed your family and friends",
-                "next": "And you thought it’s 'cause he loves you"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 29,
-                "prev": "I know he charmed your family and friends",
-                "this": "And you thought it’s 'cause he loves you",
-                "next": "But it’s 'cause he loves how everybody else loves him (Uh-huh)"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 30,
-                "prev": "And you thought it’s 'cause he loves you",
-                "this": "But it’s 'cause he loves how everybody else loves him (Uh-huh)",
-                "next": "I know it seems like he shines so bright"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 31,
-                "prev": "But it’s 'cause he loves how everybody else loves him (Uh-huh)",
-                "this": "I know it seems like he shines so bright",
-                "next": "But he's bathing in your reflected light"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 32,
-                "prev": "I know it seems like he shines so bright",
-                "this": "But he's bathing in your reflected light",
-                "next": "On a free solo social climb (Uh-huh)"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 33,
-                "prev": "But he's bathing in your reflected light",
-                "this": "On a free solo social climb (Uh-huh)",
-                "next": "Take it from somebody who lost his games but won the race"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 34,
-                "prev": "On a free solo social climb (Uh-huh)",
-                "this": "Take it from somebody who lost his games but won the race",
-                "next": "Take it from someone who said all of this to his face"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 35,
-                "prev": "Take it from somebody who lost his games but won the race",
-                "this": "Take it from someone who said all of this to his face",
-                "next": "Someone who knows she's more than just the chase"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 36,
-                "prev": "Take it from someone who said all of this to his face",
-                "this": "Someone who knows she's more than just the chase",
-                "next": "Someone who had him and walked away"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 37,
-                "prev": "Someone who knows she's more than just the chase",
-                "this": "Someone who had him and walked away",
-                "next": "And so"
-            },
-            {
-                "section": "[Bridge]",
-                "num": 38,
-                "prev": "Someone who had him and walked away",
-                "this": "And so",
-                "next": "If you wanna party with somebody who might know"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 39,
-                "prev": "And so",
-                "this": "If you wanna party with somebody who might know",
-                "next": "About the devil on his shoulder under his halo"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 40,
-                "prev": "If you wanna party with somebody who might know",
-                "this": "About the devil on his shoulder under his halo",
-                "next": "And when the toxins take their hold, you’d rather die than let it go"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 41,
-                "prev": "About the devil on his shoulder under his halo",
-                "this": "And when the toxins take their hold, you’d rather die than let it go",
-                "next": "But if you're sick of him, I got you, I was patient zero"
-            },
-            {
-                "section": "[Chorus]",
-                "num": 42,
-                "prev": "And when the toxins take their hold, you’d rather die than let it go",
-                "this": "But if you're sick of him, I got you, I was patient zero",
-                "next": "So if you wanna kick it, then I'm with it, I've been there"
-            },
-            {
-                "section": "[Outro]",
-                "num": 43,
-                "prev": "But if you're sick of him, I got you, I was patient zero",
-                "this": "So if you wanna kick it, then I'm with it, I've been there",
-                "next": "Felt the reeling, done the healing, said the curses and prayers"
-            },
-            {
-                "section": "[Outro]",
-                "num": 44,
-                "prev": "So if you wanna kick it, then I'm with it, I've been there",
-                "this": "Felt the reeling, done the healing, said the curses and prayers",
-                "next": "When the fever turns a dreamer into a pathetic ghost"
-            },
-            {
-                "section": "[Outro]",
-                "num": 45,
-                "prev": "Felt the reeling, done the healing, said the curses and prayers",
-                "this": "When the fever turns a dreamer into a pathetic ghost",
-                "next": "If he's killing you, I see you, I was patient zero"
-            },
-            {
-                "section": "[Outro]",
-                "num": 46,
-                "prev": "When the fever turns a dreamer into a pathetic ghost",
-                "this": "If he's killing you, I see you, I was patient zero",
                 "next": ""
             }
         ]
